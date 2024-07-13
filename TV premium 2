@@ -5118,6 +5118,26 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO",Astro SuperSport 4
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZMr2XIv.png" group-title="ASTRO", ASTRO SUPERSPORT HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://m3u-editor.com/serve/c4cc06a0-8ccf-11ec-b8f0-5bbb7c35c66d/779652960
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/1722
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Nh342jx.png" group-title="ASTRO", ASTRO SUPERSPORT 2 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://m3u-editor.com/serve/c4cc06a0-8ccf-11ec-b8f0-5bbb7c35c66d/779652961
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/1721
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WL0kdxI.png" group-title="ASTRO", ASTRO SUPERSPORT 3 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://m3u-editor.com/serve/c4cc06a0-8ccf-11ec-b8f0-5bbb7c35c66d/779652962
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/1720
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CEWYmiK.png" group-title="ASTRO", ASTRO SUPERSPORT 4 HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#https://m3u-editor.com/serve/c4cc06a0-8ccf-11ec-b8f0-5bbb7c35c66d/779652963
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/1719
+
 
 =================INTECHMEDIA==================================
 
