@@ -6188,14 +6188,14 @@ https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Moz
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-========================BEIN SPORTS=====================================
+========================BEINSPORTS=====================================
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BEINSPORTS", BEIN 1 ID
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQl2V.png" group-title="BEINSPORTS", BEIN 1 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="BEINSPORTS", BEIN 3 ID
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQl2V.png" group-title="BEINSPORTS", BEIN 3 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
