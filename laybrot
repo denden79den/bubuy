@@ -218,34 +218,71 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165091
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | NASIONAL 2",NUSANTARA TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166410
 
+================================NASIONAL 3=======================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="02. TV | NASIONAL 3",Indosiar
-http://15.235.144.67:35461/654321/123456/595
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="02. TV | NASIONAL 3",INDOSIAR(a)
-http://15.235.144.67:35461/654321/123456/4802
-#EXTINF:-1 tvg-id="" tvg-name="SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="02. TV | NASIONAL 3",SCTV(a)
-http://15.235.144.67:35461/654321/123456/2184
-#EXTINF:-1 tvg-id="" tvg-name="RCTI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="02. TV | NASIONAL 3",RCTI id 8k
-http://15.235.144.67:35461/654321/123456/2185
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="02. TV | NASIONAL 3",MNC TV id 8k
-http://15.235.144.67:35461/654321/123456/2175
-#EXTINF:-1 tvg-id="" tvg-name="Net. TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="02. TV | NASIONAL 3",Net. TV id 8k
-http://15.235.144.67:35461/654321/123456/2186
-#EXTINF:-1 tvg-id="" tvg-name="Trans TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="02. TV | NASIONAL 3",Trans TV id 8k
-http://15.235.144.67:35461/654321/123456/2183
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7 id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="02. TV | NASIONAL 3",Trans 7 id 8k
-http://15.235.144.67:35461/654321/123456/2182
-#EXTINF:-1 tvg-id="" tvg-name="TV One id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="02. TV | NASIONAL 3",TV One id 8k
-http://15.235.144.67:35461/654321/123456/2181
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="02. TV | NASIONAL 3",Metro TV id 8k
-http://15.235.144.67:35461/654321/123456/2180
-#EXTINF:-1 tvg-id="" tvg-name="Kompas TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="02. TV | NASIONAL 3",Kompas TV id 8k
-http://15.235.144.67:35461/654321/123456/2179
-#EXTINF:-1 tvg-id="" tvg-name="JakTV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="02. TV | NASIONAL 3",JakTV id 8k
-http://15.235.144.67:35461/654321/123456/2166
-#EXTINF:-1 tvg-id="" tvg-name="JTV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="02. TV | NASIONAL 3",JTV id 8k
-http://15.235.144.67:35461/654321/123456/2165
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="1" tvg-id="171912" tvg-name="TRANS 7" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__41YjYRYl1Rgg7w_Hjqds7.png" group-title="02. TV | NASIONAL 3",TRANS 7 HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHxfjGy1rTVLOBfJQJwQ0nG
+#EXTINF:-1 xui-id="2" tvg-id="11695" tvg-name="TRANS TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-EALYMZlvZ0UkpKiRj079h.png" group-title="02. TV | NASIONAL 3",TRANS TV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF-hlsfS10fHGVbZe-7U-35
+#EXTINF:-1 xui-id="3" tvg-id="171847" tvg-name="INDOSIAR" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="02. TV | NASIONAL 3",INDOSIAR HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH_CCeaUiEtL579pxQQMpQP
+#EXTINF:-1 xui-id="4" tvg-id="171854" tvg-name="SCTV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-4KMZzWvWuJmtUXX_Pykft.png" group-title="02. TV | NASIONAL 3",SCTV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF03Gl-n7DGhPYlZqbpRa7H
+#EXTINF:-1 xui-id="5" tvg-id="171892" tvg-name="RCTI" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="02. TV | NASIONAL 3",RCTI HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+#EXTINF:-1 xui-id="6" tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9v9MWDJyTNnNeOTP4Dh-72.png" group-title="02. TV | NASIONAL 3",MNC TV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHIG9vZ6DBBWCXJknqq3AvJ
+#EXTINF:-1 xui-id="7" tvg-id="171947" tvg-name="GTV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-_W8ecdRUSHxYbxtdS7gSd.png" group-title="02. TV | NASIONAL 3",GTV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHnGOe5vSoeAmKlXiDbl8TA
+#EXTINF:-1 xui-id="8" tvg-id="171931" tvg-name="iNEWS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8FUWejrZ49wRlp4xJQJfeI.png" group-title="02. TV | NASIONAL 3",iNEWS HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF4nnuIcLP_W1Fz57nKrLB8
+#EXTINF:-1 xui-id="9" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8WU9jCdVnmlafq6fxtKhIP.png" group-title="02. TV | NASIONAL 3",ANTV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH9n6dZTxGtp3QR3X0e64_v
+#EXTINF:-1 xui-id="10" tvg-id="11691" tvg-name="TV ONE" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_92MGjTjupGNOsPUiN2rLYF.png" group-title="02. TV | NASIONAL 3",TV ONE HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHYc-k8tVgPnqChMsFXkyYq
+#EXTINF:-1 xui-id="11" tvg-id="411915" tvg-name="NET TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8Kivl2SNgnx8ScKbVapQev.png" group-title="02. TV | NASIONAL 3",MD TV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEfHybECBgXEfDUHJk9PyZz
+#EXTINF:-1 xui-id="12" tvg-id="171942" tvg-name="METRO TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png" group-title="02. TV | NASIONAL 3",METRO TV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHLvBSOOVFSSqroIP2kw6Uw
+#EXTINF:-1 xui-id="13" tvg-id="171891" tvg-name="KOMPAS TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9mo5Y9Ej8B1PbkVn2qUBu4.png" group-title="02. TV | NASIONAL 3",KOMPAS TV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dESwgwxA9ygPGaQuzIEQV_D
+#EXTINF:-1 xui-id="14" tvg-id="412011" tvg-name="RTV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__5KekXvtVqsPZknC4JAgkt.png" group-title="02. TV | NASIONAL 3",RTV HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEefj2Vg5ZsYceR-YnusE3B
+#EXTINF:-1 xui-id="15" tvg-id="172011" tvg-name="TVRI" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__NCjhM1De5wZnpDwaMeshP.png" group-title="02. TV | NASIONAL 3",TVRI HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEv1WWhWgd8fEDeIcYAP3g_
+#EXTINF:-1 xui-id="16" tvg-id="BeritaSatuNewsChannel.id" tvg-name="BERITA SATU" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-A0Dncino4MaNHMbLM-FvcLoUTQGpXwKZwZM5GpzLeTg.png" group-title="02. TV | NASIONAL 3",BERITA SATU
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGLqBVy7_1duxmTt7oskylx
+#EXTINF:-1 xui-id="2661" tvg-id="" tvg-name="TRANS 7 NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__41YjYRYl1Rgg7w_Hjqds7.png" group-title="02. TV | NASIONAL 3",TRANS 7 NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHFp_OSrAgfKsc-UdtMUZVJ
+#EXTINF:-1 xui-id="2662" tvg-id="" tvg-name="TRANS TV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-EALYMZlvZ0UkpKiRj079h.png" group-title="02. TV | NASIONAL 3",TRANS TV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFhVvAX76XuOFnLIJIQd4ud
+#EXTINF:-1 xui-id="2663" tvg-id="" tvg-name="INDOSIAR NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="02. TV | NASIONAL 3",INDOSIAR NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHL2qu3iKFAldCN3MIgFnge
+#EXTINF:-1 xui-id="2664" tvg-id="" tvg-name="SCTV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-4KMZzWvWuJmtUXX_Pykft.png" group-title="02. TV | NASIONAL 3",SCTV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dE-fY0lgCZSyw1TldJph6EM
+#EXTINF:-1 xui-id="2666" tvg-id="" tvg-name="MNC TV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9v9MWDJyTNnNeOTP4Dh-72.png" group-title="02. TV | NASIONAL 3",MNC TV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH-hUT7atmXYPqbKDGA4Vwc
+#EXTINF:-1 xui-id="2667" tvg-id="" tvg-name="GTV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-_W8ecdRUSHxYbxtdS7gSd.png" group-title="02. TV | NASIONAL 3",GTV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFtF3VIdNdutEAhR_NoIqoL
+#EXTINF:-1 xui-id="2668" tvg-id="" tvg-name="iNEWS NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8FUWejrZ49wRlp4xJQJfeI.png" group-title="02. TV | NASIONAL 3",iNEWS NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGbGvjIUn4LsI2ZLew7OGbf
+#EXTINF:-1 xui-id="2669" tvg-id="" tvg-name="ANTV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8WU9jCdVnmlafq6fxtKhIP.png" group-title="02. TV | NASIONAL 3",ANTV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEEIrzWFpm0Gsr167sH2DA8
+#EXTINF:-1 xui-id="2670" tvg-id="" tvg-name="TV ONE NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_92MGjTjupGNOsPUiN2rLYF.png" group-title="02. TV | NASIONAL 3",TV ONE NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEHBX2vr0vsPT4fXgiY0vtN
+#EXTINF:-1 xui-id="2671" tvg-id="" tvg-name="NET TV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8Kivl2SNgnx8ScKbVapQev.png" group-title="02. TV | NASIONAL 3",NET TV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGjDCc30II1qwVxiMc_VfV4
+#EXTINF:-1 xui-id="2672" tvg-id="" tvg-name="METRO TV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png" group-title="02. TV | NASIONAL 3",METRO TV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGowmaFkaKMgmhF_bN8kj7f
+#EXTINF:-1 xui-id="2673" tvg-id="" tvg-name="KOMPAS TV NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9mo5Y9Ej8B1PbkVn2qUBu4.png" group-title="02. TV | NASIONAL 3",KOMPAS TV NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEaI6_qTptCc71VR8ioMbdE
+#EXTINF:-1 xui-id="9507" tvg-id="" tvg-name="RCTI NS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="02. TV | NASIONAL 3",RCTI NS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFj0uwerKtEsbEL2ZFk10cB
 
+
+==============================HIBURAN=======================================
 
 
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="03. TV | HIBURAN",Vision Prime
