@@ -1271,13 +1271,13 @@ https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dH
 https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 01
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 01
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 02
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 02
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 03
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 03
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 04
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="09. FILM | BIOSKOP",ETV BIOSKOP 04
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 
