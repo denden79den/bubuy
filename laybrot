@@ -1044,6 +1044,8 @@ https://mantul.biz.id:443/user010223/user010223/28138.ts
 
 
 
+======================================FILM BOX OFFICE============================================
+
 
 #EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title="09. FILM | BOX OFFICE",Cinemchi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1198,6 +1200,130 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Ref
 
 #EXTINF:-1 group-title="09. FILM | BOX OFFICE" tvg-id="KBS World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://sandymcintosh.info/wp-content/uploads/2019/05/photo.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+
+
+===================================FILM MOVIE==============================================================
+
+
+#EXTINF:-1 xui-id="17" tvg-id="408473" tvg-name="HBO" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk31aSIIc4QRx2nGqe-Ar67r.png" group-title="09. FILM | MOVIE",HBO
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGXlaPWCvD1g6Jc_gBbyNNM
+#EXTINF:-1 xui-id="18" tvg-id="408470" tvg-name="HBO HITS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1mG65bm-bnPGLw_6bBwmxJ.png" group-title="09. FILM | MOVIE",HBO HITS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHq1Ymiwop5KQCumL2H2m1m
+#EXTINF:-1 xui-id="19" tvg-id="408474" tvg-name="HBO SIGN" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk17GEew1ydNrFhphLtPF5z-.png" group-title="09. FILM | MOVIE",HBO SIGN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFIlZ2nAvhGCW6mJ9hHKJu1
+#EXTINF:-1 xui-id="20" tvg-id="408476" tvg-name="HBO FAMILY" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3aNYMUxOQtvIuNXCC5K_z7qHD0zQ9sUSwWE6CAJOkKVg.png" group-title="09. FILM | MOVIE",HBO FAMILY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHGdkfMmidPhke7UvfITZ4u
+#EXTINF:-1 xui-id="21" tvg-id="408472" tvg-name="CINEMAX" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1NnNZSQOKF_jyq59mwA130.png" group-title="09. FILM | MOVIE",CINEMAX
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFvv5FCPdmemDQXW5qKRNIP
+#EXTINF:-1 xui-id="22" tvg-id="411967" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3evLbGIY9QCWI_esytu3xiP8arJ1K1dGCDbnsmUJtCxw.png" group-title="09. FILM | MOVIE",BIOSKOP INDONESIA HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHvdQWwGejk7GWMVjKpoJPB
+#EXTINF:-1 xui-id="23" tvg-id="412001" tvg-name="FLIK" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3S14WfbIlNLTOL5O9hIlMQ.png" group-title="09. FILM | MOVIE",FLIK
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEwTg8ZFg-iB1dygbSxjaI4
+#EXTINF:-1 xui-id="24" tvg-id="171980" tvg-name="IMC" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk0dN903ZNwQKvTC0ssF2KOo.png" group-title="09. FILM | MOVIE",IMC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGInIfs81dgj9xY8aNhZnc0
+#EXTINF:-1 xui-id="25" tvg-id="411925" tvg-name="WARNER TV" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3yCldRVS86QpUDtcLebF1w.png" group-title="09. FILM | MOVIE",WARNER TV
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHMHMpFeyL8Bsh7tsu3pjyw
+#EXTINF:-1 xui-id="26" tvg-id="171856" tvg-name="CCM" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk0ocPNVqT4CZyzHY5LOrxu0.png" group-title="09. FILM | MOVIE",CCM
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEzK_eQPZgbm2tw1n9JgoHZ
+#EXTINF:-1 xui-id="27" tvg-id="171999" tvg-name="CELESTIAL MOVIES" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk22CcxrQqVUiAb1uqGzrLzZpWJ8E9A_RLN1du7c0hUOTA.png" group-title="09. FILM | MOVIE",CELESTIAL MOVIES
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFLMfvsCrEN3gFPasAlMSc3
+#EXTINF:-1 xui-id="28" tvg-id="171851" tvg-name="ZEE BIOSKOP" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2mtWuZTt1GR-qOPVX8zB7a6xwS-gOjt6mUcyt-UYAbaQ.png" group-title="09. FILM | MOVIE",ZEE BIOSKOP
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHKBfIjycdusC8Pm8UqpXER
+#EXTINF:-1 xui-id="29" tvg-id="171977" tvg-name="ROCK ACTION" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2lrxxtA2Ax9QblMgj3efkY80HHQGFDoYGF-bZJLGH5JQ.png" group-title="09. FILM | MOVIE",ROCK ACTION
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGqH7gt3YdBnLGeyrklT2A6
+#EXTINF:-1 xui-id="30" tvg-id="171887" tvg-name="AXN" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1KdqxnBMmjSQfvdCaKGtls.png" group-title="09. FILM | MOVIE",AXN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFha-rkWUD8D0h7yxqAVciw
+#EXTINF:-1 xui-id="31" tvg-id="171877" tvg-name="KIX" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2p4FC2_22yCRZt6zNZyGME.png" group-title="09. FILM | MOVIE",KIX
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGVEeMrFmxfY6kyHI8Y0Dx0
+#EXTINF:-1 xui-id="32" tvg-id="171864" tvg-name="THRILL" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2zQYymv5PYyBZLp6RPocvp.png" group-title="09. FILM | MOVIE",THRILL
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF5lk6UThSD6nikACVNo7g4
+#EXTINF:-1 xui-id="33" tvg-id="171850" tvg-name="TvN MOVIE" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk0dSQLDgDC-lPTvjR47GL2l0VXVlGOi1-1zv0S-zXZQdg.png" group-title="09. FILM | MOVIE",TvN MOVIE
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFpyW9Cd6ufFa8B8eGc6C4T
+#EXTINF:-1 xui-id="34" tvg-id="171982" tvg-name="GALAXY" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2o2WZeLdxqK_2w862VysHW.png" group-title="09. FILM | MOVIE",GALAXY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEjRb73mtt5GhBo606pE64X
+#EXTINF:-1 xui-id="35" tvg-id="171853" tvg-name="GALAXY PREMIUM" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk0HByIxynirPRA0I-5XnKpO6VZFcEkaRag0NsU83L22FQ.png" group-title="09. FILM | MOVIE",GALAXY PREMIUM
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF37HffiLpzEBI927yvIhp-
+#EXTINF:-1 xui-id="36" tvg-id="411999" tvg-name="CINEMA WORLD" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk3u937Lb8vLXlRYs8t2EbJdqe6UfIQztQyyDNLXqUyfVA.png" group-title="09. FILM | MOVIE",CINEMA WORLD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEBW50xPjLV_f2qxi2IVloE
+#EXTINF:-1 xui-id="37" tvg-id="171990" tvg-name="HITS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk0a0oQwZLtoeNP7laaszwEa.png" group-title="09. FILM | MOVIE",HITS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFmHYH2FG_JlpuBcxJVXxld
+#EXTINF:-1 xui-id="38" tvg-id="171967" tvg-name="HITS MOVIES" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2AvCAdPSgnfv6JI-dCn5SNsGLC2pWsUPDAc0-gFQLn2A.png" group-title="09. FILM | MOVIE",HITS MOVIES
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dESshrGBYNOXoRmuZF_9id3
+#EXTINF:-1 xui-id="39" tvg-id="412012" tvg-name="ORIGINALS" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3mj1I0TSgtLnP9r1Tq6am2YcAftDzM2xKWAIg1gcaMWzon696pqUXmm4x1YupRrSlw.png" group-title="09. FILM | MOVIE",ORIGINALS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGqq4trZtFo4KGOm1R_JAG1
+#EXTINF:-1 xui-id="40" tvg-id="411923" tvg-name="CINEEDGE" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3mj1I0TSgtLnP9r1Tq6am2ZIq-UPoOB9KyPx4Go_y2DHqr2HKg1sU0dozNhQUkS04A.png" group-title="09. FILM | MOVIE",CINEEDGE
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFjA_k4PVR4LevVcKXaucXS
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="SUPERRIX" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3mj1I0TSgtLnP9r1Tq6am2b1tAi17bm8nT0Vh0_C2uZTW7vQVa80l7oMHnWPL512AA.png" group-title="09. FILM | MOVIE",SUPERRIX
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHmkAK77OUgMf_76CvLCNdH
+#EXTINF:-1 xui-id="42" tvg-id="411982" tvg-name="UNIQUES" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3mj1I0TSgtLnP9r1Tq6am2Yd0zVnnCeGtO9dDPlKBgKUuymV-A7lSecObeBUPQ6B2g.png" group-title="09. FILM | MOVIE",UNIQUES
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFyDzruyTNvlBUcG-X1Ezk-
+#EXTINF:-1 xui-id="43" tvg-id="171911" tvg-name="My CINEMA" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk37MiMToYKnD0nAww-D74A7jpb10qqmnsk_c1005pEZwg.png" group-title="09. FILM | MOVIE",My CINEMA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEBDSKdtAJ8izHDsCGiWdna
+#EXTINF:-1 xui-id="44" tvg-id="171873" tvg-name="My CINEMA Asia" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk1pswCrsHJxvLI0r9qxjV-8aDZfA6LyPG5AQlisnkwL4w.png" group-title="09. FILM | MOVIE",My CINEMA Asia
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0O-ioWT51eXZVK4yeqNYL
+#EXTINF:-1 xui-id="45" tvg-id="171996" tvg-name="My FAMILY Channel" tvg-logo="https://cdn.streamplay.cyou:443/images/JINxDjeXVgNDONUMwYmo3qz4y746uJboX6JXtEBlbk2MMmMKN9valJgdaQ7p-dyhnAkoEIAbg83oxRESnZepJg.png" group-title="09. FILM | MOVIE",My FAMILY Channel
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEN4YPj5IeIcRvl-KYC4_sJ
+
+
+=================================BIOSKOP 24/7=================================================
+
+
+#EXTINF:-1 xui-id="2543" tvg-id="" tvg-name="BIOSKOP BOLLYWOOD" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",BIOSKOP BOLLYWOOD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEEc1FhOivtrsZngBn_XIoR
+#EXTINF:-1 xui-id="2544" tvg-id="" tvg-name="BIOSKOP ACTION" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",BIOSKOP ACTION
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFd1HYh_K9-raIJpe-Bv7Li
+#EXTINF:-1 xui-id="2611" tvg-id="" tvg-name="WARKOP DKI" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",WARKOP DKI
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEiNimoalQfCO_a0pIKd_nx
+#EXTINF:-1 xui-id="2633" tvg-id="" tvg-name="BIOSKOP CHINA" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",BIOSKOP CHINA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHQXbFPmX3fNFFN4CSoPeFT
+#EXTINF:-1 xui-id="2676" tvg-id="" tvg-name="BIOSKOP HORROR" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",BIOSKOP HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFF-VL9geeiI3bZRFyK93ib
+#EXTINF:-1 xui-id="9315" tvg-id="" tvg-name="INDONESIA" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",INDONESIA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHPAViFW2SxboitxKl_cQV3
+#EXTINF:-1 xui-id="9316" tvg-id="" tvg-name="INDO HORROR" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="09. FILM | BIOSKOP",INDO HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
+
+
+
+=======================================BOX-OFFICE 24/7================================================
+
+
+#EXTINF:-1 xui-id="11118" tvg-id="" tvg-name="SPIDER MAN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",SPIDER MAN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHWcvTrh9aLGrY773_kUhmy
+#EXTINF:-1 xui-id="11119" tvg-id="" tvg-name="IP MAN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",IP MAN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHfvFEamwC5AY7uAaJm42q4
+#EXTINF:-1 xui-id="11120" tvg-id="" tvg-name="JURASSIC PARK" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",JURASSIC PARK
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGLOXq3W1aYszySbXYgOU28
+#EXTINF:-1 xui-id="11121" tvg-id="" tvg-name="FAST AND THE FURIOUS" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",FAST AND THE FURIOUS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFl_SEG99GUdNKFFZguvbIj
+#EXTINF:-1 xui-id="11122" tvg-id="" tvg-name="THE MUMMY" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",THE MUMMY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHR98hQZHiaxaeJpdtEwXlq
+#EXTINF:-1 xui-id="11123" tvg-id="" tvg-name="JUMANJI" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",JUMANJI
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dECnbwGip0iMQzbTRVhzvD6
+#EXTINF:-1 xui-id="11124" tvg-id="" tvg-name="THE NUN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",THE NUN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHv-DqZnm9acrrMJIDeLn7d
+#EXTINF:-1 xui-id="11125" tvg-id="" tvg-name="INDIANA JONES" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",INDIANA JONES
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHRaw1gPJ3rIFL9u9cpO39Q
+#EXTINF:-1 xui-id="11126" tvg-id="" tvg-name="THE TERMINATOR" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",THE TERMINATOR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dETeqZ9dCumPaWF28cetVjo
+#EXTINF:-1 xui-id="11127" tvg-id="" tvg-name="RESIDENT EVIL" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",RESIDENT EVIL
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEg7lrnnWuMeMgCgLlu4hDf
+#EXTINF:-1 xui-id="11128" tvg-id="" tvg-name="RAMBO" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",RAMBO
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGOpqySH1W1ukSa2XDcJs2i
+#EXTINF:-1 xui-id="11129" tvg-id="" tvg-name="THE CONJURING" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",THE CONJURING
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEMYgv1GU5DvSXlm61Y4WgU
+#EXTINF:-1 xui-id="11130" tvg-id="" tvg-name="HARRY POTTER" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",HARRY POTTER
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEKpcgxnc3fA4KJrfCBxeRp
+#EXTINF:-1 xui-id="11131" tvg-id="" tvg-name="DIE HARD" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",DIE HARD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEUM9oL8TGujhZALuVRDcV8
+#EXTINF:-1 xui-id="11132" tvg-id="" tvg-name="ICE AGE" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",ICE AGE
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGAL77rMf-q_IX1yb0f2ty1
+#EXTINF:-1 xui-id="11133" tvg-id="" tvg-name="BLUES MUSIC" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",BLUES MUSIC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFZFsLQrnPgRtcIdKJlm8XP
+#EXTINF:-1 xui-id="11134" tvg-id="" tvg-name="REGGAE MUSIC" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="09. FILM | BOX-OFFICE 24/7",REGGAE MUSIC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFNQq8MfIRSHBR_2fzeFVpB
+
 
 
 =========================================================Vision+===============================================
