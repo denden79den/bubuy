@@ -232,6 +232,44 @@ http://www.geocities.ws/wahyuiptv/AstroWarna.m3u8
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 
+=====================================FILM INDONESIA=======================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="04. FILM | Indonesia",Bioskop Indonesia
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+
+#EXTINF:-1 tvg-id="" tvg-name="CITRA DRAMA" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="04. FILM | Indonesia",Citra Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="04. FILM | Indonesia",Citra Entertainment
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="04. FILM | Indonesia",IMC
+#https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7H4bHESJlD2RtAAebhClZZX0l47tB42AQTw&usqp=CAU" group-title="04. FILM | Indonesia",FLIK
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
+
+#EXTINF:-1 tvg-id="" tvg-name="MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="04. FILM | Indonesia",Maxstream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="04. FILM | Indonesia",Vision Prime
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+
 
 ============================================================================================================================================================
 // 04. Premium TV
