@@ -61,9 +61,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-
-
-
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="01. TV | NASIONAL" tvg-logo="https://iili.io/JMp3ZUG.png",Trans TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -80,8 +77,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="01. TV | NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -183,76 +178,44 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. TV | NASIONAL 2",RCTI
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73606.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. TV | NASIONAL 2",RCTI 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | NASIONAL 2",MNCTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73616.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | NASIONAL 2",MNCTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. TV | NASIONAL 2",GTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73619.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. TV | NASIONAL 2",GTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. TV | NASIONAL 2",SCTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73607.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. TV | NASIONAL 2",SCTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162141
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | NASIONAL 2",INDOSIAR
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | NASIONAL 2",INDOSIAR 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | NASIONAL 2",Moji TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. TV | NASIONAL 2",TRANS7HD
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73609.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. TV | NASIONAL 2",TRANS7HD 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. TV | NASIONAL 2",TRANSTVHD
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73608.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. TV | NASIONAL 2",TRANSTVHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. TV | NASIONAL 2",NET TV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73615.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. TV | NASIONAL 2",NET TV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/80292
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. TV | NASIONAL 2",ANTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73618.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. TV | NASIONAL 2",ANTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. TV | NASIONAL 2",TV ONE
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73610.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. TV | NASIONAL 2",TV ONE 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266808
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. TV | NASIONAL 2",METROTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73611.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. TV | NASIONAL 2",METROTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165059
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="KOMPAS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. TV | NASIONAL 2",KOMPASTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. TV | NASIONAL 2",CNN INDONESIA
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73613.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. TV | NASIONAL 2",CNN INDONESIA 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162137
 #EXTINF:-1 tvg-id="iNewsTV" tvg-name="Inews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. TV | NASIONAL 2",Inews TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 #EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. TV | NASIONAL 2",SindoNews TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165058
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. TV | NASIONAL 2",BTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73614.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. TV | NASIONAL 2",BTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162513
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. TV | NASIONAL 2",TVRI
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73620.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. TV | NASIONAL 2",TVRI 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162504
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. TV | NASIONAL 2",JTV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. TV | NASIONAL 2",JTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165091
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | NASIONAL 2",NUSANTARA TV
-http://ktpremium.xyz:2095/live/QPP76780098/A904599/34721.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | NASIONAL 2",NUSANTARA TV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166410
 
 
