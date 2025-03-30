@@ -1026,30 +1026,30 @@ http://203.77.246.14:8001/udp/239.1.2.242:5000
 
 
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",114. Bein Sports 1
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",114. ID:Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",115. Bein Sports 2
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",115. ID:Bein Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd 
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",116. Bein Sports 3
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",116. ID:Bein Sports 3
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",117. Bein Sports 1
-http://iptv12k.com:35461/654321/123456/4800
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",117. MY :Bein Sports 1
+https://dl.dropboxusercontent.com/scl/fi/bnl0puibcfv6do96q0o3o/bein_my1.m3u8?rlkey=1e46nhcf27ii5nupxe81zjd8p
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png",118. Bein Sports 2
-http://iptv12k.com:35461/654321/123456/961
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png",118. MY:Bein Sports 2
+https://dl.dropboxusercontent.com/scl/fi/f0mlfvd3xizf8goi3odh6/bein_my2.m3u8?rlkey=znludjyid0jgd4rcg20pruota
 
-#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",119. Bein Sports 3
-http://iptv12k.com:35461/654321/123456/960
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",119. MY:Bein Sports 3
+http://iptv12k.com:35461/654321/123456/960https://dl.dropboxusercontent.com/scl/fi/sztcvxxnqr4xd59btv4de/bein_my3.m3u8?rlkey=j0tzio68tf1hor2bzieev5112
 
 #EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="09. TV | Sports",120. Astro Arena 1
 http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
@@ -1821,14 +1821,19 @@ https://dl.dropboxusercontent.com/scl/fi/6kotfvwm950nisn8fl0j4/sky-sports-footba
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="09. TV | Sports 2", CANAL+ PREMIER LEAGUE
 https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="09. TV | Sports 2", ID: BEIN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/s0bbno90lrdgvicfx3kuu/bein_id1.m3u8?rlkey=5yfp4apkr6hniufw4xh9v8x5d
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="09. TV | Sports 2", ID: BEIN SPORTS 1#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="09. TV | Sports 2", ID: BEIN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/ov027itv1m6tr19zyflsf/bein_id2.m3u8?rlkey=fmpg47q48o7z1t1bmr2i5prdt&st=s3q8ewmz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="09. TV | Sports 2", ID: BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/89pb6qve13i1cmd8tbv2m/bein_id3.m3u8?rlkey=pj90vdxcdanj6yq6q4jslz3u0
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="09. TV | Sports 2", MY: BEIN SPORTS 1
 https://dl.dropboxusercontent.com/scl/fi/bnl0puibcfv6do96q0o3o/bein_my1.m3u8?rlkey=1e46nhcf27ii5nupxe81zjd8p
