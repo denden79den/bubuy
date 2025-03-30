@@ -1092,16 +1092,10 @@ http://www.geocities.ws/wahyuiptv/AstroFootBall.m3u8
 
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="09. TV | Sports",128. Astro Sport Plus
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. TV | Sports",129. Astro Badminton
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/5220
-
-
+http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
 
 #EXTINF:-1 tvg-id="EspnDeportes" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/EspnDeportes.png" group-title="09. TV | Sports",136. ESPN Deportes
 http://line.ultrab.xyz:80/2FFC00/271506/362742
@@ -2069,4 +2063,266 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="09. TV | Sports 2",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+
+===================================SPORTS MALAYSIA=======================================
+
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA HD
+http://extraott.com:900/live/3162523972/3791698850/191853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA FHD
+http://extraott.com:900/live/3162523972/3791698850/29658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA 2 HD
+http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 FHD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/13111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA BOLA 1
+http://extraott.com:900/live/3162523972/3791698850/401550644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA BOLA 2
+http://extraott.com:900/live/3162523972/3791698850/401550643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 1 HD
+http://extraott.com:900/live/3162523972/3791698850/6590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 2 HD
+http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 3 HD
+http://extraott.com:900/live/3162523972/3791698850/6588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 4 HD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 4 HD
+http://extraott.com:900/live/3162523972/3791698850/6592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 5 HD
+http://extraott.com:900/live/3162523972/3791698850/7841.m3u8
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="MY| ASTRO CRICKET FHD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| ASTRO CRICKET FHD
+http://extraott.com:900/live/3162523972/3791698850/191861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| ASTRO CRICKET HD
+http://extraott.com:900/live/3162523972/3791698850/6587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS HD
+http://extraott.com:900/live/3162523972/3791698850/401600405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS FHD
+http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401600407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/401600420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO FOOTBALL HD
+http://extraott.com:900/live/3162523972/3791698850/401600421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO FOOTBALL FHD
+http://extraott.com:900/live/3162523972/3791698850/401600422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON HD
+http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON FHD
+http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/401600426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 HD
+http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/13132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 HD
+http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/13131.m3u8
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/191881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/13120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 HD
+http://extraott.com:900/live/3162523972/3791698850/29639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/13119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 HD
+http://extraott.com:900/live/3162523972/3791698850/29637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/13118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| EUROSPORT FHD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="SPORTS | Malaysia",MY| EUROSPORT FHD
+http://extraott.com:900/live/3162523972/3791698850/29610.m3u8
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="MY| EUROSPORT HD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="SPORTS | Malaysia",MY| EUROSPORT HD
+http://extraott.com:900/live/3162523972/3791698850/191924.m3u8
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORTS | Malaysia",MY| GOLF CHANNEL HD
+http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| PREMIER SPORTS HD" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="SPORTS | Malaysia",MY| PREMIER SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/33005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| PREMIER SPORTS FHD" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="SPORTS | Malaysia",MY| PREMIER SPORTS FHD
+http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Malaysia",MY| SONY TEN 1
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Malaysia",MY| SONY TEN 2
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Malaysia",MY| SONY TEN 3
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| W-Sport HD
+http://extraott.com:900/live/3162523972/3791698850/13026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| W-Sport FHD
+http://extraott.com:900/live/3162523972/3791698850/13027.m3u8
+
+
+
+=================================SPORTS PREMIUM=====================================
+
+
+#EXTINF:-1 group-title="SPORTS | Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 group-title="SPORTS | Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 group-title="SPORTS | Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+
+http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Premium",MY| SONY TEN 1
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Premium",MY| SONY TEN 2
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Premium",MY| SONY TEN 3
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | Premium", Astro Sports Plus
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | Premium", Astro Badminton
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS | Premium", SONY Ten 1 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29566.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="SPORTS | Premium", SONY Ten 2 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29565.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="SPORTS | Premium", SONY Ten 3 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="SPORTS | Premium", SONY Ten 5 HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS | Premium", FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS | Premium",SPORTS - HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS | Premium",SPORTS - HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS | Premium",SPORTS - HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS | Premium",SPORTS - HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS | Premium",SPORTS - HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="|RO| DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="SPORTS | Premium",|RO| DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="|RO| DIGI SPORT 2 HD RO" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="SPORTS | Premium",|RO| DIGI SPORT 2 HD RO
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u85
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="|RO| DIGI SPORT 2" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="SPORTS | Premium",|RO| DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="|RO| DIGI SPORT 3" tvg-logo="http://logo.ottcst.info/DIGISPORT3.png" group-title="SPORTS | Premium",|RO| DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="|RO| DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="SPORTS | Premium",|RO| DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT VARIETY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT VARIETY 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248275
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT VARIETY 2 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT VARIETY 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248279
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT VARIETY 3 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT VARIETY 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248280
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT VARIETY 4 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT VARIETY 4 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248281
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT PREMIER LEAGUE HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT PREMIER LEAGUE HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248283
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT LA LIGA HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT LA LIGA HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248284
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT FOOTBALL HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT FOOTBALL HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248285
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT TENNIS HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT TENNIS HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248276
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT RUGBY HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT RUGBY HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248277
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT CRICKET HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT CRICKET HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248278
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT GOLF HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT GOLF HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248287
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT MOTORSPORT HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT MOTORSPORT HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248272
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT PLAY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT PLAY 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248273
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT BLITZ HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT BLITZ HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248286
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT MAXIMO 1" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT MAXIMO 1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/248288
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT ACTION HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT ACTION HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/746900
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT PSL HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT PSL HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/746898
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎SUPERSPORT GRANDSTAND HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="SPORTS | Premium",UK ▎SUPERSPORT GRANDSTAND HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/746897
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎ASTRO SUPERSPORT HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="SPORTS | Premium",UK ▎ASTRO SUPERSPORT HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556245
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎ASTRO SUPERSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="SPORTS | Premium",UK ▎ASTRO SUPERSPORT 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556246
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎ASTRO SUPERSPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="SPORTS | Premium",UK ▎ASTRO SUPERSPORT 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556248
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎ASTRO SUPERSPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="SPORTS | Premium",UK ▎ASTRO SUPERSPORT 4 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1458912
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎TNT SPORTS 1 50FPS" tvg-logo="https://img.logo-cdn.cc/tntsports1.png" group-title="UK ▎SPORTS 50FPS",UK ▎TNT SPORTS 1 50FPS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1482565
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎TNT SPORTS 2 50FPS" tvg-logo="https://img.logo-cdn.cc/tntsports2.png" group-title="UK ▎SPORTS 50FPS",UK ▎TNT SPORTS 2 50FPS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1482566
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎TNT SPORTS 3 50FPS" tvg-logo="https://img.logo-cdn.cc/tntsports3.png" group-title="UK ▎SPORTS 50FPS",UK ▎TNT SPORTS 3 50FPS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1482567
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎TNT SPORTS 4 50FPS" tvg-logo="https://img.logo-cdn.cc/tntsports4.png" group-title="UK ▎SPORTS 50FPS",UK ▎TNT SPORTS 4 50FPS
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1482568
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HK ▎NOW SPORTS 1" tvg-logo="https://img.logo-cdn.cc/nowsports1.png" group-title="SPORTS | Premium",HK ▎NOW SPORTS 1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/691241
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735099
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735100
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 3 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735101
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 4 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 4 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735102
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 5 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 5 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735103
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 6 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 6 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735104
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 7 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 7 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735105
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 8 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 8 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735106
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 9 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 9 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735107
+#EXTINF:-1 tvg-ID="" tvg-name="US ▎FUBO SPORTS 10 HD" tvg-logo="https://img.logo-cdn.cc/fubosports.png" group-title="SPORTS | Premium",US ▎FUBO SPORTS 10 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/735108
+
+#EXTINF:-1 tvg-ID="digisport1.ro" tvg-name="RO ▎DIGI SPORT 1 HD " tvg-logo="https://img.logo-cdn.cc/digisport1.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 1 HD 
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/106839
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎DIGI SPORT 2" tvg-logo="https://img.logo-cdn.cc/digisport2.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1450994
+#EXTINF:-1 tvg-ID="digisport2.ro" tvg-name="RO ▎DIGI SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/digisport2.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/106841
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎DIGI SPORT 3" tvg-logo="https://img.logo-cdn.cc/digisport3.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 3
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1450995
+#EXTINF:-1 tvg-ID="digisport3.ro" tvg-name="RO ▎DIGI SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/digisport3.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/106842
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎DIGI SPORT 4" tvg-logo="https://img.logo-cdn.cc/digisport4.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 4
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1450996
+#EXTINF:-1 tvg-ID="digisport4.ro" tvg-name="RO ▎DIGI SPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/digisport4.png" group-title="SPORTS | Premium",RO ▎DIGI SPORT 4 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/106843
+
+#EXTINF:-1 tvg-ID="diemasport.bg" tvg-name="BG ▎DIEMA SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/diemasport.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/312439
+#EXTINF:-1 tvg-ID="diemasport.bg" tvg-name="BG ▎DIEMA SPORT" tvg-logo="https://img.logo-cdn.cc/diemasport.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/27783
+#EXTINF:-1 tvg-ID="diemasport2.bg" tvg-name="BG ▎DIEMA SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/diemasport2.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/312440
+#EXTINF:-1 tvg-ID="diemasport2.bg" tvg-name="BG ▎DIEMA SPORT 2" tvg-logo="https://img.logo-cdn.cc/diemasport2.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/27715
+#EXTINF:-1 tvg-ID="diemasport3.bg" tvg-name="BG ▎DIEMA SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/diemasport3.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/461288
+#EXTINF:-1 tvg-ID="diemasport3.bg" tvg-name="BG ▎DIEMA SPORT 3" tvg-logo="https://img.logo-cdn.cc/diemasport3.png" group-title="SPORTS | Premium",BG ▎DIEMA SPORT 3
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/715009
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎PRIMA SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/primasport1.png" group-title="SPORTS | Premium",RO ▎PRIMA SPORT 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1436449
+#EXTINF:-1 tvg-ID="" tvg-name="RO ▎PRIMA SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/primasport2.png" group-title="SPORTS | Premium",RO ▎PRIMA SPORT 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1436451
 
