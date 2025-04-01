@@ -207,63 +207,53 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 // 02. TV NASIONAL
 ============================================================================================================================================================
 
-#EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. TV | Nasional",019. RCTI Live
-http://www.geocities.ws/wahyuiptv/RCTI-HD.m3u8
+=======================================TV NASIONAL NO ACAK=======================================
 
-#EXTINF:-1 group-title="02. TV | Nasional" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
-http://www.geocities.ws/wahyuiptv/GTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | Nasional",021. MNC TV
-http://www.geocities.ws/wahyuiptv/MNCTV-HD.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. TV | Nasional",RCTI
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | Nasional",MNCTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. TV | Nasional",GTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. TV | Nasional",SCTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162141
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | Nasional",INDOSIAR
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
+#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | Nasional",Moji TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. TV | Nasional",TRANS7 
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. TV | Nasional",TRANS TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
 
-#EXTINF:-1 tvg-name="" tvg-id="Net." tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. TV | Nasional",022. Net TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Net-HD.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. TV | Nasional",NET TV
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="02. TV | Nasional" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Trans7-HD.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. TV | Nasional",ANTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
 
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="02. TV | Nasional" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",024. Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/TransTV-HD.m3u8
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. TV | Nasional",TV ONE
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266808
 
-#EXTINF:-1  tvg-id="SCTV" tvg-name="SCTV" group-title="02. TV | Nasional" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",025. ScTv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SCTV-HD.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="02. TV | Nasional" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
-http://www.geocities.ws/wahyuiptv/Indosiar-HD.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | Nasional",027. Moji TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. TV | Nasional",028. AnTv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ANTV-HD.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="02. TV | Nasional" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
-http://www.geocities.ws/wahyuiptv/TVRI-HD.m3u8
-
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="02. TV | Nasional",029. RTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="02. TV | Nasional",029. Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="02. TV | Nasional",029. Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="02. TV | Nasional",029. Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="02. TV | Nasional",029. Banten TV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. TV | Nasional",METRO TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165059
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="KOMPAS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. TV | Nasional",KOMPASTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. TV | Nasional",CNN INDONESIA 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162137
+#EXTINF:-1 tvg-id="iNewsTV" tvg-name="Inews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. TV | Nasional",Inews TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. TV | Nasional",SindoNews TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165058
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. TV | Nasional",BTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162513
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. TV | Nasional",TVRI
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162504
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. TV | Nasional",JTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165091
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | Nasional",NUSANTARA TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166410
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="02. TV | Nasional",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 
