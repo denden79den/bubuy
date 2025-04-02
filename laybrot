@@ -550,6 +550,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="04. FILM | Indonesia",Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
+#EXTINF:-1 tvg-id="Allplay" group-title="04. FILM | Indonesia" tvg-url="" tvg-logo="https://i.ibb.co.com/6KWD5xp/88d32b5e8822f73d3d394bdda25f9110-icon.jpg",Allplay
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+
 
 
 ============================================================================================================================================================
