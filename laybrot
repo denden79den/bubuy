@@ -978,6 +978,57 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="07. TV | Kids", CARTOONITO
+http://203.77.246.14:8001/udp/239.1.2.158:5000
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="07. TV | Kids", CARTOON NETWORK
+http://203.77.246.14:8001/udp/239.1.2.154:5000
+
+
+#EXTINF: -1 tvg-id="horee.macan" tvg-logo="https://i.imgur.com/0HNAnuc.png" group-title="07. TV | Kids", HOREE
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/lbg8v463pho9060ito42m/horee.m3u8?rlkey=rie3fp5s8oxqfqt9vfmhqfzbt&st=z2sqqfoc
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="07. TV | Kids", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="07. TV | Kids", DREAMWORKS
+http://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+
+#EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="07. TV | Kids", ANIPLUS
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
+
+#EXTINF:-1 group-title="07. TV | Kids" tvg-logo="https://i.imgur.com/mWGkUIg.png", ZOOMOO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+http://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="07. TV | Kids" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
+http://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="07. TV | Kids" tvg-logo="https://i.imgur.com/vuNbQde.png", CBEEBIES
+http://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF: -1 tvg-id="duniaanak.macan" tvg-logo="https://i.imgur.com/7neM4Nh.png" group-title="07. TV | Kids", DUNIA ANAK
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/nuenpxjcxbf2bjk/duniaanak.m3u8
+
 
 ========================================TV KIDS 2================================================
 
