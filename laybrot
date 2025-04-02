@@ -532,7 +532,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7H4bHESJlD2RtAAebhClZZX0l47tB42AQTw&usqp=CAU" group-title="04. FILM | Indonesia",FLIK
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
+https://dl.dropboxusercontent.com/s/6lp8jq422uilozw/flik.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="04. FILM | Indonesia",Maxstream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
