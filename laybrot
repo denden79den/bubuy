@@ -1597,17 +1597,11 @@ http://www.geocities.ws/wahyuiptv/NowHK-Sports3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png" group-title="09. TV | Sports",176. Ziggo Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png" group-title="09. TV | Sports",176. Ziggo Sport 1
+http://extraott.com:900/live/3162523972/3791698850/16819.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ziggo2.png" group-title="09. TV | Sports",177. Ziggo Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport2.m3u8
-
-
+#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://lo1.in/nl/zigspvb0.png" group-title="09. TV | Sports",177. Ziggo Sport 2
+http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="09. TV | Sports",178. Super Sport 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2535,21 +2529,21 @@ http://extraott.com:900/live/3162523972/3791698850/400200340.m3u8
 #EXTINF:-1 tvg-id="beinsports3.au" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/aust/bs3.png" group-title="SPORTS | Premium",BEIN SPORTS 3 AUS
 http://extraott.com:900/live/3162523972/3791698850/355737.m3u8
 
-#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="SPORTS | Premium",ZIGGO SPORT HD
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="SPORTS | Premium",ZIGGO SPORT
 http://extraott.com:900/live/3162523972/3791698850/16824.m3u8
-#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="ZIGGO SPORT DOCU HD" tvg-logo="https://lo1.in/nl/zigspdoo01.png" group-title="SPORTS | Premium",ZIGGO SPORT DOCU HD
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="ZIGGO SPORT DOCU HD" tvg-logo="https://lo1.in/nl/zigspdoo01.png" group-title="SPORTS | Premium",ZIGGO DOCU
 http://extraott.com:900/live/3162523972/3791698850/16823.m3u8
-#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="ZIGGO SPORT TENNIS HD" tvg-logo="https://lo1.in/nl/zigospt0.png" group-title="SPORTS | Premium",ZIGGO SPORT TENNIS HD
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="ZIGGO SPORT TENNIS HD" tvg-logo="https://lo1.in/nl/zigospt0.png" group-title="SPORTS | Premium",ZIGGO TENNIS
 http://extraott.com:900/live/3162523972/3791698850/400220446.m3u8
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="ZIGGO SPORT EXTRA HD" tvg-logo="https://lo1.in/nl/zigspex0.png" group-title="SPORTS | Premium",ZIGGO SPORT EXTRA HD
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="ZIGGO SPORT EXTRA HD" tvg-logo="https://lo1.in/nl/zigspex0.png" group-title="SPORTS | Premium",ZIGGO EXTRA
 http://extraott.com:900/live/3162523972/3791698850/16822.m3u8
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="ZIGGO SPORT GOLF HD" tvg-logo="https://lo1.in/nl/zigspgo0.png" group-title="SPORTS | Premium",ZIGGO SPORT GOLF HD
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="ZIGGO SPORT GOLF HD" tvg-logo="https://lo1.in/nl/zigspgo0.png" group-title="SPORTS | Premium",ZIGGO GOLF
 http://extraott.com:900/live/3162523972/3791698850/16821.m3u8
-#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="ZIGGO SPORT RACING HD" tvg-logo="https://lo1.in/nl/zisprz0.png" group-title="SPORTS | Premium",ZIGGO SPORT RACING HD
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="ZIGGO SPORT RACING HD" tvg-logo="https://lo1.in/nl/zisprz0.png" group-title="SPORTS | Premium",ZIGGO RACING
 http://extraott.com:900/live/3162523972/3791698850/16820.m3u8
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="ZIGGO SPORT SELECT HD" tvg-logo="https://lo1.in/nl/zigspsel0.png" group-title="SPORTS | Premium",ZIGGO SPORT SELECT HD
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="ZIGGO SPORT SELECT HD" tvg-logo="https://lo1.in/nl/zigspsel0.png" group-title="SPORTS | Premium",ZIGGO SELECT
 http://extraott.com:900/live/3162523972/3791698850/16819.m3u8
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="ZIGGO SPORT VOETBAL HD" tvg-logo="https://lo1.in/nl/zigspvb0.png" group-title="SPORTS | Premium",ZIGGO SPORT VOETBAL HD
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="ZIGGO SPORT VOETBAL HD" tvg-logo="https://lo1.in/nl/zigspvb0.png" group-title="SPORTS | Premium",ZIGGO VOETBAL
 http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
 
 
