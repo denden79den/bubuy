@@ -2052,13 +2052,10 @@ http://tv.cloudcdn.me/live.ts?channelId=93740&uid=316&deviceMac=00:1A:79:01:04:A
 http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="09. TV | Sports 2", ASTRO FOOTBALL
-#https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
-http://www.geocities.ws/wahyuiptv/AstroFootBall.m3u8
+https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="09. TV | Sports 2", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="09. TV | Sports 2", FR: BEIN SPORTS 1
 https://dl.dropboxusercontent.com/scl/fi/ddtlz2yghb3ad25lqd6wb/FR-BEIN-SPORTS-1.m3u8?rlkey=ifognos2t2vrptdj95rjku5qz
