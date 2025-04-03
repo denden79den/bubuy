@@ -1424,24 +1424,20 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 
 
 
-#EXTINF:-1 tvg-id="TNT1" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="09. TV | Sports",145. TNT Sports 1
-https://WahyuIPTV.short.gy/TNT1-HD
+#EXTINF:-1 tvg-id="TNT1" tvg-url="" tvg-logo="https://i.imgur.com/FKIqWYs.png" group-title="09. TV | Sports",145. TNT Sports 1
+https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
 
 
-
-#EXTINF:-1 tvg-id="TNT2" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="09. TV | Sports",146. TNT Sports 2
-https://WahyuIPTV.short.gy/TNT2-HD
-
+#EXTINF:-1 tvg-id="TNT2" tvg-url="" tvg-logo="https://i.imgur.com/S88QAk8" group-title="09. TV | Sports",146. TNT Sports 2
+https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
 
 
-#EXTINF:-1 tvg-id="TNT3" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="09. TV | Sports",147. TNT Sports 3
-https://WahyuIPTV.short.gy/TNT3-HD
+#EXTINF:-1 tvg-id="TNT3" tvg-url="" tvg-logo="https://i.imgur.com/eaPYjbw.png" group-title="09. TV | Sports",147. TNT Sports 3
+https://dl.dropboxusercontent.com/scl/fi/otl23l96k852376chidfx/tnt-sports-3.m3u8?rlkey=pkadf5myis7kuoxgcov29j6g3
 
 
-
-#EXTINF:-1 tvg-id="TNT4" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="09. TV | Sports",148. TNT Sports 4
-https://WahyuIPTV.short.gy/TNT4-HD
-
+#EXTINF:-1 tvg-id="TNT4" tvg-url="" tvg-logo="https://i.imgur.com/GdwgxdO.png" group-title="09. TV | Sports",148. TNT Sports 4
+https://dl.dropboxusercontent.com/scl/fi/ksoi8cqmd74e8592io7ui/tnt-sports-4.m3u8?rlkey=am7neijqskg224qq457olwhpj
 
 
 #EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="09. TV | Sports",149. Arena Premium 1
