@@ -1034,13 +1034,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-H
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Animaxx_Australia_Logo_2000-2005.png" group-title="07. TV | Kids",094. Animax
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/6nqfbM7.png" group-title="07. TV | Kids",095. Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nickelodeon.png" group-title="07. TV | Kids",095. Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nick_JR.png" group-title="07. TV | Kids",096. Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
