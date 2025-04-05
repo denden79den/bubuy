@@ -370,6 +370,9 @@ http://www.geocities.ws/wahyuiptv/AstroWarna.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="03. TV | Astro",042. ASTRO OASIS
+https://dl.dropboxusercontent.com/scl/fi/b3a8bvq83l4usjn01yp2j/ASTRO-OASIS.m3u8?rlkey=2844gs6vus9m33xrfg124v59e
+
 
 ============================================================================================================================================================
 // 03. TV HIBURAN
