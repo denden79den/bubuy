@@ -1209,14 +1209,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",⭐BAHANA RADIO MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
-#EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60Qxd6u7-e2hExeHqi48kjTxrtpPAhLg295MaRbcIFLM-vNsNTj2IsTvXA5YSg3WyrB1ihu4GIjVPepneQreXmqXr1dHTEQxiyENcVR07ew-j95xgGy1pby1fAJS4Shf9L_tpV-sqm1p2qL0tpX9XcidbTjuDLgM7wY-BjPvdi5Rfdyer4vZHaI_GRyi5/s700/MUSIC%20INDONESIA.png",⭐MUSIK INDONESIA TRV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://streaming.indihometv.com/joss/134/musikindo720/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+#EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60Qxd6u7-e2hExeHqi48kjTxrtpPAhLg295MaRbcIFLM-vNsNTj2IsTvXA5YSg3WyrB1ihu4GIjVPepneQreXmqXr1dHTEQxiyENcVR07ew-j95xgGy1pby1fAJS4Shf9L_tpV-sqm1p2qL0tpX9XcidbTjuDLgM7wY-BjPvdi5Rfdyer4vZHaI_GRyi5/s700/MUSIC%20INDONESIA.png",⭐MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png",⭐MIC TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1270,15 +1265,6 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="08. TV | Music",Musik Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://my.bianet.es/png.png",PRAMBORS 
 #EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
