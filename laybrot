@@ -2384,71 +2384,71 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 ===================================SPORTS MALAYSIA=======================================
 
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA HD
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ARENA HD
 http://extraott.com:900/live/3162523972/3791698850/191853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="SPORTS | Malaysia",MY| ARENA FHD
 http://extraott.com:900/live/3162523972/3791698850/29658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ARENA 2 HD
 http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 FHD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 FHD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | Malaysia",MY| ARENA 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/13111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA BOLA 1
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ARENA BOLA 1
 http://extraott.com:900/live/3162523972/3791698850/401550644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ASTRO ARENA BOLA 2
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="SPORTS | Malaysia",MY| ARENA BOLA 2
 http://extraott.com:900/live/3162523972/3791698850/401550643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS | Malaysia",MY| PREMIER LEAGUE 1
 http://extraott.com:900/live/3162523972/3791698850/6590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s" group-title="SPORTS | Malaysia",MY| PREMIER LEAGUE 2
 http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SPORTS | Malaysia",MY| PREMIER LEAGUE 3
 http://extraott.com:900/live/3162523972/3791698850/6588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 4 HD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 4 HD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="SPORTS | Malaysia",MY| PREMIER LEAGUE 4
 http://extraott.com:900/live/3162523972/3791698850/6592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="SPORTS | Malaysia",MY| ASTRO PREMIER LEAGUE 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="SPORTS | Malaysia",MY| PREMIER LEAGUE 5
 http://extraott.com:900/live/3162523972/3791698850/7841.m3u8
-#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="MY| ASTRO CRICKET FHD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| ASTRO CRICKET FHD
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="MY| ASTRO CRICKET FHD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| CRICKET FHD
 http://extraott.com:900/live/3162523972/3791698850/191861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| ASTRO CRICKET HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SPORTS | Malaysia",MY| CRICKET HD
 http://extraott.com:900/live/3162523972/3791698850/6587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | Malaysia",MY| SPORTS PLUS HD
 http://extraott.com:900/live/3162523972/3791698850/401600405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | Malaysia",MY| SPORTS PLUS FHD
 http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | Malaysia",MY| SPORTS PLUS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/401600407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO SPORTS PLUS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | Malaysia",MY| SPORTS PLUS 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/401600420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO FOOTBALL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="SPORTS | Malaysia",MY| FOOTBALL HD
 http://extraott.com:900/live/3162523972/3791698850/401600421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO FOOTBALL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="SPORTS | Malaysia",MY| FOOTBALL FHD
 http://extraott.com:900/live/3162523972/3791698850/401600422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | Malaysia",MY| BADMINTON HD
 http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | Malaysia",MY| BADMINTON FHD
 http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | Malaysia",MY| BADMINTON 2 HD
 http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| ASTRO BADMINTON 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | Malaysia",MY| BADMINTON 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/401600426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 FHD" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png" group-title="SPORTS | Malaysia",MY| SPOTV 1 FHD
 http://extraott.com:900/live/3162523972/3791698850/13132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 FHD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 FHD" tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png" group-title="SPORTS | Malaysia",MY| SPOTV 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/13131.m3u8
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/191881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 1 FHD
 http://extraott.com:900/live/3162523972/3791698850/13120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/29639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/13119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 HD
 http://extraott.com:900/live/3162523972/3791698850/29637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS | Malaysia",MY| BEIN SPORTS 3 FHD
 http://extraott.com:900/live/3162523972/3791698850/13118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| EUROSPORT FHD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="SPORTS | Malaysia",MY| EUROSPORT FHD
 http://extraott.com:900/live/3162523972/3791698850/29610.m3u8
@@ -2466,9 +2466,9 @@ http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
 http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="SPORTS | Malaysia",MY| SONY TEN 3
 http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| W-Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport HD" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg" group-title="SPORTS | Malaysia",MY| W-Sport HD
 http://extraott.com:900/live/3162523972/3791698850/13026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="SPORTS | Malaysia",MY| W-Sport FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| W-Sport FHD" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg" group-title="SPORTS | Malaysia",MY| W-Sport FHD
 http://extraott.com:900/live/3162523972/3791698850/13027.m3u8
 
 
