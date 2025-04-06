@@ -208,6 +208,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&userid=
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. TV | Nasional",RCTI
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="02. TV | Nasional",ID: RCTI
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157591
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | Nasional",MNCTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. TV | Nasional",GTV
@@ -216,8 +218,12 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162141
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | Nasional",INDOSIAR
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="02. TV | Nasional",ID: Indosiar
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | Nasional",Moji TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="02. TV | Nasional",ID: Moji
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. TV | Nasional",TRANS7 
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. TV | Nasional",TRANS TV
@@ -484,13 +490,17 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
 #EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="04. FILM | HBO",HBO HD
-http://203.77.246.14:8001/udp/239.1.3.84:5000
+#http://203.77.246.14:8001/udp/239.1.3.84:5000
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/197972
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="04. FILM | HBO",HBO Hits HD
-http://203.77.246.14:8001/udp/239.1.3.82:5000
+#http://203.77.246.14:8001/udp/239.1.3.82:5000
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/196480
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="04. FILM | HBO",HBO Family HD
-http://203.77.246.14:8001/udp/239.1.3.76:5000
+#http://203.77.246.14:8001/udp/239.1.3.76:5000
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/197055
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="04. FILM | HBO",HBO Signature HD
-http://203.77.246.14:8001/udp/239.1.3.74:5000
+#http://203.77.246.14:8001/udp/239.1.3.74:5000
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/221948
 #EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="04. FILM | HBO", CINEMAX
 #EXTVLCOPT:http-user-agent=xplayer168
 https://dl.dropboxusercontent.com/s/w7uehwyq6r454t3/cinemax.m3u8
@@ -527,19 +537,28 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 1.1
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 1.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 2.2
 https://WahyuIPTV.short.gy/EtvBioskop2
 
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 3.3
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 3.2
 https://WahyuIPTV.short.gy/EtvBioskop3
 
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 4.4
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. FILM | Bioskop 21",ETV Bioskop 4.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="04. FILM | Bioskop 21",ID: ETV BIOSKOP 01
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="04. FILM | Bioskop 21",ID: ETV BIOSKOP 02
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="04. FILM | Bioskop 21",ID: ETV BIOSKOP 03
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="04. FILM | Bioskop 21",ID: ETV BIOSKOP 04
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
 
 
 
@@ -1088,6 +1107,9 @@ https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFrIGsl.png" group-title="07. TV | Kids", DREAMWORKS
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="07. TV | Kids",ID: DreamWorks
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
 
 
 #EXTINF: -1 tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/AZkqr5Z.png" group-title="07. TV | Kids", ANIPLUS
