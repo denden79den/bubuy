@@ -1898,8 +1898,10 @@ http://line.ultrab.xyz:80/2FFC00/271506/63499
 http://zkbvzkj.megahdtv.xyz:80/1103581436/4099381829/64570
 
 #EXTINF:-1 tvg-id="WWE Astro" tvg-name="WWE Network" tvg-logo="https://images.supersport.com/media/tw4nl0zo/wwe-and-ss_frame-1050.jpg" group-title="09. TV | Sports",213. S - WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://defaultgen.com:3050/teddytgy@gmail.com/yfPNc2JeUD/663179
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Impact Westrling" tvg-name="Impact Wrestling" tvg-logo="https://www.oceaniaprowrestling.com/assets/img/impact-wrestling.png" group-title="09. TV | Sports",214. Impact Wrestling
 #EXTVLCOPT:http-user-agent=ExoPlayer
@@ -1938,7 +1940,17 @@ https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3
 http://www.geocities.ws/wahyuiptv/UFC247.m3u8
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png",217. NBA
-https://dl.dropboxusercontent.com/scl/fi/k1bfsx5lupl2pgkeprth8/nbatv.m3u8?rlkey=1bg154hfdy7eoi353fp8uhz2q
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/6sPvZmS/wsport.png" group-title="09. TV | Sports",218. W-SPORT
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 ///// SPORTS 2 /////
