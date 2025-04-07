@@ -368,8 +368,7 @@ http://www.geocities.ws/wahyuiptv/AstroPrima.m3u8
 https://WahyuIPTV.short.gy/Astro-Rania
 
 #EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="03. TV | Astro",038. Astro Ria
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-https://WahyuIPTV.short.gy/AstroRiaHD
+http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
 
 #EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="03. TV | Astro",042. Astro Sensasi
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1468,13 +1467,12 @@ http://line.ultrab.xyz:80/2FFC00/271506/101309
 
 
 #EXTINF:-1 tvg-id="Espn Vivo" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/EspnEnVivo.png" group-title="09. TV | Sports",138. ESPN Vivo
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/101314
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
 #EXTINF:-1 tvg-id="Espn +" tvg-url="" tvg-logo="https://lo1.in/nl/espn.png" group-title="09. TV | Sports",138. ESPN 1
 http://extraott.com:900/live/3162523972/3791698850/16873.m3u8
-
 
 #EXTINF:-1 tvg-id="Espn1 +" tvg-url="" tvg-logo="https://lo1.in/nl/espn2.png" group-title="09. TV | Sports",138. ESPN 2
 http://extraott.com:900/live/3162523972/3791698850/16872.m3u8
@@ -1488,47 +1486,15 @@ http://extraott.com:900/live/3162523972/3791698850/16870.m3u8
 #EXTINF:-1 tvg-id="CBS Sports" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSports.png" group-title="09. TV | Sports",139. CBS Sports Network
 http://www.geocities.ws/wahyuiptv/CbsSportsNetwork.m3u8
 
-
-
 #EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSportsGolazo.png" group-title="09. TV | Sports",140. CBS Sports Golazo
 http://www.geocities.ws/wahyuiptv/CbsSportsGolazo.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Go3Sport Open" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="09. TV | Sports",141. Go3Sport Open
-#http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="Go3Sport 1" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="09. TV | Sports",142. Go3Sport 1
-http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-#https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
-
-
-#EXTINF:-1 tvg-id="Go3Sport 2" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="09. TV | Sports",143. Go3Sport 2
-#http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="Go3Sport 3" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="09. TV | Sports",144. Go3Sport 3
-#http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
-
-
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png",141. PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png",142.  PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 group-title="09. TV | Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png",143. PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
 
 #EXTINF:-1 tvg-id="TNT1" tvg-url="" tvg-logo="https://i.imgur.com/FKIqWYs.png" group-title="09. TV | Sports",145. TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1672,143 +1638,86 @@ http://www.geocities.ws/wahyuiptv/SuperSport1.m3u8
 
 
 #EXTINF:-1 tvg-id="SuperSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="09. TV | Sports",178. Super Sport 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport2.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1312
 
 #EXTINF:-1 tvg-id="SuperSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="09. TV | Sports",178. Super Sport 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport3.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1319
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="TringSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T1.png",180. Tring Sport 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/TringSport1.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1306
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="TringSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png",180. Tring Sport 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/TringSport2.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1305
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="TringSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png",180. Tring Sport 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/TringSport3.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1304
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="KSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K1.png",180. K Sport 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/KSport1.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1863
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="KSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K2.png",180. K Sport 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/KSport2.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1864
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="KSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K3.png",180. K Sport 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/KSport3.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1865
 
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="09. TV | Sports",178. Eleven Sport 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ElevenSports1.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/347
 
 #EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="09. TV | Sports",178. Eleven Sport 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ElevenSports2.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3643
 
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="09. TV | Sports",178. Eleven Sport 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ElevenSports3.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3644
 
 #EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="09. TV | Sports",178. Eleven Sport 4
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ElevenSports4.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3645
 
 #EXTINF:-1 tvg-id="Dazn-PL" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznPL.png" group-title="09. TV | Sports",178. Dazn P.L.
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/DaznPL.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Dazn 1 Bar" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DAZN1BAR.png" group-title="09. TV | Sports",178. Dazn 1 Bar
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/DaznBar1.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305944
 
 #EXTINF:-1 tvg-id="Dazn 2 Bar" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DAZN2BAR.png" group-title="09. TV | Sports",179. Dazn 2 Bar
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/DaznBar2.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305945
 
 #EXTINF:-1 tvg-id="BS1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="09. TV | Sports",179. Blue Sport 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/BlueSport1.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2815
 
 #EXTINF:-1 tvg-id="BS2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="09. TV | Sports",179. Blue Sport 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/BlueSport2.m3u8
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/6187
 
 #EXTINF:-1 tvg-id="Bundesliga" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SKY-SPORTS-BUNDESLIGA.png" group-title="09. TV | Sports",S.S. Bundesliga
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/BundesLiga.m3u8
-
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298592
 
 #EXTINF:-1 tvg-id="Bundesliga1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sky-Sport-Bundealiga1.png" group-title="09. TV | Sports",S.S. Bundesliga 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Bundesliga1.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/4493
 
 #EXTINF:-1 tvg-id="Austria1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sky-Sport-Austria1.png" group-title="09. TV | Sports",S.S. Austria 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SkySportAustria1.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2130
 
 #EXTINF:-1 tvg-id="[UK] Sky Sports Premiere League" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sky-Sports-Premier-League.png" group-title="09. TV | Sports",S.S. P-L
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/UK-Sky-Sport-PL.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298381
 
 #EXTINF:-1 tvg-id="[UK] Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sky_Sport_Arena_HD.png" group-title="09. TV | Sports",S.S. Arena
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Sky_Sport_Arena_HD.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2541
 
 #EXTINF:-1 tvg-id="SuperSport Premier League" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSport-Premier-Leauge.png" group-title="09. TV | Sports",S. P-L
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport-Premier-Leauge.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11642
 
 #EXTINF:-1 tvg-id="SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSport-Laliga.png" group-title="09. TV | Sports",S. Laliga
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport-Laliga.m3u8
+http://extraott.com:900/live/3162523972/3791698850/159894.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport Football" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSport-Football.png" group-title="09. TV | Sports",S. Football
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport-Football.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/38575
+
+#EXTINF:-1 tvg-id="SuperSport Football" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSport-Football.png" group-title="09. TV | Sports",S. Football 2
+http://extraott.com:900/live/3162523972/3791698850/400415390.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport PSL" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSport-PSL.png" group-title="09. TV | Sports",S. PSL
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/SuperSport-PSL.m3u8
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11643
 
 #EXTINF:-1 group-title="09. TV | Sports" tvg-id="ssc1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC2/original/SSC2.png?height=720&width=1280",192. 🇸🇦 SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1859,32 +1768,31 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="09. TV | Sports",200. True Premiere Football 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://194.76.0.117:8070/live/test_acct/ohbo1veifa4AhD/162591.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162591
 
 #EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="09. TV | Sports",201. True Premiere Football 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://194.76.0.117:8070/live/test_acct/ohbo1veifa4AhD/162592.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162592
 
 ##EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="09. TV | Sports",202. True Premiere Football 3
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-##https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165101
 
 ##EXTINF: -1 tvg-id="True Premiere Football 4" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="09. TV | Sports",203. True Premiere Football 4
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 ##https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
-##EXTINF: -1 tvg-id="True Sports 4" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="09. TV | Sports",201. True Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#http://ott.premium-tv.org:8789/wonton57/874893/235214
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/da0e484705b268036f917eacfa324bc8.png" group-title="09. TV | Sports",204. True Sport 1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304834
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ae2205185399dab87a15fb81161f8d48.png" group-title="09. TV | Sports",204. True Sport 2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304833
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="09. TV | Sports",204. True Sport 4
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/285569
 
 #EXTINF:-1 tvg-id="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="09. TV | Sports" ,205. PTV Sports
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/PTVSports.m3u8
 
 #EXTINF: -1 tvg-id="Ten Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="09. TV | Sports",206. Ten Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://188.93.236.76:8070/live/test_acct/ohbo1veifa4AhD/151863.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/151863
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="09. TV | Sports",207. Sony Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
