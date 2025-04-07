@@ -2633,10 +2633,8 @@ https://sport.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="SPORTS | TrueVision",beIN Sports 1 TH
 https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" group-title="SPORTS | TrueVision",beIN Sports 2 TH
+#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" group-title="SPORTS | TrueVision",beIN Sports 3 TH
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS | TrueVision",beIN Sports 3 TH
-https://www.livedoomovies.com:4432/02_epl3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
 
 
