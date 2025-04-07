@@ -2619,6 +2619,26 @@ https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
  
 
+#EXTINF:-1 group-title="SPORTS | TrueVision" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV TRUE
+#EXTVLCOPT:http-referrer=https:/www.livedoomovie.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS | TrueVision" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/p1q77RO.png", SPOTV 2 TRUE
+#EXTVLCOPT:http-referrer=https:/www.livedoomovie.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="SPORTS | TrueVision",beIN Sports 1 TH
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" group-title="SPORTS | TrueVision",beIN Sports 2 TH
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS | TrueVision",beIN Sports 3 TH
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
+
+
 
 
 ======================================Mag.king=================================================
