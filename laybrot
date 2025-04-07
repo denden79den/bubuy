@@ -1585,42 +1585,35 @@ http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 #EXTINF:-1 tvg-id="Dazn Serie A1" tvg-logo="https://thesun.my/binrepository/dazn-seriea_1551938_20210326234333.jpg" group-title="09. TV | Sports", 161. Dazn Serie A1
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/787638
 
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="09. TV | Sports",162. DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="09. TV | Sports",163. DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://logo.ottcst.info/DIGISPORT3.png" group-title="09. TV | Sports",164. DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="09. TV | Sports",165. DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
 
-
-#EXTINF:-1 tvg-id="[IT] Sky Sport Calcio" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" group-title="09. TV | Sports",162. 🇮🇹 SS Calcio
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/105860
-
-
-
-#EXTINF:-1 tvg-id="[IT] Sky Sport Calcio" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" group-title="09. TV | Sports",163. 🇮🇹 SS Calcio 1
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/105976
-
-
-
-#EXTINF:-1 tvg-id="[IT] Sky Sport Calcio" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" group-title="09. TV | Sports",164. 🇮🇹 SS Calcio 2
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/105977
-
-
-
-#EXTINF:-1 tvg-id="[IT] Sky Sport Calcio" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" group-title="09. TV | Sports",165. 🇮🇹 SS Calcio 3
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/105863
-
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="09. TV | Sports",166. RMC SPORT 1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1937
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="09. TV | Sports",167. RMC SPORT 2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="09. TV | Sports",168. RMC SPORT 3
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="09. TV | Sports",169. RMC SPORT 4
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279752
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="09. TV | Sports",169. RMC SPORT 5
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1940
 
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.Premier.League.1.hk" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowPL1.png" group-title="09. TV | Sports", 170. NowSport PL1
 http://www.geocities.ws/wahyuiptv/NowHK-PL.m3u8
 
-
-
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.1" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="09. TV | Sports",171. Now Sport 1
 http://www.geocities.ws/wahyuiptv/NowHK-Sports1.m3u8
 
-
-
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.2" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="09. TV | Sports",172. Now Sport 2
 http://www.geocities.ws/wahyuiptv/NowHK-Sports2.m3u8
-
-
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122" group-title="09. TV | Sports",173. Now Sport 3
 http://www.geocities.ws/wahyuiptv/NowHK-Sports3.m3u8
@@ -1634,8 +1627,6 @@ http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
 #EXTINF:-1 tvg-id="SuperSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="09. TV | Sports",178. Super Sport 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/SuperSport1.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SuperSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="09. TV | Sports",178. Super Sport 2
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1312
