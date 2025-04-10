@@ -4737,3 +4737,24 @@ http://iptvtree.net:8080/F15554/Tve5ZWQEd485/757
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 1 HD" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 1 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381401
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 2 HD" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 2 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381402
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 3 HD" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 3 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381403
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 4 HD" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 4 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381404
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 5 HD" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 5 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381405
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 6 HD" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 6 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381406
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 7 HD" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="SPORTS | Now Sports",HK: NOW Sports 7 HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381407
+
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports Plus HD" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="SPORTS | Now Sports",HK: NOW Sports Plus HD
+https://freelivtvopplex.vercel.app/play.m3u8?id=381400
+
+
+
