@@ -866,14 +866,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/Celes
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://ia800409.us.archive.org/18/items/picons/AXN%20HD.png"group-title="04. TV | Box Office",069. AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://ia800409.us.archive.org/18/items/picons/AXN%20HD.png" group-title="04. TV | Box Office",069. AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Warner TV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title="04. TV | Box Office",070. Warner TV
+#EXTINF:-1 tvg-name="" tvg-id="Warner TV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="04. TV | Box Office",070. Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/WarnerTV-HD.m3u8
 
