@@ -4758,3 +4758,18 @@ https://freelivtvopplex.vercel.app/play.m3u8?id=381400
 
 
 
+#EXTINF:-1 tvg-name="" group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", SPORTSTAR #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/drmvplus/widevine?id=112 https://bintangstreaming.my.id/vplustream/index.mpd?id=112 
+
+#EXTINF:-1 tvg-name="" group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", SPORTSTAR 2 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/drmvplus/widevine?id=113 https://bintangstreaming.my.id/vplustream/index.mpd?id=113 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rtmsport.png" group-title="IPTV",RTM SPORT 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/.
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/unifisports1.png" group-title="IPTV",UNIFI SPORTS 1 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/fight.png" group-title="IPTV",FIGHT SPORTS HD 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
+
