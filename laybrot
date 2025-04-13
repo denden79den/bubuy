@@ -791,8 +791,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cine
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema Word" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CinemaWord.png" group-title="04. TV | Box Office",059. Cinema Word
-http://www.geocities.ws/wahyuiptv/CinemaWord.m3u8
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema Word" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CinemaWord.png" group-title="04. TV | Box Office",059. Cinema World
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
 
 #EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Galaxy.png" group-title="04. TV | Box Office",060. Galaxy
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
