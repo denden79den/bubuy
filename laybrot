@@ -481,19 +481,23 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="04. FILM | HBO",HBO 720
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="04. FILM | HBO",HBO Hits 720
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="04. FILM | HBO",HBO Family Asia 720
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="04. FILM | HBO",HBO Signature 720
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
 #EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="04. FILM | HBO",HBO TRANS
