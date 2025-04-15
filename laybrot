@@ -725,7 +725,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 http://www.geocities.ws/wahyuiptv/Flik-HD.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="IMC" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="04. TV | Box Office",048. IMC
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc.m3u8
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc2.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="04. TV | Box Office",049. Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -738,11 +739,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="04. TV | Box Office" tvg-id="hitsmovies.sg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",051. Hits Movies V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
-https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 group-title="04. TV | Box Office" tvg-id="hitsmovies.sg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",051. Hits Movies
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
 
 #EXTINF:-1 group-title="04. TV | Box Office" tvg-id="mycinemaasia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY CINEMA ASIA.png",052. My Cinema Asia V+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
