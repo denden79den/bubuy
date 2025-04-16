@@ -5677,6 +5677,51 @@ http://extraott.com:900/live/3162523972/3791698850/13026.m3u8
 http://extraott.com:900/live/3162523972/3791698850/13027.m3u8
 
 
+===================================SPORTS INDIA=======================================
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN| SONY TEN 1 FHD" tvg-logo="https://lo1.in/ind/snytn1.png" group-title="SPORTS | India",IN| SONY TEN 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/187261.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN| SONY TEN 2 FHD" tvg-logo="https://lo1.in/ind/snytn2.png" group-title="SPORTS | India",IN| SONY TEN 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/187262.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN| SONY TEN 3 FHD" tvg-logo="https://lo1.in/ind/snytn3.png" group-title="SPORTS | India",IN| SONY TEN 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/378745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY TEN 4 HD" tvg-logo="https://lo1.in/ind/snyten4.png" group-title="SPORTS | India",IN| SONY TEN 4 HD
+http://extraott.com:900/live/3162523972/3791698850/400375287.m3u8
+
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="IN| DD SPORTS HD" tvg-logo="https://lo1.in/ind/ddsp.png" group-title="SPORTS | India",IN| DD SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/378758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| TEN SPORTS FHD" tvg-logo="https://lo1.in/ind/tensp1.png" group-title="SPORTS | India",IN| TEN SPORTS FHD
+http://extraott.com:900/live/3162523972/3791698850/376442.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| Hub Sports 1" tvg-logo="https://lo1.in/ind/Hub Sports 1.png" group-title="SPORTS | India",IN| Hub Sports 1
+http://extraott.com:900/live/3162523972/3791698850/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| Hub Sports 2" tvg-logo="https://lo1.in/ind/Hub Sports 2.png" group-title="SPORTS | India",IN| Hub Sports 2
+http://extraott.com:900/live/3162523972/3791698850/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| Hub Sports 3" tvg-logo="https://lo1.in/ind/Hub Sports 3.png" group-title="SPORTS | India",IN| Hub Sports 3
+http://extraott.com:900/live/3162523972/3791698850/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| Hub Sports 4" tvg-logo="https://lo1.in/ind/Hub Sports 4.png" group-title="SPORTS | India",IN| Hub Sports 4
+http://extraott.com:900/live/3162523972/3791698850/36302.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTV SPORTS HD" tvg-logo="https://lo1.in/ind/ptsp.png" group-title="SPORTS | India",IN| PTV SPORTS HD
+http://extraott.com:900/live/3162523972/3791698850/17853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTV SPORTS RAW HD" tvg-logo="https://lo1.in/ind/ptsp.png" group-title="SPORTS | India",IN| PTV SPORTS RAW HD
+http://extraott.com:900/live/3162523972/3791698850/17819.m3u8
+
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://lo1.in/ind/starsp1.png" group-title="SPORTS | India",IN| STAR SPORTS 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/187268.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://lo1.in/ind/starsp2.png" group-title="SPORTS | India",IN| STAR SPORTS 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/378740.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN| STAR SPORTS 3 HD" tvg-logo="https://lo1.in/ind/strsp3.png" group-title="SPORTS | India",IN| STAR SPORTS 3 HD
+http://extraott.com:900/live/3162523972/3791698850/400159568.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://lo1.in/ind/strsps1.png" group-title="SPORTS | India",IN| STAR SPORTS SELECT 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/378739.m3u8
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN| STAR SPORTS SELECT 2  FHD" tvg-logo="https://lo1.in/ind/strsps2.png" group-title="SPORTS | India",IN| STAR SPORTS SELECT 2  FHD
+http://extraott.com:900/live/3162523972/3791698850/376465.m3u8
+
+
+
+
+
 
 =================================SPORTS PREMIUM=====================================
 
