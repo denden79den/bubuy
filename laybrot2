@@ -4050,3 +4050,112 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
 
 
+==================================FILM HBO====================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png" group-title="8. HBO & ETV BIOSKOP",HBO 1080
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png" group-title="8. HBO & ETV BIOSKOP",HBO Family 1080
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png" group-title="8. HBO & ETV BIOSKOP",HBO Hits 1080
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png" group-title="8. HBO & ETV BIOSKOP",HBO Signature 1080
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png" group-title="8. HBO & ETV BIOSKOP",Cinemax
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="8. HBO & ETV BIOSKOP",CINEMAX 720
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="8. HBO & ETV BIOSKOP",HBO 720
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="8. HBO & ETV BIOSKOP",HBO Hits 720
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="8. HBO & ETV BIOSKOP",HBO Family Asia 720
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="8. HBO & ETV BIOSKOP",HBO Signature 720
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-user-agent=xplayer168
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
+
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="8. HBO & ETV BIOSKOP",HBO TRANS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="8. HBO & ETV BIOSKOP",HBO Hits TRANS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="8. HBO & ETV BIOSKOP",HBO Family TRANS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="8. HBO & ETV BIOSKOP",HBO Signature TRANS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="8. HBO & ETV BIOSKOP", CINEMAX TRANS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="8. HBO & ETV BIOSKOP",ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="8. HBO & ETV BIOSKOP",ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="8. HBO & ETV BIOSKOP",ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="8. HBO & ETV BIOSKOP",ETV BIOSKOP 04
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
+
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="8. HBO & ETV BIOSKOP",ETV Bioskop 1.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="8. HBO & ETV BIOSKOP",ETV Bioskop 2.2
+https://WahyuIPTV.short.gy/EtvBioskop2
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="8. HBO & ETV BIOSKOP",ETV Bioskop 3.2
+https://WahyuIPTV.short.gy/EtvBioskop3
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="8. HBO & ETV BIOSKOP",ETV Bioskop 4.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="8. HBO & ETV BIOSKOP",ID: ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/Wat068/924a937d/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="8. HBO & ETV BIOSKOP",ID: ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/Wat068/924a937d/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="8. HBO & ETV BIOSKOP",ID: ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/Wat068/924a937d/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="8. HBO & ETV BIOSKOP",ID: ETV BIOSKOP 04
+http://aflaxtv.xyz:8080/Wat068/924a937d/298529
