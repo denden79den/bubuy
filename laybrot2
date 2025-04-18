@@ -3983,4 +3983,67 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
+=====================tv Astro sports=================
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="7. SPORTS", ASTRO PREMIER LEAGUE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="7. SPORTS", ASTRO PREMIER LEAGUE 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="7. SPORTS", ASTRO GRANDSTAND
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="7. SPORTS", ASTRO FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+
+
+=====================tv play sports=================
+
+#EXTINF:-1 group-title="7. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 group-title="7. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 group-title="7. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="7. SPORTS",HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="7. SPORTS",HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="7. SPORTS",HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="7. SPORTS",HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="7. SPORTS",HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
+
+
+#EXTINF:-1 tvg-id="English.-.Now.SPORTS.1" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="7. SPORTS",Now Sport 1
+http://www.geocities.ws/wahyuiptv/NowHK-Sports1.m3u8
+
+#EXTINF:-1 tvg-id="English.-.Now.SPORTS.2" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="7. SPORTS",Now Sport 2
+http://www.geocities.ws/wahyuiptv/NowHK-Sports2.m3u8
+
+#EXTINF:-1 tvg-id="English.-.Now.SPORTS.3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122" group-title="7. SPORTS",Now Sport 3
+http://www.geocities.ws/wahyuiptv/NowHK-Sports3.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="7. SPORTS", HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="7. SPORTS", HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="7. SPORTS", HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="7. SPORTS",DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 HD RO" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="7. SPORTS",DIGI SPORT 2 HD RO
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u85
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="7. SPORTS",DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://logo.ottcst.info/DIGISPORT3.png" group-title="7. SPORTS",DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="7. SPORTS",DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+
 
