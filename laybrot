@@ -1271,12 +1271,12 @@ https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dG
 
 
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyBe8VGBNsHMSXAQ4CZw3L8yucCJAvbNIVTFP4IER8nglo9Iczb3_QkbvxIQEPLScYvCIxb_2SmPlHpknpPOjcRypALsEpCPHYwWgl5P4WGWNOHchu3UlmZIxrTsGSaJOH_CuqngXCDNAp2Yk3XDkWCTnrZEZLSvcX2Ut9HbNrF4uqnOnwy-ng4Sg2Ela2/s700/MUSIC%20TV.png",⭐MUSIC TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",⭐BAHANA RADIO MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
@@ -1333,9 +1333,10 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="08. TV | Music",MUSIK TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
 
 #EXTINF:-1 group-title="08. TV | Music" tvg-logo="https://my.bianet.es/png.png",PRAMBORS 
 #EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
