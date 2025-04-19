@@ -2866,6 +2866,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", MUTV
+https://streaming.indihometv.com/atm/DASH/mutv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", TAWAF TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", UCHANNEL
+https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", RODJATV
+https://streaming.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+
+
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagYTqZEAvYoIgTZAH5KvCpWgjoX0DfMJBNX2gf7UdTq4HpHQLqdC4Hs82IHMKYrSzbB8Lb-IvgsaHcF4SB5nOaS1SRLj7VOD0M9YPmT8R4qxxNjVNYBbzoczaaIusjCAGQfiOhBiSRVGFR9yrzKVInn4U8EwGGYtDfJXbQi8F7dLTZUSSrOjVZCnSqEZ/s700/EURONEWS.png",EURONEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
