@@ -3031,7 +3031,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6L_cbGTTZwb3DVTIcCJRHGDp70zflqThSpDpRbAt9IHD99JP59Q0xOr2X-4X0hUUzJivjvT5XW8uSlb8ZDUpHJI-BCCLVZtwpu01JKAoHbG9A3pRSM60bETCqD9IZJOEKGOlZgSdWp5HcesKu0zjZgiQX5MUQ-VmvhfjlU8L4WYpsX_2gbCAGS1kYMyz/s700/DISCOVERY%20CHANNEL.png",DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwxtTwvtq8XFmSeWQruakAQJAzJEWPcW-WnEo8fBuQoZH1lu5TQOkFzdy7SVeT36i323GIedrvyBwrY2bD07wfMQXQlr0o5TeaPeZx9Zwe7OVwLlS4un-a1AQrN9XapYigEiGKxuL2my-0CDD2VSuIin06a6QarUFj1n3yhEhmZ6H7EueJjZrUO7T5a_vM/s700/TECHSTROM.png",TECHSTORM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
