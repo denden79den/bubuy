@@ -2853,9 +2853,8 @@ https://streaming.indihometv.com/atm/DASH/antv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFBaxC2mEqPHC8KLpOwdBANPqJGQBGV6sLmEvLoaZqGR_vFMTXj6qume4C1nCVFMuLEbfW_Bda45uQoI_DJGgBI6NeOI97RV3wb9ePTyfZ-Bw7IoAmsTHaUBryscbHVNn_dgD1-56Ua_1TtIH2dseheFId40fq6C3xOBZGTzBKoM1ZSogh2EMmPMsVH9ON/s700/TV%20MUI.png",MUI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
+
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8geeylbkw1Owqa-m593pebkzcRWJVF7xP8-qfha0qxIKm8Hiaf3fcQ4xfT9ED_oZfU5oMHzi_hROQNs2_-Vtg5XgCQmF8ra8PqM9bIHXPCcyaGnx241JZwOaRGrMmk6iBRqOPGEnkF7HrhhUIfi0e81aSTxA7fA_NGNtavkV90uM6H0EH8_hM9E4jpOS/s700/TV9.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2865,8 +2864,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", MTATV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", MUITV
-https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", Alquran Al Kareem
+https://streaming.indihometv.com/atm/DASH/alquranalkareem/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", TAWAF TV
 https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
