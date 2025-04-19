@@ -2828,7 +2828,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/metrotv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="5. INDIHOME TV", TVONE
-https://streaming.indihometv.com/atm/DASH/metrotv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="5. INDIHOME TV", NUSANTARA TV
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
