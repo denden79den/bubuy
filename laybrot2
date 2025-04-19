@@ -2865,7 +2865,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", Alquran Al Kareem
-https://streaming.indihometv.com/atm/DASH/alquranalkareem/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/AlquranAlKareem/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pcTOIcK.png" group-title="5. INDIHOME TV", TAWAF TV
 https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
