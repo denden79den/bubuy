@@ -2833,6 +2833,14 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indonesiana/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_big1.png" group-title="5. INDIHOME TV", BALITV
+https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME TV", ALJAZEERA
+https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNFRLeuKOMXD5n__qeCdlNWUyGW87aTwhzMxgG7CBF3UlBxcHU_Iqv464V9iEMULHMleQjGsqlQR6uqwNJSH2pw7qrbLkIFpDwj9upQ3AnoQD5fwXfxquBYZJfXJLPd77ZK-Juyw_bFLtNYDHZHAW36podGQflXfCFTDjEhinAgF4s_FHLUmgrCE72BBu/s700/HITS%20NOW.png",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
