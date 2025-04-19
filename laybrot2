@@ -2829,13 +2829,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="5. INDIHOME TV", NUSANTARA TV
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indonesiana_ver1.png" group-title="5. INDIHOME TV", INDONESIANA
-https://streaming.indihometv.com/atm/DASH/indonesiana/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="5. INDIHOME TV", RTV
+https://streaming.indihometv.com/atm/DASH/rtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="5. INDIHOME TV", JTV
+https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" group-title="5. INDIHOME TV", SINDONEWS TV
+https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="5. INDIHOME TV", BTV
+https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" group-title="5. INDIHOME TV", JAKTV
+https://streaming.indihometv.com/atm/DASH/jaktv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="5. INDIHOME TV", JAWAPOS TV
+https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_big1.png" group-title="5. INDIHOME TV", BALITV
 https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME TV", ALJAZEERA
 https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
