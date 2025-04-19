@@ -3180,15 +3180,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
 #EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0vYB_nser0HYnnt1md6fGjB9xqLvmBOX-ZbYvnYS0y8DEO-XRkmsEv2sr3tPc23Sa15vFxh79cO3tDf4Z-iERN2tX_hwBMiLoAj7vIY3l8htbWJ5UyenfQLuOgp6eO10fMlr0BjLR2TmG1AUSymr34BU83JoZikOWRUycVAzzEaFXNVS09fQEgkcAC8Ek/s700/CHINESE%20DRAMA.jpeg",CHINESE DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
