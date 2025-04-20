@@ -2830,7 +2830,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV", METRO TV
-https://cdn14jtedge.indihometv.com/atm/DASH/metrotv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/METROTV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="5. INDIHOME TV", TVONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
@@ -2866,9 +2866,19 @@ https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_big1.png" group-title="5. INDIHOME TV", BALITV
 https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",ANTV HD
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME TV", ALJAZEERA
 https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png",CNN INTERNATIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_qjUUfSUqWU54kDYdZud2yaa1TH_L-uMwsuw27ZelFzffpbsPgImaW2vuwP2UZwh48ST9L0qlDA_GmupO5Z523BRBSTTJKNgJubHKTa5gvrPbitY1E9dHbf1EF_LtuJDOMnSsivoebEaF7ygsG8a_VrcCjYOHWwECQOGNZi8MayPm01Y3O-Cl0u3d-CT/s700/DWTV.png",DW TV
+https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNFRLeuKOMXD5n__qeCdlNWUyGW87aTwhzMxgG7CBF3UlBxcHU_Iqv464V9iEMULHMleQjGsqlQR6uqwNJSH2pw7qrbLkIFpDwj9upQ3AnoQD5fwXfxquBYZJfXJLPd77ZK-Juyw_bFLtNYDHZHAW36podGQflXfCFTDjEhinAgF4s_FHLUmgrCE72BBu/s700/HITS%20NOW.png",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2884,9 +2894,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/indikids/manifest.mpd
-
-#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",ANTV HD
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqawusMlwsqiwhzRabEOgiKv8GGZJj6EhZpMdT4LU4gK8cHBRfTumXUgex12m7Qae5VHa79Fb8QCZ-UN2a4kSbA3uSQYBkPJEQ3M_mJr2DIHauquKbhemyiyx6zC3zZNfZR5IpP882FNkeaZW3v2t6U1v3znm91zd_b1OiuXdWBGXUh2KeZYV2tISord2G/s700/AL%20QURAN%20AL%20KAREEM.png",AL QURAN AL KAREEM
 https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
@@ -2910,6 +2917,11 @@ https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_rodjatv_big1.png" group-title="5. INDIHOME TV", RODJATV
 https://streaming.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZeLn9zrgyV4eICZgu7HVcIdvpwx0Ge_h3EyA4qMe2WDNm1RBvS2okghirooRT9PsD_YgBY57TjFgLtVeKnF1Okq7uefETWh-DoLtUG9AoQqDGIs0TW-C9FjKXXS9nVPM3uPg_u1v75qmGFNHGb1xCpAwlNZ6u9ew1G6V78Q_54QzRHMb2ea4SP8cD_dAE/s700/DAAI%20TV.png",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagYTqZEAvYoIgTZAH5KvCpWgjoX0DfMJBNX2gf7UdTq4HpHQLqdC4Hs82IHMKYrSzbB8Lb-IvgsaHcF4SB5nOaS1SRLj7VOD0M9YPmT8R4qxxNjVNYBbzoczaaIusjCAGQfiOhBiSRVGFR9yrzKVInn4U8EwGGYtDfJXbQi8F7dLTZUSSrOjVZCnSqEZ/s700/EURONEWS.png",EURONEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2938,6 +2950,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="",W-SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkVf8opmBsl3An-FC1dkN8LpgbEEPG5AIZzUkPTj6mih5ogV4MD84sS1RuA-oTft6TDH7iM0BPJYwxgT9_xdoQ1xO2ADkRD1UHam_55yjWfUxaGlQvhidM3o-NPriLcT6UBp1iGMC7V59PR7I3bB2XTU1hcEkRzev0_rQNGPSw2S60z-n6DTSb128mR_X/s700/TVN%20MOVIES.png",TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2952,6 +2971,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2IB_v0VwYA3_-dn7_e1b772vdqO_70ZapXWHDWCplMDa0EnaSyo5orlEPDHW5pFnApRQBOUMXEkbtuCpcJikxINLG5VF4IJMD9cuAbFQsSANcwL8c243S7L7YuxUF_IDmscyUTOfluL4rliCH5DIGeS_sqF5GIMjV3paW8zNatizqV2aDI2MJRG8c0Il/s700/FLIK%20TV.jpeg",FLIK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="5. INDIHOME TV" tvg-id="" , Studio Universal
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbSr6nbG_hUBB5rpO44jRyU8RQANgkuzoTXqwuqSpSvbXBso2GQNrvNxUpHQA0aLd3KAN1l3KiUfbfdMd3KBW_WaoK92GbwcsxhHq3kBA8vT1hThOefdNnE7FkrHpOhmUwvrMBpQS4FgXv8FfUZpIb74Iqp51z6HJapO3SE2ZXH-1RcfJBcehnExHzZIi/s700/GALAXY%20PREMIUM.png",GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2967,41 +2998,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2IB_v0VwYA3_-dn7_e1b772vdqO_70ZapXWHDWCplMDa0EnaSyo5orlEPDHW5pFnApRQBOUMXEkbtuCpcJikxINLG5VF4IJMD9cuAbFQsSANcwL8c243S7L7YuxUF_IDmscyUTOfluL4rliCH5DIGeS_sqF5GIMjV3paW8zNatizqV2aDI2MJRG8c0Il/s700/FLIK%20TV.jpeg",FLIK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUsUY5NnYkL5b2uEI1P1orXKKZ6-ikg7GcXMopargsIhZXk8b6zJ6xg1AIE3_ZLwAonc06N-p4Kd_K0-lKb4fnVD7rOhnPYhn8E8OTudHk1wfJ6e2A4QF3rPLlmk0NNWpe501tr_SfZgwqrgPgrbJbebSEws6d-JjcgxZ3YFN6McFCNaIQHk3EEZx-qiuh/s700/BIOSKOP%20INDONESIA.png",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbqlCv-meezXKueW9Jmx0FvRy_HD3oXG1EeHS-cj9apuHqzH5iLHw4IQGV103YlTMMKU92w_qmPPcAo1ijPe7odtGyU8pQ-HVrb-3eFoal_JZQ5UuGvXO2p_-3LaTJxOtaCQ9u0sGH_2FfJFdRmqClQNNfd12ANB177NrUD_ZKwvKxJ6lVCKNItARXXWd/s700/CELESTIAL%20MOVIES.png",CELESTIAL MOVIE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 
-
-#EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="",W-SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
-
 #EXTINF:-1 group-title="5. INDIHOME TV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRdFLcCOJNkXdy8G5BVyULYxzGjz__yF6SLkkbnnlPQnuZ2dmaEkwrnT8l7saPMKMnnRkBPffww7HvuSk2GRI6jj7YL6D29XXfXaPpSqOKj9YvzyivYCLy-4lOHJiflKo9qsn_XZ-mKj8__fMC0rY05zm1SFV1jpsXhdwbNx9vw2yFJldFdw3xHYI9p4Q/s700/CINEMA%20WORLD.png",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png",CNN INTERNATIONAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3012,7 +3022,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
-
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8bNxv0udlsq5TP8HuQCe6uuQBE_nMnxhEtfagRUDOYhtfdRyEg6mT1pMwNuf1niTGCR6nyyclHlbgCzwLmNLLNu7qV2-pL1J_jAjiEbfMe_GeX3SVS9KN2-C0VdVYDF2oQeIeDK_4OwyQbkjNiocDNJAFn4hGKVWD1PuIg83QMr_ljCsx7gK0RocVxy8w/s700/DUNIA%20LAIN.png",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3038,7 +3047,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
-
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3127,16 +3135,6 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkUWeDK_ePgIPSNJvHTjIuhj5cl41oI-3CkPpcs0Oj3h6wnuCoZzYWB_gSeJ4OYNExDaNDHeiIepNZJl6De9RzxT0mKe9EvcpnGCn1WwZY4JTX_7WS3zi-HlHacDuK1i5im8j_X23iiD9V_rZSRXB9YoYpBHG-SIwTAIZ4eqKAbxnrFdtKdVhkrJ8BWbv/s700/NET.png",NET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZeLn9zrgyV4eICZgu7HVcIdvpwx0Ge_h3EyA4qMe2WDNm1RBvS2okghirooRT9PsD_YgBY57TjFgLtVeKnF1Okq7uefETWh-DoLtUG9AoQqDGIs0TW-C9FjKXXS9nVPM3uPg_u1v75qmGFNHGb1xCpAwlNZ6u9ew1G6V78Q_54QzRHMb2ea4SP8cD_dAE/s700/DAAI%20TV.png",DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
-
 #EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png",MY KIDZ
 https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
@@ -3148,11 +3146,11 @@ https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1t6Yl_YaFM88JrD_a3kSdN25cJTSbCQ9C2NtwVsN1bbEumqfhdLvZm6lQp19gVASVeFhaGOzjgTOA0k5mdfpAdb00BNQr9Ko4cf0K3KnNbNxLNwrAKeaKAFeuwN4fcVdHfT1ZskyKVhPHK4mHNXaEDTvXg4BwSwq-Yv6Wb4F8ezh3MVbC3YZedppzM8p/s700/ANIMAX.png",ANIMAX
+https://cdn08jtedge.indihometv.com/dassdvr/130/animax_dash/manifest.mpd
+
 #EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUMtKSR5T3BUCKFiU-q1gxvjSGq7GYOwTSihLjhifhryzRtGAZyFUoz_QB0CSgJai9vBfILvcfAfNnyy_BpTKY5cx9Z_ie1-urA_kAm9uQyFiRaLL7xhJkoJWMZCyfTXh1HBt2eUJrSwMTCLX-XQHL8QdH0KUepvttJF1mN1bWNiypaebE_7FKRDu289Ca/s700/AXN.png",AXN
 https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
-
-#EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1t6Yl_YaFM88JrD_a3kSdN25cJTSbCQ9C2NtwVsN1bbEumqfhdLvZm6lQp19gVASVeFhaGOzjgTOA0k5mdfpAdb00BNQr9Ko4cf0K3KnNbNxLNwrAKeaKAFeuwN4fcVdHfT1ZskyKVhPHK4mHNXaEDTvXg4BwSwq-Yv6Wb4F8ezh3MVbC3YZedppzM8p/s700/ANIMAX.png",ANIMAX
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 group-title="5. INDIHOME TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrx4PVxZuM2bUu4mbPIU2jdcW9Ldq8A_033GCiynWKxgR9liCwFN8-v8d_458T9-D9gPM-WbjKZdkpRXiWg9fkv8JAcuO0wCRP2NCZlYevDBqhAUwhP6RmOaiZExNxFgNtv1X3rHSggSni6Rv3hppFE-4LYhiRuTU_pyI2_0lfgSEbklkW-NbHYALHjcp/s700/ALLPLAY%20ENT.png",ALLPLAY ENT
 https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -3172,14 +3170,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="5. INDIHOME TV" tvg-id="" , Studio Universal
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_big.png" group-title="5. INDIHOME TV", MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -3213,11 +3203,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvFD25_tW-pzEnmZW4RO95laNwdijQiibNPAiyjZfQbBTOuE7Cx2sJhLWF14JflO52nNYNbVGgIaPGVq2Sx2eHu7rpVhvGs8Gg2-L3uMcy9xxisUCEtMIUTmoXbQpO_N94giS6M-AVBzGyZBBYHKFgfmAegpHUkK47l5L8XmEDMm0uA8P9yFDCwQjVHaa/s700/K+.png",KPLUS
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuSnBpTGSfMBR7wZMAueKtHv-bKgDX0w06BrOE3WcK9LAUrRDfBvXGRYs_RDXgsQSYdjHlSjfet16LZKaqdIMAgTuO0l6WBgeB9J5wa9zLpLABC9psc0sydyaJqQvCCtgg3qj2YKGb0BrQKIXYWteVrpOyG9h1QY-Sf6jXSiB3xyie0sCqBfpiNPbJpUr/s700/ANIPLUS.png",ANIPLUS 2
+#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuSnBpTGSfMBR7wZMAueKtHv-bKgDX0w06BrOE3WcK9LAUrRDfBvXGRYs_RDXgsQSYdjHlSjfet16LZKaqdIMAgTuO0l6WBgeB9J5wa9zLpLABC9psc0sydyaJqQvCCtgg3qj2YKGb0BrQKIXYWteVrpOyG9h1QY-Sf6jXSiB3xyie0sCqBfpiNPbJpUr/s700/ANIPLUS.png",ANIPLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/aniplus/manifest.mpd
-##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
+##https://cdn08jtedge.indihometv.com/dassdvr/130/aniplus_dash/manifest.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPXFYjgcNhqzuax_7gQJXiEKutq2Y3-79L0Krb43CbZR4UOcMfs4ISSHXMPU2oOGYRzWoiRkz91KlJkbfpJNXsQDK2ibUUNMp_mJQiR7ZyeLcqBDnDC-xxLFXKw9rNmuLS3O4vydNxOeIIl2rfLKQrJ42fQdrJ97JHSZKxwP87IVqs60hr5-tijHQhQP0/s700/MTV%20LIVE.png",MTV
 https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
@@ -3226,17 +3216,11 @@ https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0gCBaPLRnL4M8PtA036XoQaTXT8HjYPJvhvmPM1KJ2p6rT2AFtWbISL4AgTF7F3aBdclHpJPrGrg4Rm17HNio08hyhPmGtmVT7HNdOpqzePdANPHXU-1Odxy2LeqdTxqm9TTfAjvzm1934uCzF6ZDDkUYaKAhu6M8owN-i3BwBFAs-MlYOWZvXvl_w1E/s700/PRAMBORS.png",PRAMBORS
 https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmrPQhIFluAsZBMbCg1zLGz_lsigRSw3eVkbGEJgVJTdX2M3D65gMJFI3fuuIuMFlw7JgC7TIeyG0n8QshFICHAIy7YG-wYKqgn0N6if4HABd4yDh9Zys4Ss6BWZCUiFJxLN2an9C0uuhyphenhyphenPP3IYZK3Ej4tg4_Jyy5rbZEKpLlEqNnW2bsuc0WGul_wloSf/s700/TAWAF%20TV.png",TAWAF TV
-https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHKuE2zRnRrdG2KglvtZpk9kxaz_qiMVZm2NBbbXgCfbeI_wfhHH_Yew47rXW2CYcTZ_Dg5u8y8DAqxlFGroAFfNMrJBiuWX0YAH255-a-KzMk7A-lKfycg47XJ6c74_q3uJYKbYby8hFDuo0n__Lp-23o0MA6dnxP3P3WfSpBU_hbyef7EK8WkK5dFEj/s700/ANTARA%20TV.png",ANTARA
 https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZYdbrrg6EW2ympqEuBRMhkyLr0-KIV0VjspNKAo81v-PBuuXMn84oWAjE9EUgw-0OnU2q_6VrNXbTxjaTK0vNjfWJ7v3tIqwVyy-cKMuHZ_ifYXYrPbfLu2lioHLxWVl6gt8zqX2Ol0AyOEeAh3p4DRir2w-e2akTojoXlpDAlj1QRJI1lvWhZL30xRx/s700/SERU%20CHANNEL.png",SERU! CHANNEL
 https://cdn09jtedge.indihometv.com/joss/134/seru/index.m3u8
-
-#EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_qjUUfSUqWU54kDYdZud2yaa1TH_L-uMwsuw27ZelFzffpbsPgImaW2vuwP2UZwh48ST9L0qlDA_GmupO5Z523BRBSTTJKNgJubHKTa5gvrPbitY1E9dHbf1EF_LtuJDOMnSsivoebEaF7ygsG8a_VrcCjYOHWwECQOGNZi8MayPm01Y3O-Cl0u3d-CT/s700/DWTV.png",DW TV
-https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8rUrK181MBOwQlkMQxoPlNq4xZQqhnEQ7OtO3Dztm1dI4lSbJiVNUxUI5X74PMrf-NNJKtWpE4VFitKBSlyXMksBpjdQn2xqoSx7n1lQwgXLU5hPFT3J4XaPYD6JfZlycIHLqSiWE6SaHvfr1ZZXAc6mDlIeFxbn2Kdlwb-z6Wj05Z3F4vd0DEX6FWASM/s700/ZEE%20BIOSKOP.png",ZBIOSKOP
 https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
@@ -3558,12 +3542,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
 
-
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> my group <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 
 #EXTINF:-1 group-title="6. MOVIE" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myfam.png",My Family HD
