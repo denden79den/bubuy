@@ -4203,12 +4203,7 @@ http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13817
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports2qa.png" tvg-id="beINSports2Ar.qa" ,BEIN SPORTS 2 
 ##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237138
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports3qa.png" tvg-id="beINSports3Ar.qa" ,BEIN SPORTS 3 
 http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13823
