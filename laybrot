@@ -3972,18 +3972,30 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 =====================tv Astro sports=================
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="9. SPORTS", ASTRO PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+#EXTVLCOPTEXTVLCOPT:http-user-agent=xplayer168
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp1&ts=003749_1744932768.ts&token=1866064ca9c1e70a1d925f4a59fdca6b
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="9. SPORTS", ASTRO PREMIER LEAGUE 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+#EXTVLCOPTEXTVLCOPT:http-user-agent=xplayer168
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp2&ts=001927_1744932677.ts&token=a23e62e892d1fe54f75d0c817ec45e09
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="9. SPORTS", ASTRO GRANDSTAND
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+#EXTVLCOPTEXTVLCOPT:http-user-agent=xplayer168
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp3&ts=003718_1744932784.ts&token=089e7e7d176a8561bf07ec60d8316814
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="9. SPORTS", ASTRO FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+#EXTVLCOPTEXTVLCOPT:http-user-agent=xplayer168
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp4&ts=003640_1744950113.ts&token=c8c7e47b602b415905ebc832e4811031
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="9. SPORTS", Astro Sports Plus
 http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="9. SPORTS", Astro Badminton
-http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
-
+##http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+https://pixman.mytvsuper.com.mp/Smart.php?id=go_badminton1&token=c433f1f053235edfc6d4af728826a0dd
 
 =====================tv play sports=================
 
