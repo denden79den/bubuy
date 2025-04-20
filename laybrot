@@ -3851,7 +3851,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="9. SPORTS",Champions TV 6 (OTT)
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="9. SPORTS",Champions TV 6 (OTT)
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
