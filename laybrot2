@@ -10609,7 +10609,7 @@ https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/TVBS/manifest.mpd
 
 
-===========================MOVIES============================================
+===========================MOVIE INDIHOME============================================
 
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3"  tvg-logo="Movies;https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
@@ -10680,10 +10680,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/thrill/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png",ZBIOSKOP
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
 #EXTINF:-1 group-title="5. INDIHOME TV 3"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_big.png",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+
 
 ==================================MUSIK INDIHOME=======================================
 
@@ -10708,6 +10713,8 @@ https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+
 
 ===================knowledge indihime==================================
 
@@ -10777,6 +10784,65 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png",FASHIONTV
 https://cdn11jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+
+
+==================entertainment indihome==============================
+
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3"  tvg-logo="https://images.indihometv.com/logo_arirang_big.png",ARIRANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/arirang/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_cctv4_big1.png",CCTV4
+https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png",NHK WORLD JAPAN
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_abcaustralia_big.png",ABC AUSTRALIA
+https://cdn11jtedge.indihometv.com/atm/DASH/ABCAUSTRALIA/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3"tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",CHINESE DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsnow/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3"tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",KPLUS
+https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/warnertv/manifest.mpd
+
+
 
 
 
