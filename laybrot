@@ -4453,7 +4453,7 @@ https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_france24_big.png" group-title="5. INDIHOME TV 2", FRANCE 24
-https://streaming.indihometv.com/atm/DASH/france24/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/france24/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="5. INDIHOME TV 2", CNN INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4461,7 +4461,7 @@ https://streaming.indihometv.com/atm/DASH/france24/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="5. INDIHOME TV 2", CNBC
-https://streaming.indihometv.com/atm/DASH/cnbcasia/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/cnbcasia/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImZRDZAUk6kKajjMZgQQVaCTuZAxaMmBFGN831QMtely5_YLlDDU6TSKKMiyfzyKrK22_-XoP8eTIKupA6xyeL84iaV6eeCmskhcWEpFF9zasFAMlkV6k7E8OrPMw5xXykoEZQ-y39fDrSKboo4wPbzegIDgisieoBJiLggqqcQMEhkUrwNE5jnpEZiTR/s700/BLOOMBERG.png",BLOOMBERG
 https://streaming.indihometv.com/atm/DASH/bloomberg/manifest.mpd
