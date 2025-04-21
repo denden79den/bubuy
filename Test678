@@ -10,3 +10,17 @@ https://streaming.indihometv.com/atm/DASH/BERITASATU_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", INEWS
 https://streaming.indihometv.com/atm/DASH/INEWS_TV/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", FRANCE24
+https://streaming.indihometv.com/atm/DASH/FRANSCE24_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", CNBC
+https://streaming.indihometv.com/atm/DASH/CNBC_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", BLOOMBERG
+https://streaming.indihometv.com/atm/DASH/BLOOMBERG_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", TVBS
+https://streaming.indihometv.com/atm/DASH/TVBS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", HITS
+https://streaming.indihometv.com/atm/DASH/HITS_TV/manifest.mpd
