@@ -4442,7 +4442,7 @@ https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 2", METRO TV
-https://streaming.indihometv.com/atm/DASH/METROTV/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/metrotv/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 2" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png",DW TV
 https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
@@ -4453,7 +4453,7 @@ https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_france24_big.png" group-title="5. INDIHOME TV 2", FRANCE 24
-https://streaming.indihometv.com/atm/DASH/FRANCE24/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/france24/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="5. INDIHOME TV 2", CNN INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4461,10 +4461,10 @@ https://streaming.indihometv.com/atm/DASH/FRANCE24/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="5. INDIHOME TV 2", CNBC
-https://streaming.indihometv.com/atm/DASH/CNBCASIA/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/cnbcasia/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImZRDZAUk6kKajjMZgQQVaCTuZAxaMmBFGN831QMtely5_YLlDDU6TSKKMiyfzyKrK22_-XoP8eTIKupA6xyeL84iaV6eeCmskhcWEpFF9zasFAMlkV6k7E8OrPMw5xXykoEZQ-y39fDrSKboo4wPbzegIDgisieoBJiLggqqcQMEhkUrwNE5jnpEZiTR/s700/BLOOMBERG.png",BLOOMBERG
-https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/bloomberg/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwplWB_T6jTauJij8vL_XkEiogRFTYQnBSi8lHAW7P7jCfNEYNoKtSfBhMErkjGRgFrgxeSyJ2SDhBCtKQsQDgkt6RsO0qUGFcwfEUHrnj8zPr6NvjdZsqQq_QkfeSEAWxnmLXFZZgrDGGsv1YtfbuW5j7yPurjuhJJFPODgsiRLcn_8B0duZ_KMPlJggK/s700/CNA.png",CNA
 https://streaming.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
@@ -4478,6 +4478,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mp
 https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvbsnews_big.png" group-title="5. INDIHOME TV 2", TVBS NEWS
-https://streaming.indihometv.com/atm/DASH/TVBS/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/tvbs/manifest.mpd
 
 
