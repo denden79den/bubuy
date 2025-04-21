@@ -1,2 +1,6 @@
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", METRO TV 1
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", METRO TV 2
+https://cdn08jtedge.indihometv.com/dassdvr/134/metrotv/manifest.mpd
+
