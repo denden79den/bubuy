@@ -6,3 +6,7 @@ https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", BERITA SATU
 https://streaming.indihometv.com/atm/DASH/BERITASATU_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME TV 3", INEWS
+https://streaming.indihometv.com/atm/DASH/INEWS_TV/manifest.mpd
+
