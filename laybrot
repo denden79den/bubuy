@@ -4480,4 +4480,5 @@ https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvbsnews_big.png" group-title="5. INDIHOME TV 2", TVBS NEWS
 https://streaming.indihometv.com/atm/DASH/tvbs/manifest.mpd
 
-
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png" group-title="5. INDIHOME TV 2",Curiosity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
