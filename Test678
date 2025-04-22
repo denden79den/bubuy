@@ -73,12 +73,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
 
-#EXTINF:-1  group-title="KIDS" tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",CARTOONITO
+#EXTINF:-1  group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",CARTOONITO
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="KIDS",INDI KIDS
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="5. INDIHOME TV 3",FUNPLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/indikids/manifest.mpd
