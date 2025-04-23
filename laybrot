@@ -3881,7 +3881,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z5JhjJ0/TVRISPORT.png" group-title="9. SPORTS",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/z5JhjJ0/TVRISPORT.png"  group-title="9. SPORTS",TVRI SPORT LIVE
 #http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166686
@@ -3993,6 +3994,20 @@ https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="9. SPORTS", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
 
+EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="9. SPORTS",Sony Sports Ten 1 HD
+http://watchindia.net:8880/live/32612/55103/2215.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="9. SPORTS",Sony Sports Ten 2 HD
+http://watchindia.net:8880/live/32612/55103/1757.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="9. SPORTS",Sony Sports Ten 3 HD
+http://watchindia.net:8880/live/32612/55103/1758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="9. SPORTS",Sony Sports Ten 4 HD
+http://watchindia.net:8880/live/32612/55103/2662.ts
+#EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="9. SPORTS",Sony Sports Ten 5 HD
+http://watchindia.net:8880/live/32612/55103/2663.ts
+
+#EXTINF:-1 tvg-id="sony.sports.ten" tvg-name="Ten Sports HD" tvg-logo="https://i.ibb.co.com/vCP14bXP/ten-sport.png" group-title="9. SPORTS",Ten Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="9. SPORTS",DIGI SPORT 1
 http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 HD RO" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="9. SPORTS",DIGI SPORT 2 HD RO
@@ -4005,14 +4020,9 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="9. SPORTS", CCTV 5+
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="9. SPORTS", CCTV 16
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="9. SPORTS", NBA TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+http://212.102.60.231/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="9. SPORTS", WWE NETWORK HD
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
@@ -4097,6 +4107,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="9. SPORTS", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j90nMM19/real-mad.png" group-title="9. SPORTS", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
  
 ===========================TV BEIN SPORTS======================================
