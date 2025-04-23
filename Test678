@@ -297,61 +297,61 @@ https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
 =========================NEWS VISION+=============================
 
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://static.mncnow.id/images/channel/17c7c1b0/a32f_r32.jpg"group-title="2. VISION+", Metro TV 
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://static.mncnow.id/images/channel/17c7c1b0/a32f_r32.jpg" group-title="2. VISION+", Metro TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd 
 
-#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://static.mncnow.id/images/channel/6830ce0e/5940_r32.jpg"group-title="2. VISION+", Kompas TV 
+#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://static.mncnow.id/images/channel/6830ce0e/5940_r32.jpg" group-title="2. VISION+", Kompas TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd 
 
-#EXTINF:-1 tvg-id="TV One" tvg-logo="https://static.mncnow.id/images/channel/e9fade08/706a_r32.jpg"group-title="2. VISION+", TV One 
+#EXTINF:-1 tvg-id="TV One" tvg-logo="https://static.mncnow.id/images/channel/e9fade08/706a_r32.jpg" group-title="2. VISION+", TV One 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd 
 
-#EXTINF:-1 tvg-id="BTV" tvg-logo="https://static.mncnow.id/images/channel/5727e9d9/9d9f_r32.jpg"group-title="2. VISION+", BTV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTINF:-1 tvg-id="BTV" tvg-logo="https://static.mncnow.id/images/channel/5727e9d9/9d9f_r32.jpg" group-title="2. VISION+", BTV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd 
 
-#EXTINF:-1 tvg-id="SINDONEWS TV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg"group-title="2. VISION+", SINDONEWS TV 
+#EXTINF:-1 tvg-id="SINDONEWS TV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg" group-title="2. VISION+", SINDONEWS TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd 
 
-#EXTINF:-1 tvg-id="IDX Channel" tvg-logo="https://static.mncnow.id/images/channel/ae881c8e/be94_r32.jpg"group-title="2. VISION+", IDX Channel 
+#EXTINF:-1 tvg-id="IDX Channel" tvg-logo="https://static.mncnow.id/images/channel/ae881c8e/be94_r32.jpg" group-title="2. VISION+", IDX Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd 
 
-#EXTINF:-1 tvg-id="SEA Today" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg"group-title="2. VISION+", SEA Today 
+#EXTINF:-1 tvg-id="SEA Today" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="2. VISION+", SEA Today 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd 
 
-#EXTINF:-1 tvg-id="Channel News Asia" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg"group-title="2. VISION+", Channel News Asia 
+#EXTINF:-1 tvg-id="Channel News Asia" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg" group-title="2. VISION+", Channel News Asia 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsianow/sa_dash/ChannelNewsAsianow.mpd 
 
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-logo="https://static.mncnow.id/images/channel/de1c4e7e/c134_r32.jpg"group-title="2. VISION+", Al Jazeera English 
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-logo="https://static.mncnow.id/images/channel/de1c4e7e/c134_r32.jpg" group-title="2. VISION+", Al Jazeera English 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd 
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://static.mncnow.id/images/channel/794aa6d9/ba0f_r32.jpg"group-title="2. VISION+", BBC World News 
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://static.mncnow.id/images/channel/794aa6d9/ba0f_r32.jpg" group-title="2. VISION+", BBC World News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BBCWorldNewsnow/sa_dash/BBCWorldNewsnow.mpd 
 
-#EXTINF:-1 tvg-id="RT English" tvg-logo="https://static.mncnow.id/images/channel/4462f88d/6981_r32.jpg"group-title="2. VISION+", RT English 
+#EXTINF:-1 tvg-id="RT English" tvg-logo="https://static.mncnow.id/images/channel/4462f88d/6981_r32.jpg" group-title="2. VISION+", RT English 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd 
 
-#EXTINF:-1 tvg-id="France 24" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg"group-title="2. VISION+", France 24 
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg" group-title="2. VISION+", France 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/france24now/sa_dash/france24now.mpd 
@@ -360,7 +360,7 @@ https://av-ch-cdn.mncnow.id/live/eds/france24now/sa_dash/france24now.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash/DW.mpd 
 
-#EXTINF:-1 tvg-id="TRT World" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg"group-title="2. VISION+", TRT World 
+#EXTINF:-1 tvg-id="TRT World" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg" group-title="2. VISION+", TRT World 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd 
@@ -369,7 +369,7 @@ https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd 
 
-#EXTINF:-1 tvg-id="For IDX" tvg-logo="https://static.mncnow.id/images/channel/53d10892/7732_r32.jpg"group-title="2. VISION+", For IDX 
+#EXTINF:-1 tvg-id="For IDX" tvg-logo="https://static.mncnow.id/images/channel/53d10892/7732_r32.jpg" group-title="2. VISION+", For IDX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd 
