@@ -3994,7 +3994,7 @@ https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="9. SPORTS", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
 
-EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="9. SPORTS",Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="9. SPORTS",Sony Sports Ten 1 HD
 http://watchindia.net:8880/live/32612/55103/2215.ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="9. SPORTS",Sony Sports Ten 2 HD
 http://watchindia.net:8880/live/32612/55103/1757.ts
@@ -4004,6 +4004,11 @@ http://watchindia.net:8880/live/32612/55103/1758.ts
 http://watchindia.net:8880/live/32612/55103/2662.ts
 #EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="9. SPORTS",Sony Sports Ten 5 HD
 http://watchindia.net:8880/live/32612/55103/2663.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="9. SPORTS",Star Sports Select 1 HD
+http://watchindia.net:8880/live/32612/55103/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="9. SPORTS",Star Sports Select 2 HD
+http://watchindia.net:8880/live/32612/55103/1071.ts
 
 #EXTINF:-1 tvg-id="sony.sports.ten" tvg-name="Ten Sports HD" tvg-logo="https://i.ibb.co.com/vCP14bXP/ten-sport.png" group-title="9. SPORTS",Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
