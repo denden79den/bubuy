@@ -3955,6 +3955,22 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
 ##http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
 https://pixman.mytvsuper.com.mp/Smart.php?id=go_badminton1&token=c433f1f053235edfc6d4af728826a0dd
 
+
+#EXTINF:-1 tvg-id="idh" tvg-logo="https://i.ibb.co.com/Q7q3zQmq/Onesport.png" group-title="9. SPORTS" , ONE SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-id="idh" tvg-logo="https://i.ibb.co.com/rftyvxcd/Onesports.png" group-title="9. SPORTS" , ONE SPORTS+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
 =====================tv play sports=================
 
 #EXTINF:-1 group-title="9. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
@@ -4084,6 +4100,21 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="9. SPORTS", UK: SKY SPORTS MAIN EVENT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://i.ibb.co.com/200jfBD6/Skysportslaliga.png" group-title="9. SPORTS" , SKY SPORTS LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-id="SKY SPORTS BUNDES LIGA" tvg-logo="https://i.ibb.co.com/SDsfFQs5/Skysportsbundesliga.png" group-title="9. SPORTS" , SKY SPORTS BUNDES LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="9. SPORTS", CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
