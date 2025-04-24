@@ -3245,11 +3245,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/blueant/manifest.mpd
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/animax/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_sone_big.png",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
