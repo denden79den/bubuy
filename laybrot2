@@ -10720,6 +10720,14 @@ https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
+===================kids indihime==================================
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+
+
+
 
 ===================knowledge indihime==================================
 
@@ -10791,7 +10799,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 https://cdn11jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 
-==================entertainment indihome==============================
+=========================ENTERTAIMENT INDIHOME==============================
 
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
@@ -10810,7 +10818,6 @@ https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png",NHK WORLD JAPAN
 https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
-=========================ENTERTAIMENT INDIHOME==============================
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_abcaustralia_big.png",ABC AUSTRALIA
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
