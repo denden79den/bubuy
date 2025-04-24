@@ -11015,3 +11015,6 @@ https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="5. INDIHOME TV 3", AlQuran Kareem
 https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TV 3", MQTV
+https://streaming.indihometv.com/atm/DASH/mqtv/manifest.mpd
