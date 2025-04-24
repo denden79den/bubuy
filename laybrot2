@@ -10725,6 +10725,60 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/dreamworks/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickelodeon/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png",Dunia anak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/boomerang/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png",MyKidz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/mykids/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",Da Vinci Learning
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/davinci/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png",Moonbug
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/moonbug/manifest.mpd
 
 
 
