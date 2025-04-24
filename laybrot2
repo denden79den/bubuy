@@ -10989,3 +10989,29 @@ https://streaming.indihometv.com/atm/DASH/newtvfinance/manifest.mpd|user-agent=M
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
+
+===========================religi indihome==============================
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="5. INDIHOME TV 3", MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="5. INDIHOME TV 3", TAWAF TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_uchannel_big1.png" group-title="5. INDIHOME TV 3", UCHANNEL
+https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_rodjatv_big1.png" group-title="5. INDIHOME TV 3", RODJATV
+https://streaming.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tv9_big.png" group-title="5. INDIHOME TV 3", TV9 NU
+https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tvmui_big.png" group-title="5. INDIHOME TV 3", MUI TV
+https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="5. INDIHOME TV 3", Tawaf TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="5. INDIHOME TV 3", AlQuran Kareem
+https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
