@@ -3047,8 +3047,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/nickelodeon/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png",Dunia anak
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TV 3" tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",Cartoonito
