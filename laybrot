@@ -3882,16 +3882,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20seinfel
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png"
 
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ETV Bioskop 1
-https://WahyuIPTV.short.gy/EtvBioskop1
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ETV Bioskop 2
-https://WahyuIPTV.short.gy/EtvBioskop2
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="7. ETV BIOSKOP",ETV Bioskop 3
-https://WahyuIPTV.short.gy/EtvBioskop3
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="7. ETV BIOSKOP",ETV Bioskop 4
-https://WahyuIPTV.short.gy/EtvBioskop4
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ETV BIOSKOP 01
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ETV BIOSKOP 02
@@ -3914,13 +3904,13 @@ https://WahyuIPTV.short.gy/EtvBioskop3
 http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 01
-##http://aflaxtv.xyz:8080/Wat068/924a937d/298526
+http://aflaxtv.xyz:8080/Wat068/924a937d/298526
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 02
-##http://aflaxtv.xyz:8080/Wat068/924a937d/298513
+http://aflaxtv.xyz:8080/Wat068/924a937d/298513
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 03
-##http://aflaxtv.xyz:8080/Wat068/924a937d/298514
+http://aflaxtv.xyz:8080/Wat068/924a937d/298514
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 04
-##http://aflaxtv.xyz:8080/Wat068/924a937d/298529
+http://aflaxtv.xyz:8080/Wat068/924a937d/298529
 
 
 
