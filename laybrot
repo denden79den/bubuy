@@ -480,7 +480,8 @@ https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1 h
 https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd 
 
-#EXTINF:-1 group-title="1. FIRSTMEDIA" tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s", RAI Italia #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#EXTINF:-1 group-title="1. FIRSTMEDIA" tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s", RAI Italia 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875 
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd 
