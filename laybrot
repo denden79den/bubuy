@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U billed-msg="DENI TV.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -4216,30 +4215,25 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 =====================tv Astro sports=================
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="9. SPORTS", ASTRO PREMIER LEAGUE
-##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1722
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="9. SPORTS", ASTRO PREMIER LEAGUE 2
-##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1721
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="9. SPORTS", ASTRO GRANDSTAND
 ##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-##https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1720
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="9. SPORTS", ASTRO FOOTBALL
 ##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-##https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1719
+https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="9. SPORTS", Astro Sports Plus
-##http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/71146
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="9. SPORTS", Astro Badminton
-##http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/71105
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
 
 #EXTINF:-1 tvg-id="idh" tvg-logo="https://i.ibb.co.com/Q7q3zQmq/Onesport.png" group-title="9. SPORTS" , ONE SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -4259,12 +4253,14 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 =====================tv play sports=================
 
 #EXTINF:-1 group-title="9. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
-http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811941&extension=ts&play_token=YSU2hyxJBL
 #EXTINF:-1 group-title="9. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
-http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
-#EXTINF:-1 group-title="9. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
-http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+##http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811940&extension=ts&play_token=qflfsdtrg0
 
+#EXTINF:-1 group-title="9. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+##http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811939&extension=ts&play_token=myTDQC1rJB
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS",HUB SPORTS 1
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
@@ -4548,8 +4544,3 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="11. LIVE EVENT LIGA INGRIS", OPTUS SPORT 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",MY013:Super Sport 1
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",MY014:Super Sport 2
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/1721
