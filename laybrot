@@ -4428,14 +4428,16 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co.com/kg0L3Q6s/bein-s.png"
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/logo/bein/bs1.png" tvg-id="beINSports1Ar.qa" ,BEIN SPORTS 1 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13817
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13817
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports2qa.png" tvg-id="beINSports2Ar.qa" ,BEIN SPORTS 2 
 ##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237138
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports3qa.png" tvg-id="beINSports3Ar.qa" ,BEIN SPORTS 3 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13823
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13823
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports4qa.png" tvg-id="beINSports4Ar.qa" ,AR| BEIN SPORTS 4 
 http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13826
