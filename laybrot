@@ -4440,31 +4440,40 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports4qa.png" tvg-id="beINSports4Ar.qa" ,AR| BEIN SPORTS 4 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13826
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13826
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports5qa.png" tvg-id="beINSports5Ar.qa" ,BEIN SPORTS 5 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13829
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13829
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports6qa.png" tvg-id="01TV.fr" ,BEIN SPORTS 6 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13832
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13832
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports7qa.png" tvg-id="beINSports7Ar.qa" ,BEIN SPORTS 7 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13835
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13835
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png" ,BEINSPORTS 8 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13838
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13838
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png" tvg-id="beINSports8Ar.qa" ,BEIN SPORTS 9 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13841
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/13841
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.1.ENGLISH.png" tvg-id="beINSports1En.qa" ,BEIN SPORTS 1 ENGLISH 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237126
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237126
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinareng1.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.2.ENGLISH.png" tvg-id="beINSports2En.qa" ,AR|BEIN SPORTS 2 ENGLISH 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237125
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/237125
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinareng2.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png" ,Bein Sport Xtra 1 
-http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/1202998
+##http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/1202998
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinarxtra1.m3u8
 
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png" ,Bein Sport Xtra 2
 http://myelitetv.xyz:80/HU1HQ2pVjtWn9MrA/qAFjty3I2q/1202994
