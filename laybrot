@@ -3894,7 +3894,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/24-7%20seinfel
 
 
 
-==================================FILM ETV BIOSKOP====================================
+==================================ETV BIOSKOP====================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png"
 
@@ -3910,33 +3910,33 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ETV Bioskop 1.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+##http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ETV Bioskop 2.2
-https://WahyuIPTV.short.gy/EtvBioskop2
+##https://WahyuIPTV.short.gy/EtvBioskop2
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="7. ETV BIOSKOP",ETV Bioskop 3.2
-https://WahyuIPTV.short.gy/EtvBioskop3
+##https://WahyuIPTV.short.gy/EtvBioskop3
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="7. ETV BIOSKOP",ETV Bioskop 4.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+##http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 01
-http://aflaxtv.xyz:8080/Wat068/924a937d/298526
+##http://aflaxtv.xyz:8080/Wat068/924a937d/298526
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 02
-http://aflaxtv.xyz:8080/Wat068/924a937d/298513
+##http://aflaxtv.xyz:8080/Wat068/924a937d/298513
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 03
-http://aflaxtv.xyz:8080/Wat068/924a937d/298514
+##http://aflaxtv.xyz:8080/Wat068/924a937d/298514
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 04
-http://aflaxtv.xyz:8080/Wat068/924a937d/298529
+##http://aflaxtv.xyz:8080/Wat068/924a937d/298529
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="7. ETV BIOSKOP",Etv Bioskop
-http://filex.tv:8080/Home329/Sohailhome/302240
+##http://filex.tv:8080/Home329/Sohailhome/302240
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="7. ETV BIOSKOP",Etv Bioskop 02
-http://filex.tv:8080/Home329/Sohailhome/302241
+##http://filex.tv:8080/Home329/Sohailhome/302241
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="7. ETV BIOSKOP",Etv Bioskop 03
-http://filex.tv:8080/Home329/Sohailhome/302242
+##http://filex.tv:8080/Home329/Sohailhome/302242
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="7. ETV BIOSKOP",Etv Bioskop 04
-http://filex.tv:8080/Home329/Sohailhome/302243
+##http://filex.tv:8080/Home329/Sohailhome/302243
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Music<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
