@@ -4478,6 +4478,10 @@ https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd 
 
+#EXTINF:-1 tvg-id="BUDDY STARS" tvg-logo="https://static.mncnow.id/images/channel/87a92cbd/8868_r32.jpg" group-title="14. TV ANAK", BUDDY STARS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd 
 
 #EXTINF:-1 tvg-id="dummy" tvg-logo="https://img.freepik.com/premium-vector/cartoon-world_529753-1160.jpg?w=360" group-title="14. TV ANAK",Cartoon TV Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
