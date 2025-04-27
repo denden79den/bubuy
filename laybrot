@@ -1456,10 +1456,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 ##### TV TRANSVISION 99 CH #####
 
+
 #EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg"
-
-=========TRANSVISION TV======°
-
 
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5-zyiSryAxlOHZquofYKT50h_qvWkuIgfQ&usqp=CAU" group-logo="https://s9.krakenfiles.com/uploads/03-08-2024/5TcAr5CmnV/image.png" group-title="3. TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1518,7 +1516,7 @@ https://cdnjkt913.transvision.co.id:1003/live/master/2/4028c6856c3db2cc016cd6e64
 https://cdnjkt913.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHz4qXZXyyIxnU2ooR9jRKemsGjTOx0zclg&usqp=CAU" group-title="110. TV | Transvision 2",RCTI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHz4qXZXyyIxnU2ooR9jRKemsGjTOx0zclg&usqp=CAU" group-title="3. TRANSVISION",RCTI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3204,6 +3202,8 @@ https://streaming.indihometv.com/atm/DASH/mqtv/manifest.mpd|user-agent=Mozilla/5
 
 ///// MOVIES /////
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/pBqLSVMh/tv-movie.png"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4106,6 +4106,7 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=591588&extens
 
 ================Optus≠===============
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/BHRLq0TY/live-event.png"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="11. LIVE EVENT LIGA INGRIS", OPTUS SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
@@ -4134,6 +4135,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 
 <=================== HIBURAN =============================>
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/n8qPJc20/hiburan.png"
 
 #EXTINF:-1 group-title="12. HIBURAN" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4305,6 +4308,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 <================ PENGETAHUAN ==========================>
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/F43CBM7Q/knowladge.png"
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/daXcbfB.png" group-title="13. PENGETAHUAN", DISCOVERY CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4371,6 +4375,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 ==========================TV ANAK===================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/5gdg3Yyr/tv-anak.png"
 
 #EXTINF:-1 group-title="14. TV ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
