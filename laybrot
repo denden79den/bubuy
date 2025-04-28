@@ -2602,6 +2602,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV LOKAL|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="5. INDIHOME",TransTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
