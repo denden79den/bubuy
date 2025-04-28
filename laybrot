@@ -2598,11 +2598,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 ==========================local indihome=============================
 
 
-#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY ENT
-https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV LOKAL|------
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY ENT
+https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="5. INDIHOME",TransTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -2683,10 +2683,8 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-
-======================SPORT INDIHOME==============================
-
-#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|S P O R T S|------
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV SPORTS|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/assets/1719765710_SPOTV-OTT-88-BW.png",SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2721,6 +2719,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
 ===========================NEWS INDIHOME=====================================
 
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV BERITA|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME"tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png",SEA TODAY
 https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
@@ -2777,6 +2777,8 @@ https://streaming.indihometv.com/atm/DASH/tvbs/manifest.mpd|user-agent=Mozilla/5
 
 ===========================MOVIE INDIHOME============================================
 
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|MOVIE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="Movies;https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2857,6 +2859,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 ==================================MUSIK INDIHOME=======================================
 
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV MUSIK|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS
 https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
@@ -2881,6 +2885,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
 ===================kids indihome==================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|KIDS TV|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -2954,6 +2961,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
 ===================knowledge indihime==================================
 
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|KNOWLADGE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -2997,6 +3006,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
 ========================lifestyle indihome===========================
 
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|LIFESTYLE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_atv_big.png",ATV
 https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
@@ -3023,6 +3034,9 @@ https://cdn11jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 
 =========================ENTERTAIMENT INDIHOME==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|ENTERTAINMENT|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3103,8 +3117,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/blueant/manifest.mpd
 
-
-
 #EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
 
@@ -3169,6 +3181,9 @@ https://streaming.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd|user-agen
 
 
 ===========================religi indihome==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|RELIGI|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="5. INDIHOME", MTATV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
