@@ -4825,7 +4825,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be4
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="HowTo" ch-number="250" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844acc25b94c89/15633a2e150f408895b0e0d98f336e64.jpg" group-title="15. CUMBU",HowTo 
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd 
@@ -4955,7 +4956,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc512
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="Dunia Lain" ch-number="344" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856ea34e35016ef8e9fdf951c1/e55ef2d8ea58482b8b3f5f0e77c079ef.png" group-title="15. CUMBU",Dunia Lain 
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd 
 
@@ -4987,7 +4989,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="Gem TV" ch-number="393" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff049018455fce9454360/51f77b5ade374f71a0e168e122899182.png" group-title="15. CUMBU",Gem TV 
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd 
 
@@ -4997,7 +5000,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="Joke TV" ch-number="394" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff049018455fe09894361/40b7de3d2f574647b0c5f6e930853d27.jpg" group-title="15. CUMBU",Joke TV 
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd 
 
@@ -5052,7 +5056,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Crema.TV" ch-number="504" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03c17d371528/80d2a0232bcf42c59342659d05b076d5.jpg" group-title="15. CUMBU",Crema.TV https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd 
+#EXTINF:0 tvg-id="ID" tvg-name="Crema.TV" ch-number="504" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03c17d371528/80d2a0232bcf42c59342659d05b076d5.jpg" group-title="15. CUMBU",Crema.TV 
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -5195,7 +5200,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="CNN International" ch-number="600" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d063630b46d1c/72316b42d5124f58b3a67a443249bc1b.png" group-title="15. CUMBU",CNN International 
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
