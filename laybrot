@@ -5493,7 +5493,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:0 tvg-id="ID" tvg-name="Kompas TV" ch-number="814" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="15. CUMBU",Kompas TV 
-https://cdnjkt4.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd 
+https://cdnjkt913.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -5513,9 +5513,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc76
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Rtv" ch-number="816" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="15. CUMBU",rtv 
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#EXTINF:0 tvg-id="ID" tvg-name="Rtv" ch-number="816" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="15. CUMBU",RTV 
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd 
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
