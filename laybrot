@@ -4068,12 +4068,16 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: INTER CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="9. SPORTS",INTER TV
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/129275
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 1 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 1 HD
-http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187617
-#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 2 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 2 HD
-http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187616
-#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 3 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 3 HD
-http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187615
+#EXTINF:-1 tvg-id="film.hits.al" tvg-name="AL142:SUPER SPORTS 1 FHD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 1
+http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30492
+##http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187617
+#EXTINF:-1 tvg-id="film.autor.al" tvg-name="AL143:SUPER SPORTS 2" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 2
+http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30491
+#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL144:SUPER SPORTS 3" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 3
+http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30490
+##http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187615
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL145:SUPER SPORTS 4" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 4
+http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30489
 
 
 
