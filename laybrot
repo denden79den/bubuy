@@ -4044,6 +4044,16 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=45327&extensi
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j90nMM19/real-mad.png" group-title="9. SPORTS", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 1 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 1 HD
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187617
+#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 2 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 2 HD
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187616
+#EXTINF:-1 tvg-id="" tvg-name="EPL: VIP ASTRO SUPERSPORT 3 HD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",EPL: VIP ASTRO SUPERSPORT 3 HD
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187615
+
+
+
+
  
 ===========================TV BEIN SPORTS======================================
 
@@ -4130,7 +4140,6 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=591590&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=787905&extension=ts&play_token=HWgUB7rqya
 #EXTINF:-1 group-title="10. BEIN SPORTS" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/AlKassFourqa.png" tvg-id="AlKassFive.qa" ,QA| AL KASS FOUR 
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=591588&extension=ts&play_token=au2H5ympoW
-
 
 
 ================Optus≠===============
