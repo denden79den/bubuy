@@ -4069,7 +4069,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/129275
 
 
-===================================SPORTS 2===================================
+===================================TV SPORTS 2===================================
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON HD" tvg-logo="http://go4.pw/ASIA/Badminton.png" group-title="9. SPORTS 2",ASTRO BADMINTON HD
@@ -4141,6 +4141,14 @@ http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324815
 #EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="HUB PREMIER 11 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 11 
 http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324816
 
+#EXTINF:-1 group-title="9. SPORTS 2 tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
+#EXTINF:-1 group-title="9. SPORTS 2 tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
+#EXTINF:-1 group-title="9. SPORTS 2 tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
+#EXTINF:-1 group-title="9. SPORTS 2 tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
 
