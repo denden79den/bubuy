@@ -4068,16 +4068,78 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: INTER CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="9. SPORTS",INTER TV
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/129275
 
-#EXTINF:-1 tvg-id="film.hits.al" tvg-name="AL142:SUPER SPORTS 1 FHD" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 1
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30492
-##http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187617
-#EXTINF:-1 tvg-id="film.autor.al" tvg-name="AL143:SUPER SPORTS 2" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 2
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30491
-#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL144:SUPER SPORTS 3" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 3
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30490
-##http://marcoes.com:8080/ekrem141223/1WHHwJxM53/187615
-#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL145:SUPER SPORTS 4" tvg-logo="http://pic.qw1234.org/logos/tn_Astro%20Sports.png" group-title="9. SPORTS",ASTRO SUPER SPORTS 4
-http://103.211.103.30:8880/DAANM2777/Xvd4eLMM7m/30489
+
+===================================SPORTS 2===================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON HD" tvg-logo="http://go4.pw/ASIA/Badminton.png" group-title="9. SPORTS 2",ASTRO BADMINTON HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1170914
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON 2 FHD" tvg-logo="http://go4.pw/ASIA/Badminton 2.png" group-title="9. SPORTS 2",ASTRO BADMINTON 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1170910
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO FOOTBALL FHD" tvg-logo="http://go4.pw/ASIA/football.png" group-title="9. SPORTS 2",ASTRO FOOTBALL FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1170916
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS PLUS FHD" tvg-logo="http://go4.pw/ASIA/Plus.png" group-title="9. SPORTS 2",ASTRO SPORTS PLUS FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1170924
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS PLUS 2 FHD" tvg-logo="http://go4.pw/ASIA/Plus.png" group-title="9. SPORTS 2",ASTRO SPORTS PLUS 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1170922
+
+
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY - ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="9. SPORTS 2",ASTRO ARENA FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1052375
+
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY - ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="9. SPORTS 2",ASTRO ARENA 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1052373
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438869
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 3 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438870
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 4 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 4 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438871
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 5 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 5 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438872
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 6 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 6 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438873
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 7 FHD" tvg-logo="http://go4.pw/UK/Now-HK-Now-Sports.png" group-title="9. SPORTS 2",NOW SPORTS 7 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/438874
+
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 1 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS 2",HUB SPORTS 1 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090647
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 2 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS 2",HUB SPORTS 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090648
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 3 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS 2",HUB SPORTS 3 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090649
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 4 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS 2",HUB SPORTS 4 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090650
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 5 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="9. SPORTS 2",HUB SPORTS 5 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090651
+
+#EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="HUB PREMIER 01  " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 01  
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324806
+#EXTINF:-1 tvg-id="Hub.Premier.2" tvg-name="HUB PREMIER 02 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 02 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324807
+#EXTINF:-1 tvg-id="Hub.Premier.3" tvg-name="HUB PREMIER 03 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 03 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324808
+#EXTINF:-1 tvg-id="Hub.Premier.4" tvg-name="HUB PREMIER 04 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 04 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324809
+#EXTINF:-1 tvg-id="Hub.Premier.5" tvg-name="HUB PREMIER 05 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 05 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324810
+#EXTINF:-1 tvg-id="Hub.Premier.6" tvg-name="HUB PREMIER 06 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 06 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324811
+#EXTINF:-1 tvg-id="Hub.Premier.7" tvg-name="HUB PREMIER 07 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 07 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324812
+#EXTINF:-1 tvg-id="Hub.Premier.8" tvg-name="HUB PREMIER 08 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 08 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324813
+#EXTINF:-1 tvg-id="Hub.Premier.9" tvg-name="HUB PREMIER 09 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 09 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324814
+#EXTINF:-1 tvg-id="Hub.Premier.10" tvg-name="HUB PREMIER 10 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 10 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324815
+#EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="HUB PREMIER 11 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="9. SPORTS 2",HUB PREMIER 11 
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/324816
 
 
 
