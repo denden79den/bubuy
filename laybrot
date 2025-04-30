@@ -4151,7 +4151,28 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 #EXTINF:-1 group-title="9. SPORTS 2" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 FHD" tvg-logo="http://go4.pw/ASIA/sp.png" group-title="9. SPORTS 2",SONY TEN 1 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1052689
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 FHD" tvg-logo="http://go4.pw/ASIA/sp.png" group-title="9. SPORTS 2",SONY TEN 2 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1052690
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 FHD" tvg-logo="http://go4.pw/ASIA/sp.png" group-title="9. SPORTS 2",SONY TEN 3 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1052691
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - SONY TEN 4 HD" tvg-logo="http://go4.pw/ASIA/INDIA/SONY_TEN-4_HD.png" group-title="9. SPORTS 2,SONY TEN 4 HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/510281
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 1 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/TEN 1 HD.png" group-title="9. SPORTS 2",TEN 1 HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090641
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 2 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/TEN 2 HD.png" group-title="9. SPORTS 2",TEN 2 HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090642
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 3 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/TEN 3 HD.png" group-title="9. SPORTS 2",TEN 3 HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090643
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - SONY SPORT TEN 5 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/SONY SPORT TEN 5 HD.png" group-title="9. SPORTS 2",TEN 5 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090634
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="http://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="9. SPORTS 2",STAR SPORTS SELECT 1 FHD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090639
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS SELECT 2 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="9. SPORTS 2",STAR SPORTS SELECT 2 HD
+http://atg100.xyz:80/dino12344567856/1E36E63AE1CD/1090640
 
  
 ===========================TV BEIN SPORTS======================================
