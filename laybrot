@@ -3151,9 +3151,10 @@ https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_france24_big.png" group-title="5. INDIHOME", FRANCE 24 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/france24/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+##https://streaming.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
+http://202.147.193.244/live/eds/France24/sa_dash/France24.mpd
 
 
 
