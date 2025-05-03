@@ -3645,7 +3645,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 group-title="6. MOVIE" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://i.ibb.co.com/5gdTqtCH/citra-muslim.png", Citra Muslim HD 
+#EXTINF:-1 group-title="6. MOVIE" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://warningfm.github.io/v3/img/EunPKSf.png?v=1.0.0.1", Citra Muslim HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea 
