@@ -2944,7 +2944,7 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #EXTINF:-1 group-title="4. DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV
 https://phdown.serv00.net/Smartv.php?id=SCTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="4. DENS TV", MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="4. DENS TV", MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
