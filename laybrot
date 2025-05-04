@@ -2944,11 +2944,10 @@ https://phdown.serv00.net/Smartv.php?id=Indosiar
 #EXTINF:-1 group-title="4. DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV
 https://phdown.serv00.net/Smartv.php?id=SCTV
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="4. DENS TV",Moji
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="4. DENS TV", MOJI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="4. DENS TV", BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
