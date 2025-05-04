@@ -2926,22 +2926,22 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b535
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/tTDwHcry/dentv.png"
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="4. DENS TV",RCTI
+#EXTINF:0 tvg-logo="https://i.imgur.com/un8daQS.png" group-title="4. DENS TV",RCTI
 https://phdown.serv00.net/Smartv.php?id=Rcti
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="4. DENS TV",GTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="4. DENS TV",GTV
 https://phdown.serv00.net/Smartv.php?id=Gtv
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="4. DENS TV",MNC TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="4. DENS TV",MNC TV
 https://phdown.serv00.net/Smartv.php?id=Mnctv
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="4. DENS TV",Inews
+#EXTINF:0 tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="4. DENS TV",Inews
 https://phdown.serv00.net/Smartv.php?id=Inewstv
 
-#EXTINF:-1 tvg-id="" group-title="4. DENS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR
+#EXTINF:-1 tvg-id="" group-title="4. DENS TV" tvg-logo="https://i.imgur.com/S5k3QDO.png",INDOSIAR
 https://phdown.serv00.net/Smartv.php?id=Indosiar
 
-#EXTINF:-1 group-title="4. DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV
+#EXTINF:-1 group-title="4. DENS TV" tvg-logo="https://i.imgur.com/4fsGqhZ.png",SCTV
 https://phdown.serv00.net/Smartv.php?id=SCTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="4. DENS TV", MOJI
