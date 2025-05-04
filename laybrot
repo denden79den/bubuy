@@ -2950,6 +2950,15 @@ https://phdown.serv00.net/Smartv.php?id=SCTV
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="4. DENS TV",Moji
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="4. DENS TV", BERITA SATU
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 tvg-id="garudatv" tvg-logo="https://i.imgur.com/X8bZShw.png" group-title="4. DENS TV", GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wD9ABgN.png" group-title="4. DENS TV",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="4. DENS TV",Live Streaming 1
