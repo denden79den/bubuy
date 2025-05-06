@@ -4965,80 +4965,34 @@ http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98262
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="9. ASTRO SPORTS",Astro Football
 http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98260
 
-#EXTINF:-1 tvg-id="astro-supersport-1" tvg-name="Astro SuperSport 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png" group-title="9. ASTRO SPORTS",Astro SuperSport 1 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34131
-#EXTINF:-1 tvg-id="astro-supersport-2" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_2.png" group-title="9. ASTRO SPORTS",Astro SuperSport 2 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34132
-#EXTINF:-1 tvg-id="astro-supersport-3" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_3.png" group-title="9. ASTRO SPORTS",Astro SuperSport 3 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34133
-#EXTINF:-1 tvg-id="astro-supersport-4" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_4.png" group-title="9. ASTRO SPORTS",Astro SuperSport 4 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34134
 
+#EXTINF:-1 tvg-id="ten-1-(4k).-by07-322" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="9. ASTRO SPORTS", IN: TEN 1 (4K).
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=ten-1-(4k).-by07-322
 
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 1 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tsport1.png" group-title="9. ASTRO SPORTS",TH: True Sports 1 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55348
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 2 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="9. ASTRO SPORTS",TH: True Sports 2 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55349
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 3 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="9. ASTRO SPORTS",TH: True Sports 3 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55350
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 4 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="9. ASTRO SPORTS",TH: True Sports 4 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55351
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 5 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-tsport5.png" group-title="9. ASTRO SPORTS",TH: True Sports 5 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55354
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 6 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-tsport6.png" group-title="9. ASTRO SPORTS",TH: True Sports 6 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55355.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sports 7 HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-tsport7.png" group-title="9. ASTRO SPORTS",TH: True Sports 7 HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55356.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Tennis HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" group-title="9. ASTRO SPORTS",TH: True Tennis HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55352.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Golf HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="9. ASTRO SPORTS",TH: True Golf HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55353.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: True NBA HD" tvg-logo="http://www.basketusa.com/wp-content/uploads/2015/10/logo-nba-jordan.jpg" group-title="9. ASTRO SPORTS",TH: True NBA HD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55367.ts
+#EXTINF:-1 tvg-id="ten-2-(4k).-by07-323" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="9. ASTRO SPORTS", IN: TEN 2 (4K).
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=ten-2-(4k).-by07-323
 
+#EXTINF:-1 tvg-id="ten-3-(4k).-by07-324" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="9. ASTRO SPORTS", IN: TEN 3 (4K).
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=ten-3-(4k).-by07-324
 
-#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 1 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 1 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/56636.ts
-#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 2 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 2 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/56637.ts
-#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="TH: beIN Sports 3 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 3 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/1742.ts
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="TH: beIN Sports 4 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 4 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/1805.ts
-#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="TH: beIN Sports 5 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 5 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/1806.ts
-#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="TH: beIN Sports 6 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 6 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/2052.ts
-#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="TH: beIN Sports 7 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="9. ASTRO SPORTS",TH: beIN Sports 7 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/5214.ts
+#EXTINF:-1 tvg-id="cri:-sony-ten-4-(4k)-by07-383" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="9. ASTRO SPORTS", CRI: SONY TEN 4 (4K)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=cri:-sony-ten-4-(4k)-by07-383
 
-.#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-name="SG: Hub Premier 1 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/221-hub-premier-1.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 1 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/50841.ts
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-name="SG: Hub Premier 2 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/222-hub-premier-2.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 2 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/50842.ts
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-name="SG: Hub Premier 2 UHD 4K" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 2 UHD 4K
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/71033.ts
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="SG: Hub Premier 3 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/223-hub-premier-3.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 3 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/50843.ts
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="SG: Hub Premier 4 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 4 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/50844.ts
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="SG: Hub Premier 5 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 5 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/56599.ts
-#EXTINF:-1 tvg-id="Hub.Premier.6.sg" tvg-name="SG: Hub Premier 6 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 6 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/55700.ts
-#EXTINF:-1 tvg-id="Hub.Premier.7.sg" tvg-name="SG: Hub Premier 7 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 7 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/70890.ts
-#EXTINF:-1 tvg-id="Hub.Premier.8.sg" tvg-name="SG: Hub Premier 8 FHD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/224-hub-premier-4.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 8 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/70981.ts
-#EXTINF:-1 tvg-id="Hub.Premier.9.sg" tvg-name="SG: Hub Premier 9 FHD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 9 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/73458.ts
-#EXTINF:-1 tvg-id="Hub.Premier.10.sg" tvg-name="SG: Hub Premier 10 FHD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 10 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/73459.ts
-#EXTINF:-1 tvg-id="Hub.Premier.11.sg" tvg-name="SG: Hub Premier 11 FHD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="9. ASTRO SPORTS",SG: Hub Premier 11 FHD
-http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/73460.ts
+#EXTINF:-1 tvg-id="sony-ten-5-(4k).-by07-325" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="9. ASTRO SPORTS", IN: SONY TEN 5 (4K).
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=sony-ten-5-(4k).-by07-325
 
+#EXTINF:-1 tvg-id="cri:-star-sports-select-1-hd-by07-367" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/4WyFqRF/download-4.png" group-title="9. ASTRO SPORTS", CRI: STAR SPORTS SELECT 1 HD
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=cri:-star-sports-select-1-hd-by07-367
 
-
+#EXTINF:-1 tvg-id="cri:-star-sports-select-2-hd-by07-398" tvg-name="CRI: STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/s1pcKpw/Star-Sports-Select-2-logo-2.png" group-title="9. ASTRO SPORTS", CRI: STAR SPORTS SELECT 2 HD
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=cri:-star-sports-select-2-hd-by07-398
 
 
 ===========================TV BEIN SPORTS======================================
