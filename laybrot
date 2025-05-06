@@ -4995,6 +4995,34 @@ https://star-restream-by07.vercel.app/api/stream?channel=cri:-star-sports-select
 https://star-restream-by07.vercel.app/api/stream?channel=cri:-star-sports-select-2-hd-by07-398
 
 
+
+
+#EXTINF:-1 tvg-id="sony-ten-1-(fhd)-by07-329" tvg-name="IN: Sony Ten 1 (FHD)" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="9. ASTRO SPORTS", IN: Sony Ten 1 (FHD)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=sony-ten-1-(fhd)-by07-329
+
+#EXTINF:-1 tvg-id="cri:-sony-ten-2-hd.-by07-384" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="IPTV07INDIA | CRICKET", CRI: SONY Ten 2 HD.
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=cri:-sony-ten-2-hd.-by07-384
+
+#EXTINF:-1 tvg-id="sony-ten-3-(fhd)-by07-330" tvg-name="IN: Sony Ten 3 (FHD)" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="9. ASTRO SPORTS", IN: Sony Ten 3 (FHD)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=sony-ten-3-(fhd)-by07-330
+
+#EXTINF:-1 tvg-id="sony-ten-5-(fhd)-by07-331" tvg-name="IN: SONY TEN 5 (FHD)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="9. ASTRO SPORTS", IN: SONY TEN 5 (FHD)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=sony-ten-5-(fhd)-by07-331
+
+#EXTINF:-1 tvg-id="star-sports-select-1-(fhd)-by07-327" tvg-name="IN: Star Sports Select 1 (FHD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="9. ASTRO SPORTS", IN: Star Sports Select 1 (FHD)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=star-sports-select-1-(fhd)-by07-327
+
+#EXTINF:-1 tvg-id="star-sports-select-2-(fhd)-by07-328" tvg-name="IN: Star Sports Select 2 (FHD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="9. ASTRO SPORTS", IN: Star Sports Select 2 (FHD)
+#EXTVLCOPT:http-user-agent=IPTV07INDIA
+https://star-restream-by07.vercel.app/api/stream?channel=star-sports-select-2-(fhd)-by07-328
+
+
+
 ===========================TV BEIN SPORTS======================================
 
 
