@@ -4965,6 +4965,15 @@ http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98262
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="9. ASTRO SPORTS",Astro Football
 http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98260
 
+#EXTINF:-1 tvg-id="astro-supersport-1" tvg-name="Astro SuperSport 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png" group-title="9. ASTRO SPORTS",Astro SuperSport 1 HD
+http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34131.ts
+#EXTINF:-1 tvg-id="astro-supersport-2" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_2.png" group-title="9. ASTRO SPORTS",Astro SuperSport 2 HD
+http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34132.ts
+#EXTINF:-1 tvg-id="astro-supersport-3" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_3.png" group-title="9. ASTRO SPORTS",Astro SuperSport 3 HD
+http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34133.ts
+#EXTINF:-1 tvg-id="astro-supersport-4" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my_4.png" group-title="9. ASTRO SPORTS",Astro SuperSport 4 HD
+http://streams4iptv.dyndns.tv:8080/6hUQ7mLQyr/BsAcZCUXcJ/34134.ts
+
 
 ===========================TV BEIN SPORTS======================================
 
