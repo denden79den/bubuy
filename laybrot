@@ -5026,6 +5026,18 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO GRANDSTAND
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO PREMIERE LEAGUE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premiereleague.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO PREMIERE LEAGUE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premiereleague2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO SPORTS PLUS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20sportsplus.m3u8
+
 
 
 
