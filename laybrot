@@ -4814,13 +4814,13 @@ http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98261
 http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98263
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="9. ASTRO SPORTS",Astro Grandstand
 http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98262
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="9. ASTRO SPORTS",Astro Football
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="9. ASTRO SPORTS",Astro Football
 http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98260
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="9. ASTRO SPORTS", ASTRO GRANDSTAND
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="9. ASTRO SPORTS", ASTRO FOOTBALL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="9. ASTRO SPORTS", ASTRO FOOTBALL
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
 
 
