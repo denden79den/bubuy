@@ -4869,6 +4869,25 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
  
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="9. ASTRO SPORTS",Astro Premiere League
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="9. ASTRO SPORTS",Astro Premiere League 2
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="9. ASTRO SPORTS",Astro Grandstand
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="9. ASTRO SPORTS",Astro Football
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="9. ASTRO SPORTS",Sport W
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/1713
+
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="9. ASTRO SPORTS", Astro Badminton
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/71105
+
+#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO Ceria" tvg-logo="" group-title="9. ASTRO SPORTS",Astro Ceria
+http://newlife3.wanicelife.com:8880/D12m3609/41434321/71080
+
+
+
 
 ===========================TV BEIN SPORTS======================================
 
