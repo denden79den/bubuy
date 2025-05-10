@@ -3538,15 +3538,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ETV Bioskop 1.2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="7. ETV BIOSKOP",ETV Bioskop 2.2
-https://WahyuIPTV.short.gy/EtvBioskop2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="7. ETV BIOSKOP",ETV Bioskop 3.2
-https://WahyuIPTV.short.gy/EtvBioskop3
+https://WahyuIPTV.short.gy/EtvBioskop3.ts
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="7. ETV BIOSKOP",ETV Bioskop 4.2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="7. ETV BIOSKOP",ID: ETV BIOSKOP 01
 ##http://aflaxtv.xyz:8080/Wat068/924a937d/298526
