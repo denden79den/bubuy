@@ -45,16 +45,16 @@ https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
 https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. News TV", 03. BeritaSatu
 https://wahyu1ptv.pages.dev/BTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. News TV", 04. CnnIndonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DwKWjKs/cnn.png" group-title="02. News TV", 04. CnnIndonesia
 https://wahyu1ptv.pages.dev/CNN-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. News TV",05. KompasTV
 https://wahyu1ptv.pages.dev/KompasTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="02. News TV",06. CnBcIndonesia
 https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. News TV",07. iNewsTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="02. News TV",07. iNewsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. News TV",08. SindoNewsTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="02. News TV",08. SindoNewsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/SindoNewsTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="02. News TV",09. Sea Today 
