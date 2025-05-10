@@ -125,6 +125,33 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid
 
 
 
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> 04. Home Box Office (HBO)
+============================================================================================================================================================
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. Home Box Office (HBO)", HBO 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
+
+#EXTINF:-1 group-title="04. Home Box Office (HBO)" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
+
+#EXTINF:-1 group-title="04. Home Box Office (HBO)" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
+
+#EXTINF:-1 group-title="04. Home Box Office (HBO)" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
+
+#EXTINF:-1 group-title="04. Home Box Office (HBO)" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
+
+
 //========================================================================
 //Collected by @deni menampilkan playlist >>> TV NATIONAL
 //========================================================================
