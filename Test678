@@ -4,25 +4,35 @@
 ============================================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="01. Religi TV", 001. MakkahTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="01. Religi TV", 01. MakkahTV
 https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="01. Religi TV",002. RodjaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="01. Religi TV",02. RodjaTV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="01. Religi TV", 003. MedsTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="01. Religi TV", 03. MedsTV
 https://WahyuIPTV.short.gy/MedsTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="01. Religi TV", 004. SurauTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="01. Religi TV", 04. SurauTV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="01. Religi TV", 005. MQTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="01. Religi TV", 05. MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="01. Religi TV", 006. WesalTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="01. Religi TV", 06. WesalTV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png" group-title="01. Religi TV",007. AshillTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png" group-title="01. Religi TV",07. AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="01. Religi TV", 008. AlHijrahTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="01. Religi TV", 08. AlHijrahTV
 https://wahyu1ptv.pages.dev/AstroAlHijrahTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="01. Religi TV", 009. OasisTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="01. Religi TV", 09. OasisTV
 https://wahyu1ptv.pages.dev/AstroOasis.m3u8
 
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="01. Religi TV", 10. MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="01. Religi TV", 11. TAWAF TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tv9_big.png" group-title="01. Religi TV", 12. TV9 NU
+https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tvmui_big.png" group-title="01. Religi TV", 13. MUI TV
+https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="01. Religi TV", 14. AlQuran Kareem
+https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 
 
