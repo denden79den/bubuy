@@ -1301,6 +1301,18 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.
 #EXTINF:-1 group-title="13. Sport World" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZonaDaznSerieA.png" group-title="13. Sport World",ZonaDaznSerieA
+https://wahyu1ptv.pages.dev/ZonaDaznSerieA-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="13. Sport World",DaznSerieA
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga1.png" group-title="13. Sport World",Dazn Laliga 1
+https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="13. Sport World",Dazn Laliga 2
+https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="13. Sport World", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
