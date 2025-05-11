@@ -740,33 +740,33 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 ============================================================================================================================================================
 
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",Nick Junior
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="11. TV ANAK",DreamWorks
+#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="11. TV Anak",DreamWorks
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
 
-#EXTINF:-1 tvg-id="Nick" tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png" group-title="11. TV ANAK", Nick 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png" group-title="11. TV Anak", Nick 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd 
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png",Dunia anak
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png",Dunia anak
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -774,70 +774,70 @@ https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://i.imgur.com/Hg0he73.png",Cartoonito
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://i.imgur.com/Hg0he73.png",Cartoonito
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png",MyKidz
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png",MyKidz
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",Da Vinci Learning
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",Da Vinci Learning
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png",Moonbug
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png",Moonbug
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
 
-#EXTINF:-1 group-title="11. TV ANAK" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
+#EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 tvg-id="Zoomoo" tvg-logo="https://static.mncnow.id/images/channel/5671cc3e/71d2_r32.jpg" group-title="11. TV ANAK", Zoomoo 
+#EXTINF:-1 tvg-id="Zoomoo" tvg-logo="https://static.mncnow.id/images/channel/5671cc3e/71d2_r32.jpg" group-title="11. TV Anak", Zoomoo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
-#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://static.mncnow.id/images/channel/c156f892/9b72_r32.jpg" group-title="11. TV ANAK", Kids TV 
+#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://static.mncnow.id/images/channel/c156f892/9b72_r32.jpg" group-title="11. TV Anak", Kids TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd 
 
-#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://static.mncnow.id/images/channel/563e358a/f92c_r32.jpg" group-title="11. TV ANAK", Cbeebies 
+#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://static.mncnow.id/images/channel/563e358a/f92c_r32.jpg" group-title="11. TV Anak", Cbeebies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd 
 
-#EXTINF:-1 tvg-id="Nick" tvg-logo="https://static.mncnow.id/images/channel/8c2c21cc/fa6a_r32.jpg" group-title="11. TV ANAK", Nick 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="https://static.mncnow.id/images/channel/8c2c21cc/fa6a_r32.jpg" group-title="11. TV Anak", Nick 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd 
 
-#EXTINF:-1 tvg-id="BUDDY STARS" tvg-logo="https://static.mncnow.id/images/channel/87a92cbd/8868_r32.jpg" group-title="11. TV ANAK", BUDDY STARS 
+#EXTINF:-1 tvg-id="BUDDY STARS" tvg-logo="https://static.mncnow.id/images/channel/87a92cbd/8868_r32.jpg" group-title="11. TV Anak", BUDDY STARS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd 
 
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://img.freepik.com/premium-vector/cartoon-world_529753-1160.jpg?w=360" group-title="11. TV ANAK",Cartoon TV Premium
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://img.freepik.com/premium-vector/cartoon-world_529753-1160.jpg?w=360" group-title="11. TV Anak",Cartoon TV Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -845,7 +845,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1003/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://mobibase.com/wp-content/uploads/ctv.jpg" group-title="11. TV ANAK",Cartoon TV
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://mobibase.com/wp-content/uploads/ctv.jpg" group-title="11. TV Anak",Cartoon TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -853,7 +853,7 @@ https://cdnjkt913.transvision.co.id:1003/live/master/5/4028c6856b8d2390016b9c47b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ibb.co.com/W4tMRj8R/cartoon-tv-clasic.png" group-title="11. TV ANAK",Cartoon TV Classics
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ibb.co.com/W4tMRj8R/cartoon-tv-clasic.png" group-title="11. TV Anak",Cartoon TV Classics
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -861,7 +861,7 @@ https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d144f2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1003/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyRXGuLmuNdRvGzfCIhNWGkgjhw18De7OSg&usqp=CAU" group-title="11. TV ANAK",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyRXGuLmuNdRvGzfCIhNWGkgjhw18De7OSg&usqp=CAU" group-title="11. TV Anak",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -869,67 +869,22 @@ https://cdnjkt913.transvision.co.id:1003/live/master/100/4028c685840ff0490184560
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Toon Goggles" ch-number="216" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729d4562343c23/65e1930745784e8997b897dab82bf932.png" group-title="11. TV ANAK",Toon Goggles
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Boonie Cubs TV" ch-number="224" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03b1d9dd1523/89662347ca474b8a93ddfaea767a97c2.jpg" group-title="11. TV ANAK",Boonie Cubs TV 
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03b1d9dd1523/manifest.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Smurf TV" ch-number="225" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03bb78c91525/ad23f6b7c48846d08d861f9688f0f06d.png" group-title="11. TV ANAK",Smurf TV 
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03bb78c91525/manifest.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Duck TV" ch-number="226" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03bd40c61526/f9fa08d8ba6c408e946994bfa496596a.jpg" group-title="11. TV ANAK",Duck TV 
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6858afb4c71018b03bd40c61526/manifest.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:0 tvg-id="ID" tvg-name="Camp Spoopy" ch-number="227" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03be407b1527/f9cd3375d3f04d3b995263c18dc34363.png" group-title="11. TV ANAK",Camp Spoopy 
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407b1527/manifest.mpd 
-
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="11. TV ANAK",VTV
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="11. TV Anak",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 group-title="11. TV ANAK" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
+#EXTINF:0 group-title="11. TV Anak" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cbeebies.png" group-title="11. TV Anak",Cbeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/CBeebies.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BabyTV.png" group-title="11. TV Anak",BabyTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/BabyTV-HD.mpd
+
