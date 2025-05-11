@@ -157,6 +157,15 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",09. eTvBioskop4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",10. ETV BIOSKOP 1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",11. ETV BIOSKOP 2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",12 ETV BIOSKOP 3
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",13. ETV BIOSKOP 4
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 05. Sinetron Indonesia
@@ -1166,6 +1175,20 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="13. Sport World",DIGI SPORT 4
 http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="13. Sport World",RMC SPORT 1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1937
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="13. Sport World",RMC SPORT 2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="13. Sport World",RMC SPORT 3
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="13. Sport World",RMC SPORT 4
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279752
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FS1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="13. Sport World",US: FS1
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/756
+#EXTINF:-1 tvg-id="" tvg-name="US: FS2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="13. Sport World",US: FS2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/757
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="13. Sport World", NBA TV
 ##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
