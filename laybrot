@@ -138,6 +138,18 @@ https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
 
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="03. TV Nasional", 20. RCTI VIP
+http://opplex.tv:8080/live/mother/mother/351023.ts
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="03. TV Nasional",21. GTV VIP
+http://opplex.tv:8080/live/mother/mother/350954.ts
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="03. TV Nasional",22. INEWS VIP
+http://opplex.tv:8080/live/mother/mother/350973.ts
+#EXTINF:-1 tvg-id="SCTV HD- [Saluran 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="03. TV Nasional",23. SCTV VIP
+http://opplex.tv:8080/live/mother/mother/351030.ts
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="03. TV Nasional",24. MOJI TV VIP
+http://opplex.tv:8080/live/mother/mother/350997.ts
+
+
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 04. Home Box Office (HBO)
 ============================================================================================================================================================
