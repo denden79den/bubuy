@@ -242,6 +242,15 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="05. Sinetron Indonesia",07. AstroRia
+https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="05. Sinetron Indonesia",08. AstroAura
+https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="05. Sinetron Indonesia",09. AstroRania
+https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 06. Film Indonesia
