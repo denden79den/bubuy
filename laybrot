@@ -156,33 +156,23 @@ http://opplex.tv:8080/live/mother/mother/350997.ts
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. HBO & Etv Bioskop", 01. HBO 
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
 #EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", 02. HBO Hits 
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
 #EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",03. HBO Family 
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 
 #EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",04. HBO Signature 
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 
 #EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",05. CINEMAX 
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
-#EXTVLCOPT:http-user-agent=xplayer168
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",06. eTvBioskop1
@@ -1042,6 +1032,25 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/y5p-tEzFYLfvX_zxqJXIsH4nxTU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg" group-title="12. Sport Indonesia",Champions TV 2 Golf 
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash 
+
+#EXTINF:-1 group-title="12. Sport Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLn0CvLC-XYTvCdrOBdtPlxHBe0t_hN3EfU5EXpH2TJh7aNmO907eaIgh4k4UALWrvHVnhmUtpoGyLQllS-aasmXRfF4dSNwOgSGKYGO0FH1-2WXdvnWy1RRJuxprYvm8RxP_X4Ps3NFkxyH8HywFv9k0SpNPyzv1R21G6BpgXsVP76Bfm1Y14D6xenUwC/s700/SPOTV.png",SPOTV V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 group-title="12. Sport Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWH5yw2zQU3qFEhGfVta7omszlhyphenhyphenRjdcSeGz8k7wzoh_a1VMdEWWMrjnwwmrAS1s1ZJilBDUeSVdJa35jrMGX6G1KJ7G8EwfYRDzcFWBP-ipZXTYkPQBrUDW5sxyJWQHKmKprhLoZ4AsNse7Bx_cjnERvDaqEj1ODMmIfT3YJfw0rwy61DTRmuS-MG7Nzy/s700/SPOTV%202.png",SPOTV 2 V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/fight.png" group-title="12. Sport Indonesia",FIGHT SPORTS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
