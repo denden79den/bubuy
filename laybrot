@@ -124,7 +124,7 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 https://phdown.serv00.net/Smartv.php?id=Transtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Trans7.png" group-title="03. TV Nasional",08. Trans7
-##https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
+https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Moji.png" group-title="03. TV Nasional",09. MojiTV
 ##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
