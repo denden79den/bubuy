@@ -86,23 +86,32 @@ https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional",01. Indosiar
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional",02. RcTi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 ##https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
 http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional",03. GtV
 https://wahyu1ptv.pages.dev/gTv-HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional",04. MncTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/MnC-TV.m3u8
+##https://wahyu1ptv.pages.dev/MnC-TV.m3u8
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="03. TV Nasional",05. ScTv
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="03. TV Nasional",06. MdTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional",07. TransTV
-https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+##https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Trans7.png" group-title="03. TV Nasional",08. Trans7
 https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Moji.png" group-title="03. TV Nasional",09. MojiTV
