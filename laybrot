@@ -119,7 +119,7 @@ https://phdown.serv00.net/Smartv.php?id=SCTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional",07. TransTV
-#https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+##https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
 ##http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 https://phdown.serv00.net/Smartv.php?id=Transtv
 
@@ -138,9 +138,9 @@ http://xtv.ooo:8080/live/387546/200900/350997.ts
 ##http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="03. TV Nasional",10. AnTv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
-##http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+##https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="03. TV Nasional",11. TvRi
 https://wahyu1ptv.pages.dev/TvRi-HD.m3u8
 
