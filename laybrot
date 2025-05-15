@@ -87,6 +87,7 @@ https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional",01. Indosiar
 https://phdown.serv00.net/Smartv.php?id=Indosiar
+##http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 ##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 ##https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
