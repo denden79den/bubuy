@@ -186,21 +186,41 @@ http://opplex.tv:8080/live/mother/mother/350997.ts
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional Siaran No Acak",01. Indosiar FHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://phdown.serv00.net/Smartv.php?id=Indosiar
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi FHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://phdown.serv00.net/Smartv.php?id=Rcti
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional Siaran No Acak",03. GtV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/gTv-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional Siaran No Acak",03. GtV FHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://phdown.serv00.net/Smartv.php?id=Gtv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional Siaran No Acak",04. MncTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/MnC-TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional Siaran No Acak",04. MncTV FHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://phdown.serv00.net/Smartv.php?id=Mnctv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SCTV.png" group-title="03. TV Nasional Siaran No Acak",05. ScTv
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SCTV.png" group-title="03. TV Nasional Siaran No Acak",05. ScTv FHD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://phdown.serv00.net/Smartv.php?id=SCTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="03. TV Nasional Siaran No Acak",06. MdTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -209,6 +229,9 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional Siaran No Acak",07. TransTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional Siaran No Acak",07. TransTV FHD
+https://phdown.serv00.net/Smartv.php?id=Transtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Trans7.png" group-title="03. TV Nasional Siaran No Acak",08. Trans7
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -222,9 +245,14 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="03. TV Nasional Siaran No Acak",10. AnTv FHD
+https://phdown.serv00.net/Smartv.php?id=Antv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="03. TV Nasional Siaran No Acak",11. TvRi
 https://wahyu1ptv.pages.dev/TvRi-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="03. TV Nasional Siaran No Acak",11.  TvRi FHD
+https://phdown.serv00.net/Smartv.php?id=TVRI
 
 
 
