@@ -49,7 +49,9 @@ https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. TV News", 01. MetroTV
 https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. TV News",02. TVOne
-https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+##https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+https://phdown.serv00.net/Smartv.php?id=Tvone
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. TV News", 03. BTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -61,8 +63,10 @@ https://wahyu1ptv.pages.dev/KompasTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="02. TV News",06. CnBcIndonesia
 https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="02. TV News",07. iNewsTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+##https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
+https://phdown.serv00.net/Smartv.php?id=Inewstv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="02. TV News",08. SindoNewsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/SindoNewsTV-HD.mpd
