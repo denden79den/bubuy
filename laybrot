@@ -414,6 +414,7 @@ http://202.147.193.244/live/eds/AXN/sa_dash/AXN.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1920x1080,FRAME-RATE=25.000
 #EXTINF:-1 tvg-id="CinemachiHD.id" tvg-name="CinemachiHD.id" tvg-chno="CinemachiHD.id" group-title="07. Movie Box Office (MBO)" tvg-logo="https://i.imgur.com/c2f7gji.png", ORIGINALS
 http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
