@@ -198,16 +198,22 @@ http://opplex.tv:8080/live/mother/mother/350997.ts
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional Siaran No Acak",01. Indosiar FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Indosiar
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Rcti
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://iptvtree.net:8080/live/F25093/29838750/157591.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional Siaran No Acak",03. GtV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -230,8 +236,11 @@ https://phdown.serv00.net/Smartv.php?id=Mnctv
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SCTV.png" group-title="03. TV Nasional Siaran No Acak",05. ScTv FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=SCTV
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+https://link.zozotv.xyz:443/live/usez37/zxy921/46.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="03. TV Nasional Siaran No Acak",06. MdTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -253,7 +262,11 @@ https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Moji.png" group-title="03. TV Nasional Siaran No Acak",09. MojiTV FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+http://iptvtree.net:8080/live/F25093/29838750/298550.ts
 http://xtv.ooo:8080/live/387546/200900/350997.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="03. TV Nasional Siaran No Acak",10. AnTv
