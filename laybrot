@@ -1307,18 +1307,18 @@ https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="13. Sport World",AstroSportPlus2
 https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowPL1.png" group-title="13. Sport World",NowHKSportPL
-https://wahyu1ptv.pages.dev/NowHKSportPL-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport1-HD.png" group-title="13. Sport World",NowHKSport1
-https://wahyu1ptv.pages.dev/NowHkSport1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="13. Sport World",Go3SportOpen
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport2-HD.png" group-title="13. Sport World",NowHKSport2
-https://wahyu1ptv.pages.dev/NowHkSport2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="13. Sport World",Go3Sport1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport3-HD.png" group-title="13. Sport World",NowHKSport3
-https://wahyu1ptv.pages.dev/NowHkSport3-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="13. Sport World",Go3Sport2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="13. Sport World",Go3Sport3
+https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
 
 =====================TNT Sports=================
