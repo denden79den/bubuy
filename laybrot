@@ -41,12 +41,6 @@ https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="01. TV Religi", 14. AlQuran Kareem
 https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="01. TV Religi", 14. imc
-https://streaming.indihometv.com/atm/DASH/imc/manifest.mpd
-
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="01. TV Religi", 14. flik
-https://streaming.indihometv.com/atm/DASH/flik/manifest.mpd
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 02. News TV
