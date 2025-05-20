@@ -1866,14 +1866,15 @@ https://link.zozotv.xyz:443/series/usez37/zxy921/2670.mp4
 
 
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",TRANS 7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",TRANS TV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",RCTI
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",MNCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://get.perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://get.perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://get.perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
