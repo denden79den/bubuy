@@ -67,9 +67,9 @@ https://wahyu1ptv.pages.dev/KompasTV-HD.m3u8
 https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="02. TV News",07. iNewsTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="02. TV News",08. SindoNewsTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
