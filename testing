@@ -1863,3 +1863,17 @@ https://link.zozotv.xyz:443/series/usez37/zxy921/2323.mp4
 https://link.zozotv.xyz:443/series/usez37/zxy921/2669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sepahtu Reunion Live 2025 S10 E02" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3C9ga3s4iYP8cxi6N0PzBXU63batygfxo77kdfUZnX2NF1EwAwzpm79hI0LUN8aHmviL2juS7eKbYEh7CU2XrPgkUvo8FbB1UYGzZiGKQD03dvBuVpFpi0rZNq48K7SJxTGAf8VTlj05XMjkIWpX-4zsBeAltmxjZzjo3jzydLDniVFQLfxsD9nuTdiX/s1670" group-title="Ape Cer Sepahtu Reunion LIVE 2025",Sepahtu Reunion Live 2025 S10 E02
 https://link.zozotv.xyz:443/series/usez37/zxy921/2670.mp4
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",TRANS 7
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",TRANS TV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",RCTI
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="TEST",MNCTV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
