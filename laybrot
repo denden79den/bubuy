@@ -189,6 +189,21 @@ http://opplex.tv:8080/live/mother/mother/351030.ts
 http://opplex.tv:8080/live/mother/mother/350997.ts
 
 
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",25. TRANS 7 VIP
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",26. TRANS TV VIP
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",27. RCTI VIP
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",28. MNCTV VIP
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",29. SCTV VIP
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",30. INDOSIAR VIP
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 03. TV Nasional Siaran No Acak
 ============================================================================================================================================================
