@@ -3264,11 +3264,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 =========TRANSVISION======°
 
 
-#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5-zyiSryAxlOHZquofYKT50h_qvWkuIgfQ&usqp=CAU" group-logo="https://s9.krakenfiles.com/uploads/03-08-2024/5TcAr5CmnV/image.png" group-title="10. TV | Transvision 2",TVRI TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5-zyiSryAxlOHZquofYKT50h_qvWkuIgfQ&usqp=CAU" group-logo="https://s9.krakenfiles.com/uploads/03-08-2024/5TcAr5CmnV/image.png" group-title="10. TV | Transvision 2",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https:https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
