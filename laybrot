@@ -181,8 +181,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="03. TV Nasional", 14. Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="03. TV Nasional",15. RTV 
-http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="03. TV Nasional",15. RTV
+https://cdn14jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTINF:-1 group-title="03. TV Nasional" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",16. Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
