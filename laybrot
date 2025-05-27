@@ -1346,12 +1346,14 @@ https://wahyu1ptv.pages.dev/SportStars3-HD.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd 
 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/SPOTV.my.png" group-title="12. TV Olahraga",SPOTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd 
 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/SPOTV2.my.png" group-title="12. TV Olahraga",SPOTV2 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd 
 
@@ -1446,12 +1448,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="12. TV Olahraga", ASTRO PREMIER LEAGUE 2 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="12. TV Olahraga", ASTRO GRANSTAND #EXTVLCOPT:http-user-agent=xplayer168 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="12. TV Olahraga", ASTRO GRANSTAND 
+#EXTVLCOPT:http-user-agent=xplayer168 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="12. TV Olahraga", ASTRO FOOTBALL https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="12. TV Olahraga", ASTRO FOOTBALL 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="12. TV Olahraga",ASTRO CRICKET https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="12. TV Olahraga",ASTRO CRICKET 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="12. TV Olahraga", ASTRO BADMINTON 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12) 
@@ -1565,17 +1570,27 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-europe/arena-sport/arena-sport-3-eu.png?raw=true" group-title="12. TV Olahraga",ARENA SPORT 3 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="12. TV Olahraga",ARENA SPORT 4 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%204.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="12. TV Olahraga",ARENA SPORT 4 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%204.m3u8 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-europe/arena-sport/arena-sport-5-eu.png?raw=true" group-title="12. TV Olahraga",ARENA SPORT 5 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%205.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN1.es.png" group-title="12. TV Olahraga", DAZN 1 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN2.es.png" group-title="12. TV Olahraga", DAZN 2 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN3.es.png" group-title="12. TV Olahraga", DAZN 3 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN4.es.png" group-title="12. TV Olahraga", DAZN 4 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International/DAZN.png"group-title="12. TV Olahraga", DAZN 5 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International/DAZN.png" group-title="12. TV Olahraga", DAZN 6 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/WWEChannel.za.png" group-title="12. TV Olahraga", WRESTLING https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="12. TV Olahraga",DUBAI SPORT1 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8 
+
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN1.es.png" group-title="12. TV Olahraga", DAZN 1 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN2.es.png" group-title="12. TV Olahraga", DAZN 2 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN3.es.png" group-title="12. TV Olahraga", DAZN 3 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZN4.es.png" group-title="12. TV Olahraga", DAZN 4 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International/DAZN.png"group-title="12. TV Olahraga", DAZN 5 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International/DAZN.png" group-title="12. TV Olahraga", DAZN 6 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/WWEChannel.za.png" group-title="12. TV Olahraga", WRESTLING 
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="12. TV Olahraga",DUBAI SPORT1 
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="12. TV Olahraga",DUBAI SPORT2 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8 
