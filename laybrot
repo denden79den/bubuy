@@ -1320,7 +1320,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="12. TV Olahraga",SPORTSTARS 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) 
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="12. TV Olahraga",SPORTSTARS 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1334,13 +1335,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) https://wahyu1ptv.pages.dev/SportStars3-HD.m3u8 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) 
+https://wahyu1ptv.pages.dev/SportStars3-HD.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="12. TV Olahraga",SPORTSTARS 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd 
 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/SPOTV.my.png" group-title="12. TV Olahraga",SPOTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1502,19 +1505,25 @@ http://wanicelife.com:8880/D12m4389/60388773/2917
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="12. TV Olahraga",EUROSPORT 2 
 http://wanicelife.com:8880/D12m4389/60388773/2916 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV http://opplex.tv:8080/mother/mother/348653 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV 
+http://opplex.tv:8080/mother/mother/348653 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV 2 http://opplex.tv:8080/mother/mother/348654 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV 2 
+http://opplex.tv:8080/mother/mother/348654 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV 3 http://opplex.tv:8080/mother/mother/348655 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="12. TV Olahraga",SPORTV 3 
+http://opplex.tv:8080/mother/mother/348655 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png" group-title="12. TV Olahraga",NBC SPORT 
 http://opplex.tv:8080/mother/mother/347304 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNF1.es.png" group-title="12. TV Olahraga",DAZN F1 http://wanicelife.com:8880/D12m4389/60388773/2553 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNF1.es.png" group-title="12. TV Olahraga",DAZN F1 
+http://wanicelife.com:8880/D12m4389/60388773/2553 
 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNLaLiga.es.png" group-title="12. TV Olahraga",DAZN LALIGA http://opplex.tv:8080/mother/mother/354228 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNLaLiga.es.png" group-title="12. TV Olahraga",DAZN LALIGA 
+http://opplex.tv:8080/mother/mother/354228 
 
-#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNLaLiga.es.png" group-title="12. TV Olahraga",DAZN LALIGA2 http://opplex.tv:8080/mother/mother/354033 
+#EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/DAZNLaLiga.es.png" group-title="12. TV Olahraga",DAZN LALIGA2 
+http://opplex.tv:8080/mother/mother/354033 
 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/International_Sports/FIGHTSPORTS.hk.png" group-title="12. TV Olahraga",FIGHT SPORTS 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ 
