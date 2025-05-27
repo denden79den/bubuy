@@ -1704,7 +1704,7 @@ http://opplex.tv:8080/mother/mother/223059
 http://opplex.tv:8080/mother/mother/223060 
 #EXTINF:-1 tvg-name="hk: now sports pl 6 " tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" group-title="12. TV Olahraga",NOW Sports PL 6 
 http://opplex.tv:8080/mother/mother/223061 
-#EXTINF:-1 tvg-name="hk: now sports prime " tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305" ,NOW Sports Prime 
+#EXTINF:-1 tvg-name="hk: now sports prime " tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305" group-title="12. TV Olahraga",NOW Sports Prime 
 http://opplex.tv:8080/mother/mother/381399 
 #EXTINF:-1 tvg-name="hk: now sports plus " tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="12. TV Olahraga",NOW Sports Plus 
 http://opplex.tv:8080/mother/mother/381400 
