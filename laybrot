@@ -650,6 +650,19 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
 
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",03. HBO Family 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofamily.m3u8
+
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",04. HBO Signature 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosignature.m3u8
+
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",05. CINEMAX 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
+
+
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. HBO & Etv Bioskop", 01. HBO 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
