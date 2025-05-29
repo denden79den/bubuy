@@ -1254,9 +1254,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mhGTRFn.png?v=1.0.0.1" group-title="10. TV Musik", Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="Maleo Channel" tvg-name="Maleo Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/zg4YPTD.png?v=1.0.0.1" group-title="10. TV Musik", Maleo Channel
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
@@ -1264,15 +1261,18 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="10. TV Musik", MIC
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=144
 #EXTINF:-1 tvg-logo="https://iili.io/JZIQ7Np.png" group-title="10. TV Musik", MTV 90s
-https://poc-cdn-flr.visionplus.id/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=143
 #EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="10. TV Musik", MTV Live
-https://poc-cdn-flr.visionplus.id/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=142
