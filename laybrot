@@ -1952,23 +1952,13 @@ http://opplex.tv:8080/mother/mother/353139
 ============================================================================================================================================================
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="12. Sport Indonesia",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="12. Sport Indonesia",Sportstars 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORTSTARS_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="12. Sport Indonesia",Sportstars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORTSTARS_2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
