@@ -385,6 +385,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd
 
+#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cf102264bf3/decf82ff8ddd4bf1b0f895d4e2eab840.jpg" group-title="03. TV Nasional 2", Garuda TV (FMX)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="03. TV Nasional 2", INEWS (INDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -506,6 +509,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="03. TV Nasional 2", NUSANTARA TV
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="National" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -519,6 +525,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG
 https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="03. TV Nasional 2", Oxygen TV
+https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
 
 
