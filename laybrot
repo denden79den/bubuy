@@ -336,6 +336,9 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 group-title="03. TV Nasional 2"  tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD (INDI)
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
+#EXTINF:-1 group-title="03. TV Nasional 2"  tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD (D)
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
 #EXTINF:-1 group-title="03. TV Nasional 2"  tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD (FMX)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
