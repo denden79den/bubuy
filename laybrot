@@ -640,22 +640,6 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="04. HBO & Etv Bioskop",06. HBO
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="04. HBO & Etv Bioskop",07. HboHits
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="04. HBO & Etv Bioskop",08. HboFamily
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="04. HBO & Etv Bioskop",09. HboSignature
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="04. HBO & Etv Bioskop",10. Cinemax
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",11. eTvBioskop1
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",12. eTvBioskop2
@@ -665,32 +649,32 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",14. eTvBioskop4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",15. ETV BIOSKOP 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",16. ETV BIOSKOP 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",17 ETV BIOSKOP 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",18. ETV BIOSKOP 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
+##EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",15. ETV BIOSKOP 1
+##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
+##EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",16. ETV BIOSKOP 2
+##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
+##EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",17 ETV BIOSKOP 3
+##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
+##EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",18. ETV BIOSKOP 4
+##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",19. eTvBioskop1
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",19. eTvBioskop1
+##KODIPROP:contentlookup=False
+##KODIPROP:mimetype=application/vnd.apple.mpegurl
+##KODIPROP:inputstream=inputstream.adaptive
+##http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",20. eTvBioskop2
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",20. eTvBioskop2
+##KODIPROP:contentlookup=False
+##KODIPROP:mimetype=application/vnd.apple.mpegurl
+##KODIPROP:inputstream=inputstream.adaptive
+##http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",21. eTvBioskop3
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",21. eTvBioskop3
+##KODIPROP:contentlookup=False
+##KODIPROP:mimetype=application/vnd.apple.mpegurl
+##KODIPROP:inputstream=inputstream.adaptive
+##http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
 
 ============================================================================================================================================================
