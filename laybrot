@@ -3427,8 +3427,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd 
 
 #EXTINF:-1 tvg-id="hanacaraka TV" tvg-logo="https://static.mncnow.id/images/channel/f2f60371/def1_r32.jpg" group-title="VISION+", hanacaraka TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd 
 
 #EXTINF:-1 tvg-id="CELEBRITIES TV" tvg-logo="https://static.mncnow.id/images/channel/a90f8ccb/6a35_r32.jpg" group-title="VISION+", CELEBRITIES TV 
