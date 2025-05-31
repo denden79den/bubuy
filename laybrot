@@ -125,7 +125,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-##http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional",03. GtV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -133,17 +132,14 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional",04. MncTV
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-##https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="03. TV Nasional",05. ScTv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
-##https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="03. TV Nasional",06. MdTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -200,31 +196,6 @@ https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
 
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="03. TV Nasional", 20. RCTI VIP
-http://opplex.tv:8080/live/mother/mother/351023.ts
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="03. TV Nasional",21. GTV VIP
-http://opplex.tv:8080/live/mother/mother/350954.ts
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="03. TV Nasional",22. INEWS VIP
-http://opplex.tv:8080/live/mother/mother/350973.ts
-#EXTINF:-1 tvg-id="SCTV HD- [Saluran 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="03. TV Nasional",23. SCTV VIP
-http://opplex.tv:8080/live/mother/mother/351030.ts
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="03. TV Nasional",24. MOJI TV VIP
-http://opplex.tv:8080/live/mother/mother/350997.ts
-
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",25. TRANS 7 VIP
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",26. TRANS TV VIP
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",27. RCTI VIP
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",28. MNCTV VIP
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",29. SCTV VIP
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="" group-title="03. TV Nasional",30. INDOSIAR VIP
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 ============================================================================================================================================================
