@@ -575,31 +575,28 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;A
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="03. TV Nasional Siaran No Acak",01. Indosiar FHD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://xtv.ooo:8080/live/387546/200900/350972.ts
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34327
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="03. TV Nasional Siaran No Acak",02. RcTi FHD
-http://opplex.tv:8080/mohsin655/4969292/351023
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34322
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional Siaran No Acak",03. GtV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/gTv-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="03. TV Nasional Siaran No Acak",03. GtV FHD
-http://opplex.tv:8080/mohsin655/4969292/350954
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34331
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional Siaran No Acak",04. MncTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/MnC-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="03. TV Nasional Siaran No Acak",04. MncTV FHD
-http://opplex.tv:8080/mohsin655/4969292/350996
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34326
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SCTV.png" group-title="03. TV Nasional Siaran No Acak",05. ScTv
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -612,16 +609,22 @@ http://opplex.tv:8080/mohsin655/4969292/351030
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="03. TV Nasional Siaran No Acak",06. MdTV FHD
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34321
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional Siaran No Acak",07. TransTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TransTV.png" group-title="03. TV Nasional Siaran No Acak",07. TransTV FHD
-https://phdown.serv00.net/Smartv.php?id=Transtv
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34324
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Trans7.png" group-title="03. TV Nasional Siaran No Acak",08. Trans7
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Trans7.png" group-title="03. TV Nasional Siaran No Acak",08. Trans7 FHD
+http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34325
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Moji.png" group-title="03. TV Nasional Siaran No Acak",09. MojiTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -1278,7 +1281,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/9jYelH9.png" group-title="09. TV Pengetahuan",BBC Earth (V=)
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/9jYelH9.png" group-title="09. TV Pengetahuan",BBC Earth (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd 
@@ -1415,6 +1418,9 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 ##EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="11. TV Anak",DreamWorks
 ##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="11. TV Anak",BLIPPI & FRIENDS FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
 
 #EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -2090,6 +2096,77 @@ http://opplex.tv:8080/mother/mother/353138
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a3/Prima_Sport_4_%282022-.n.v.%29.png" group-title="12. TV Olahraga", PRIMA SPORT 4 
 http://opplex.tv:8080/mother/mother/353139
 
+
+
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="US - FUBO SPORTS NETWORK" tvg-logo="https://go4.pw/AMERICA/USA/fubo-sports.png" group-title="12. TV Olahraga",US - FUBO SPORTS NETWORK
+http://bestp55.xyz:80/A7FC77529786/519C32219872/200924
+#EXTINF:-1 tvg-id="" tvg-name="US - FUBO SPORTS 1" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="12. TV Olahraga",US - FUBO SPORTS 1
+http://bestp55.xyz:80/A7FC77529786/519C32219872/325613
+#EXTINF:-1 tvg-id="" tvg-name="US - FUBO SPORTS 2" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="12. TV Olahraga",US - FUBO SPORTS 2
+http://bestp55.xyz:80/A7FC77529786/519C32219872/325612
+#EXTINF:-1 tvg-id="" tvg-name="US - FUBO SPORTS 3" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="12. TV Olahraga",US - FUBO SPORTS 3
+http://bestp55.xyz:80/A7FC77529786/519C32219872/325611
+#EXTINF:-1 tvg-id="" tvg-name="US - FUBO SPORTS 4" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="12. TV Olahraga",US - FUBO SPORTS 4
+http://bestp55.xyz:80/A7FC77529786/519C32219872/325610
+#EXTINF:-1 tvg-id="" tvg-name="US - FUBO SPORTS 5" tvg-logo="https://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="12. TV Olahraga",US - FUBO SPORTS 5
+http://bestp55.xyz:80/A7FC77529786/519C32219872/325609
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. TV Olahraga",SPORTS - HUB SPORTS 1 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1090647
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. TV Olahraga",SPORTS - HUB SPORTS 2 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1090648
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. TV Olahraga",SPORTS - HUB SPORTS 3 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1090649
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. TV Olahraga",SPORTS - HUB SPORTS 4 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1090650
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. TV Olahraga",SPORTS - HUB SPORTS 5 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1090651
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 1  FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 1  FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438868
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 2 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 2 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438869
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 3 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 3 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438870
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 4 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 4 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438871
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 5 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 5 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438872
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 6 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 6 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438873
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 7 FHD" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png" group-title="12. TV Olahraga",UK - NOW HK NOW SPORTS 7 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/438874
+
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/RMC_SPORT_LIVE1.png" group-title="12. TV Olahraga",FR - RMC SPORT 1 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/56671
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/RMC_SPORT_LIVE2.png" group-title="12. TV Olahraga",FR - RMC SPORT 2 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/349337
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 3 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/RMC_SPORT_LIVE3.png" group-title="12. TV Olahraga",FR - RMC SPORT LIVE 3 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/215571
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 4 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/RMC_SPORT_LIVE4.png" group-title="12. TV Olahraga",FR - RMC SPORT LIVE 4 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/215574
+
+#EXTINF:-1 tvg-id="" tvg-name="DE - ZIGGO SPORT 8K" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png" group-title="12. TV Olahraga",DE - ZIGGO SPORT 8K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1139981
+#EXTINF:-1 tvg-id="" tvg-name="DE - ZIGGO SPORT 2 8K" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png" group-title="12. TV Olahraga",DE - ZIGGO SPORT 2 8K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1139982
+#EXTINF:-1 tvg-id="" tvg-name="DE - ZIGGO SPORT 3 8K" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png" group-title="12. TV Olahraga",DE - ZIGGO SPORT 3 8K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1139983
+#EXTINF:-1 tvg-id="" tvg-name="DE - ZIGGO SPORT 4 8K" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png" group-title="12. TV Olahraga",DE - ZIGGO SPORT 4 8K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1139984
+#EXTINF:-1 tvg-id="" tvg-name="DE - ZIGGO SPORT ULTRA 8K" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Ziggo_Sport_Docu.png" group-title="12. TV Olahraga",DE - ZIGGO SPORT ULTRA 8K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1139986
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK - TNT SPORTS 1 FHD : " tvg-logo="https://go4.pw/UK/bt-1.png" group-title="12. TV Olahraga",UK - TNT SPORTS 1 FHD : 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17281
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK - TNT SPORTS 2 FHD : " tvg-logo="https://go4.pw/UK/bt-2.png" group-title="12. TV Olahraga",UK - TNT SPORTS 2 FHD : 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/980406
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK - TNT SPORTS 3 FHD " tvg-logo="https://go4.pw/UK/bt-3.png" group-title="12. TV Olahraga",UK - TNT SPORTS 3 FHD 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/980407
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK - TNT SPORTS 4 FHD" tvg-logo="https://go4.pw/AMERICA/USA/BTSPORT_4.png" group-title="12. TV Olahraga",UK - TNT SPORTS 4 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/311556
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="UK - TNT SPORTS 5 FHD" tvg-logo="https://go4.pw/AMERICA/USA/BTSPORT_5.png" group-title="12. TV Olahraga",UK - TNT SPORTS 5 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
 
 
 
