@@ -1433,12 +1433,22 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
+#EXTINF:-1 tvg-logo="https://iili.io/JZIQ7Np.png" group-title="10. TV Musik", MTV 90s (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+
 #EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="10. TV Musik", MTV Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
- 
+
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="10. TV Musik", MTV Live (V+) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
+
 #EXTINF:-1 group-title="10. TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7Vu8gPIhvfOcdgcWMksaJ9TVQuvkSB9l00HMcnC0Lp9Jv-pGuQ5lDcjAU6f_iwiSaZqb7rUhS4w0l0NUb2tVdpfi0q2Z7HX0EHnSLfUpkmsYD3sJ_LSI2-fO1rmarqYv3WAM3o58Dsadd3MSsadhyKlRvB3Wk2bl9Hu5pWC1Wt4T0UR2LeeTpvSV9w/s1600/imtv%20%281%29.jpg",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
  
