@@ -766,7 +766,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="05. Sinetron Indonesia",07. AstroRia
-https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
+##https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1119956
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="05. Sinetron Indonesia",08. AstroAura
 https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
@@ -1444,6 +1445,9 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="11. TV Anak",BLIPPI & FRIENDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
+
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA FHD" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="11. TV Anak",ASTRO CERIA FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052389
 
 #EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
