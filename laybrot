@@ -1381,6 +1381,13 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 // Collected by @denitv menampilkan playlist >>> 10. TV Musik
 ============================================================================================================================================================
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1014
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Xjjxf3F/musictv.png" group-title="10. TV Musik",MUSIC TV
+https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
 #EXTINF:-1 tvg-id="INBC28000122W" tvg-name="9XM" tvg-logo="https://cdn4.mbahnunungonline.net/img/UaHtwO2.png?v=1.0.0.1" group-title="10. TV Musik", 9X Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 
