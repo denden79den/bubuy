@@ -60,6 +60,10 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="01. TV Religi",18. Khazanah
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
+#EXTINF:-1 group-title="01. TV Religi" tvg-logo="https://i.imgur.com/lf4ByiR.png",19. TvMu (MUHAMMADIYAH TV) 
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/tvmu.m3u8
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 02. News TV
