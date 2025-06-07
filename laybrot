@@ -1876,6 +1876,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="12. Astro Sports",Astro Football
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="12. Astro Sports",Astro WSports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
