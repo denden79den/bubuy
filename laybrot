@@ -1210,9 +1210,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="08. TV Hiburan" tvg-logo="https://i.imgur.com/YadqD3G.png", WELLBEING TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6Ee2wbr.png" group-title="08. TV Hiburan", E!
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/e!.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xa6PmLb.png" group-title="08. TV Hiburan" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
