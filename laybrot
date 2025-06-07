@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="DENI TV NEW VERSION.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
+#EXTM3U billed-msg="DENI TV On Juni 2024.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 ============================================================================================================================================================
@@ -1401,8 +1401,8 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 // Collected by @denitv menampilkan playlist >>> 11. TV ANAK
 ============================================================================================================================================================
 
-##EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="11. TV Anak",DreamWorks
-##http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
+#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="11. TV Anak",ID DreamWorks
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="11. TV Anak",BLIPPI & FRIENDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
@@ -1946,10 +1946,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 //Collected by @mimipipi22 menampilkan playlist >>> Now Sports
 //========================================================================
 
-#EXTINF:-1 tvg-ID="" tvg-name="NOW Sports 4K 1 (611)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="12. Now Sports",NOW Sports 4K 1
-http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/82842
-#EXTINF:-1 tvg-ID="" tvg-name="NOW Sports 4K 2 (612)" tvg-logo="https://i.ibb.co.com/SXtXLJL8/now2hk.png" group-title="12. Now Sports",NOW Sports 4K 2
-http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/159107
+
 #EXTINF:-1 tvg-ID="" tvg-name="NOW Sports Plus" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="12. Now Sports",NOW Sports Plus
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/159106
 #EXTINF:-1 tvg-ID="" tvg-name="NOW Sports Prime" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-Prime.png" group-title="12. Now Sports",NOW Sports Prime
@@ -2052,4 +2049,4 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/325609
 
 
 
-\
+
