@@ -1232,7 +1232,11 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 #EXTINF: -1 tvg-id="fashiontv.id" tvg-logo="https://i.imgur.com/EPFQtYQ.png" group-title="08. TV Hiburan", FASHION TV
-https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6BOXnf5.png" group-title="08. TV Hiburan", FASHION TV MIDNIGHT
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
