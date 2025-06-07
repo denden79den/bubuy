@@ -635,17 +635,17 @@ https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 #EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="03. TV Nasional Siaran No Acak",GTV
 https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 #EXTINF:-1 xui-id="10" tvg-id="" tvg-name="iNEWS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="03. TV Nasional Siaran No Acak",iNEWS
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeem_548vmbY_4RzhH0LNZLA
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="TV ONE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="03. TV Nasional Siaran No Acak",TV ONE
 https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="METRO TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="03. TV Nasional Siaran No Acak",METRO TV
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeVhjqBq8ydeM52MeSy4arsw
+https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="03. TV Nasional Siaran No Acak",KOMPAS TV
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefO-xzjitEZgQZJjI4_hcbQ
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="03. TV Nasional Siaran No Acak",ANTV
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeUoBwOiKdkyCX2G73Ah2kc
 #EXTINF:-1 xui-id="13" tvg-id="" tvg-name="MDTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqJtbbNR2CRsFDWQiMHunmEg.png" group-title="03. TV Nasional Siaran No Acak",MDTV
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeHuZ-NImZWJvoLQQMtJl4Q
+https://smart.pendy.dpdns.org/Smart.php?id=NetTV
 #EXTINF:-1 xui-id="16" tvg-id="" tvg-name="RTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="03. TV Nasional Siaran No Acak",RTV
 https://smart.pendy.dpdns.org/Smart.php?id=Rtv
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="BTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKZfEHLvts9ohyPR2I798Fw.png" group-title="03. TV Nasional Siaran No Acak",BTV
@@ -659,12 +659,11 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaDtmnMvCDGSMTsZV0KkPpw
 #EXTINF:-1 xui-id="10839" tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="03. TV Nasional Siaran No Acak",BERITA SATU
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWN_Qjz1R-u1AHCohxjsqh8
 #EXTINF:-1 xui-id="18" tvg-id="" tvg-name="TVRI" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="03. TV Nasional Siaran No Acak",TVRI
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaWavKNk07LY9Gi5-eXDdGU
+https://smart.pendy.dpdns.org/Smart.php?id=TVRI
 #EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="03. TV Nasional Siaran No Acak",CNBC INDONESIA
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeW1_PA3ve3lxYwPlmFR1csY
 #EXTINF:-1 xui-id="10837" tvg-id="" tvg-name="DAAI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="03. TV Nasional Siaran No Acak",DAAI TV
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWef8kPQ0wGt6-ZKC3F1BfwMw
-
+https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 04. Home Box Office (ETV Bioskop)
