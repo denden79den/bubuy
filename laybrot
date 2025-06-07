@@ -206,6 +206,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/NpswrMT/nusantara.png" group-title="03. TV Nasional",14. NusantaraTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="03. TV Nasional", 15. Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="03. TV Nasional",16. RTV
@@ -655,7 +656,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rtv
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="BTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKZfEHLvts9ohyPR2I798Fw.png" group-title="03. TV Nasional Siaran No Acak",BTV
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee8lhWHWe0vpxFmsBUVbWp4
 #EXTINF:-1 xui-id="10846" tvg-id="" tvg-name="NTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqNPGDiTpAbNnK0v4FeWQz-DO4-q1qocEb92FcRn6FFso.png" group-title="03. TV Nasional Siaran No Acak",NTV
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRL7CreBaHIahjZjCYjwZoI
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="03. TV Nasional Siaran No Acak",CNN INDONESIA
 https://wahyu1ptv.pages.dev/CNN-HD.m3u8
 #EXTINF:-1 xui-id="19" tvg-id="" tvg-name="SINDO NEWS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="03. TV Nasional Siaran No Acak",SINDO NEWS
