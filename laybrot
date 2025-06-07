@@ -1877,6 +1877,16 @@ https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="12. Astro Sports",AstroSportPlus2
 https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="12. Astro Sports",BeinSports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="12. Astro Sports",BeinSports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="12. Astro Sports",BeinSports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Sony & TNT Sports
