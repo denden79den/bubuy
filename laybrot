@@ -713,14 +713,28 @@ https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 // Collected by @denitv menampilkan playlist >>> 04. Home Box Office (ETV Bioskop)
 ============================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. Etv Bioskop",1. eTvBioskop1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. HBO & Etv Bioskop",1. eTvBioskop1
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. Etv Bioskop",2. eTvBioskop2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. HBO & Etv Bioskop",2. eTvBioskop2
 https://WahyuIPTV.short.gy/ETVBioskop2.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. Etv Bioskop",3. eTvBioskop3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. HBO & Etv Bioskop",3. eTvBioskop3
 https://WahyuIPTV.short.gy/ETVBioskop3.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. Etv Bioskop",4. eTvBioskop4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",4. eTvBioskop4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. HBO & Etv Bioskop", HBO 
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
+
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family
+
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature 
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png", CINEMAX 
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
+
+
 
 
 ============================================================================================================================================================
