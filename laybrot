@@ -2166,3 +2166,10 @@ https://wahyu1ptv.pages.dev/SSCExtra2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSCEXTRA3.png" group-title="12. Sporty Sports",SSCEXTRA3
 https://wahyu1ptv.pages.dev/SSCExtra3-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="12. Sporty Sports",ArenaPremium1
+https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="12. Sporty Sports",ArenaPremium2
+https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="12. Sporty Sports",ArenaPremium3
+https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
+
