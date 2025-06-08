@@ -2143,6 +2143,9 @@ https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="12. Sporty Sports",DaznLaliga2
 https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSports.png" group-title="12. Sporty Sports",CBSSportsNetwork
+https://wahyu1ptv.pages.dev/CBSSportsNetwork-HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC1.png" group-title="12. Sporty Sports",SSC1
 https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC2.png" group-title="12. Sporty Sports",SSC2
