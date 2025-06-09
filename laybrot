@@ -722,35 +722,35 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. HBO & Etv Bioskop",4. eTvBioskop4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. HBO & Etv Bioskop", HBO 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="04. HBO & Etv Bioskop", HBO FHD
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
 
-#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits FHD
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
-#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family FHD
 
-#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature 
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature FHD
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
-#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png", CINEMAX 
+#EXTINF:-1 group-title="04. HBO & Etv Bioskop" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png", CINEMAX FHD
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="04. HBO & Etv Bioskop",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="04. HBO & Etv Bioskop",HBO HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="04. HBO & Etv Bioskop",HboHits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="04. HBO & Etv Bioskop",HboHits HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="04. HBO & Etv Bioskop",HboFamily
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="04. HBO & Etv Bioskop",HboFamily HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="04. HBO & Etv Bioskop",HboSignature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="04. HBO & Etv Bioskop",HboSignature HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="04. HBO & Etv Bioskop",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="04. HBO & Etv Bioskop",Cinemax HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
 
