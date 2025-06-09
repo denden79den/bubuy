@@ -648,7 +648,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444146
 ##https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
 
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="03. TV Nasional Siaran No Acak",MOJI
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="03. TV Nasional Siaran No Acak",MOJI
 ##EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##EXTVLCOPT:http-referrer=http://dens.tv
 ##http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -697,7 +697,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444154
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 xui-id="10839" tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="03. TV Nasional Siaran No Acak",BERITA SATU
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWN_Qjz1R-u1AHCohxjsqh8
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="03. TV Nasional Siaran No Acak",TVRI NASIONAL
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="03. TV Nasional Siaran No Acak",TVRI NASIONAL
 ##https://wahyu1ptv.pages.dev/TvRi-HD.m3u8
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444223
 
