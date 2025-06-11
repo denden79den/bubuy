@@ -1988,14 +1988,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WWE-Astro.png" group-title="12. Astro Sports",WWE Network
 https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/UfcFightPass.png" group-title="12. Astro Sports",UFC FightPass
-https://wahyu1ptv.pages.dev/UFCFightPass-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="12. Astro Sports", IMPACT WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="12. Astro Sports" tvg-logo="https://i.imgur.com/pj6zyon.png",STRONGMAN CHAMPIONS LEAGUE
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 
 
@@ -2318,6 +2310,9 @@ https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="12. FightSports", UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WWE-Astro.png" group-title="12. FightSports",WWE Network
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/wwe-peacock.png" group-title="12. FightSports",WWEPeacook
 https://wahyu1ptv.pages.dev/WWePeacook-HD.m3u8
