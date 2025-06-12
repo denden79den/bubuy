@@ -818,6 +818,9 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 ##https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1119956
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="05. Sinetron Indonesia",07. AstroRia 2
+https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="05. Sinetron Indonesia",08. AstroAura
 https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
 
