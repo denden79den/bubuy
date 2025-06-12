@@ -2335,7 +2335,8 @@ https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WWE-Astro.png" group-title="12. FightSports",WWE Network
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+##https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+https://wahyu1ptv.pages.dev/AstroWWE-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/wwe-peacock.png" group-title="12. FightSports",WWEPeacook
 https://wahyu1ptv.pages.dev/WWePeacook-HD.m3u8
