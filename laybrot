@@ -64,6 +64,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/tvmu.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AswajaTV.id" tvg-name="AswajaTV" tvg-logo="https://warningfm.github.io/v3/img/oJE1tDf.png?v=1.0.0.1" group-title="01. TV Religi",20. AswajaTV
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 02. News TV
