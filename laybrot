@@ -2416,4 +2416,22 @@ https://wahyu1ptv.pages.dev/Combate-HD.m3u8
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> POLSAT SPORTS
+//========================================================================
+
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-1-pl.png",Polsat Sports
+http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/10443
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-extra-hd-pl.png",Polsat Extra Sports
+http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/6435
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-premium-1-pl.png",Polsat Premium 1 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/16059
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-premium-2-pl.png",Polsat Premium 2 
+http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/16060
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-sport-fight-hd-pl.png",Polsat Fight Sport
+http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/6434
 
