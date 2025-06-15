@@ -3111,3 +3111,15 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/762488
 #EXTINF:-1 tvg-id="" tvg-name="ALB - ART SPORT 6 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT6.png" group-title="12. Albania Sports",ALB - ART SPORT 6 HD ◉
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/104064
 
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX - FOX SPORTS 1 FHD" tvg-logo="https://go4.pw/Mexico/fox1.png" group-title="12. Albania Sports",MX - FOX SPORTS 1 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028351
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX - FOX SPORTS 2 FHD" tvg-logo="https://go4.pw/Mexico/fox2.png" group-title="12. Albania Sports",MX - FOX SPORTS 2 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028353
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX - FOX SPORTS 3 FHD" tvg-logo="https://go4.pw/Mexico/fox3.png" group-title="12. Albania Sports",MX - FOX SPORTS 3 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028355
+#EXTINF:-1 tvg-id="" tvg-name="MX - FOX SPORTS PREMIUM FHD" tvg-logo="https://go4.pw/Mexico/foxpremium.png" group-title="12. Albania Sports",MX - FOX SPORTS PREMIUM FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028356
+#EXTINF:-1 tvg-id="" tvg-name="MX - FOX SPORTS PREMIUM HEVC" tvg-logo="https://go4.pw/Mexico/foxpremium.png" group-title="12. Albania Sports",MX - FOX SPORTS PREMIUM HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1126063
+
+
