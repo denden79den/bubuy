@@ -217,59 +217,76 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/kompas.jpg",Kompas TV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=13&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/kompas.jpg",Kompas TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=13&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/metrotv.jpg",Metro TV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=14&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/metrotv.jpg",Metro TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=14&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/btv.jpg",Berita Satu #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=15&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/btv.jpg",Berita Satu 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=15&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 https://dltqetb2ui0zi.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/tvri.jpg",TVRI #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=16&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/tvri.jpg",TVRI 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=16&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash #EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/seatuday.jpg",SEA Today 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=17&type=drm 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/seatuday.jpg",SEA Today 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=17&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/jektv.jpg",JTV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=24&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/jektv.jpg",JTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=24&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/tv9.jpg",TV9 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=28&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/tv9.jpg",TV9 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=28&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd 
 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/cinema eropa.jpg",MY CINEMA EUROPE HD #EXTVLCOPT:http-referrer=http://www.dens.tv/ 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/cinema eropa.jpg",MY CINEMA EUROPE HD 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=My_Cinema_Europe_HD 
 
 #EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/cinemaworld.jpg",Cinema World HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd 
 
@@ -281,14 +298,18 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/buddy.jpg",Cinemachi Kids #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=37&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/buddy.jpg",Cinemachi Kids 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=37&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/super.jpg",Cinemachi Max #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=39&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/super.jpg",Cinemachi Max 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=39&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
@@ -307,21 +328,27 @@ https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/trill.jpg",Thrill #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=41&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/trill.jpg",Thrill 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=41&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/hitmovie.jpg",HITS Movies #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=42&type=drm 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/hitmovie.jpg",HITS Movies 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=42&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/cm.jpg",Celestial Movies #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=44&type=drm #EXTVLCOPT:http-referrer=https://visionplus.id/ 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/cm.jpg",Celestial Movies 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=44&type=drm 
+#EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd 
 
