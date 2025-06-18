@@ -477,10 +477,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KOD
-OP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/nick.jpg",Nickelodeon #
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/nick.jpg",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=64&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -507,8 +507,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=wn
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=67&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://terabit.web.id/media.mpd?id=67&type=dash #KODIPROP:inputstreamaddon=inputstream.adaptive 
+http://terabit.web.id/media.mpd?id=67&type=dash 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/crime.jpg",Crime Investigation 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -523,6 +524,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336 
 https://aka-live1-ott.izzigo.tv/4/out/u/dash/NAT-GEO-HD/default.mpd 
+
 #EXTINF:-1 group-title="00. Vision+" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/natgeo.jpg",NATGEO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
