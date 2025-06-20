@@ -1407,7 +1407,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 group-title="03. TV Nasional 2" tvg-id="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e",RCTI (V+)
+#EXTINF:-1 group-title="03. TV Nasional 2" tvg-id="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=1&type=drm 
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
