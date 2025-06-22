@@ -3475,11 +3475,19 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="12. Sony & TNT Sports", DAZN体育1
-rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1  tvg-name="FOX Sports" tvg-id="FOXSPORTS.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="12. Sony & TNT Sports",FOX Sports 1
+https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="FOX Sports 2" tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-asia/fox-sports-2-asi.png" group-title="12. Sony & TNT Sports",FOX Sports 2
+https://ott.udptv.com/stream/udptv/foxsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="FOX Sports 3" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-asia/fox-sports-3-asi.png" group-title="12. Sony & TNT Sports",FOX Sports 3
+https://ott.udptv.com/stream/udptv/foxsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="12. Sony & TNT Sports", DAZN体育2
-rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1  tvg-name="FS1" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="12. Sony & TNT Sports",FS1
+https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="12. Sony & TNT Sports",FS2
+https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+
 
 
 //========================================================================
