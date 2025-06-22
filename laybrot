@@ -3520,6 +3520,14 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Billard TV" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://p-img.movetv.com/cms/images/be553f7355653b3bc0755048f20ec9f0b11d4c77.png/height=183" group-title="12. Sony & TNT Sports",Billard TV
 https://ott.udptv.org/stream/udptvus/billardtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
+#EXTINF:-1  tvg-name="Blast Sports" tvg-id="blastPH.Blast.Sports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="12. Sony & TNT Sports",Blast Sports
+http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1  tvg-name="CBS Sports Golazo" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" group-title="12. Sony & TNT Sports",CBS Sports Golazo
+https://ott.udptv.com/stream/udptv/cbssportsgolazo/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Now Sports
@@ -3561,6 +3569,7 @@ http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60468
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60469
 #EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-8.png" group-title="12. Now Sports",Now Premier Sports 8
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60470
+
 
 
 //========================================================================
