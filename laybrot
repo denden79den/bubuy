@@ -3496,7 +3496,29 @@ https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=8c43211
 #EXTINF:-1  tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="12. Sony & TNT Sports",FS2
 https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
+#EXTINF:-1  tvg-name="Premier Sports" tvg-id="blastPH.Premier.Sports" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png" group-title="12. Sony & TNT Sports",Premier Sports 1
+https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Premier Sports 2" tvg-id="blastPH.Premier.Sports.2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172018-cca8pjjxus5tlupb.png" group-title="12. Sony & TNT Sports",Premier Sports 2
+https://ott.udptv.net/stream/iptv/premiersports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
+
+#EXTINF:-1  tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="12. Sony & TNT Sports",Bein Sports 1
+https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Bein Sports 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="12. Sony & TNT Sports",Bein Sports 2
+https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Bein Sports 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="12. Sony & TNT Sports",Bein Sports 3
+https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Bein Sports 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="12. Sony & TNT Sports",Bein Sports 4
+https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Bein Sports 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="12. Sony & TNT Sports",Bein Sports 5
+https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1  tvg-name="Bein Sports HD" tvg-id="udptvus/beinsports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="12. Sony & TNT Sports",Bein Sports HD
+https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="12. Sony & TNT Sports",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Billard TV" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://p-img.movetv.com/cms/images/be553f7355653b3bc0755048f20ec9f0b11d4c77.png/height=183" group-title="12. Sony & TNT Sports",Billard TV
+https://ott.udptv.org/stream/udptvus/billardtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 
 //========================================================================
