@@ -1700,7 +1700,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62181
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="03. TV Nasional 2", TVONE (FMX)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2 https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2 
+https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="03. TV Nasional 2", METRO TV (INDI)
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
@@ -1790,7 +1791,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="03. TV Nasional 2", RTV (CUBMU)
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="03. TV Nasional 2", JTV (INDI)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
@@ -1865,18 +1871,34 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="03. TV Nasional 2" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA (INDI) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA (CUBMU) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62163
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC (INDI) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC (CUBMU) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG
 https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
