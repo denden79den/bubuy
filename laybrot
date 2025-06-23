@@ -1439,11 +1439,12 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-id="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",RCTI (V+)
 http://viprrbzapi.top:8080/VIP010171084868258/77ab06530ab6/34322
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png" group-title="03. TV Nasional 2", RCTI (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTM3U
@@ -1463,11 +1464,12 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/9e138905ec264209945921a5c4295dbe.png" group-title="03. TV Nasional 2", GTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/9e138905ec264209945921a5c4295dbe.png" group-title="03. TV Nasional 2", GTV 🔵
@@ -1478,11 +1480,12 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62239
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png" group-title="03. TV Nasional 2", MNC TV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="03. TV Nasional 2",TransTV (FMX)
@@ -1508,11 +1511,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="03. TV Nasional 2",TransTV 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62186
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="03. TV Nasional 2", Trans TV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="03. TV Nasional 2",Trans 7 (FMX)
@@ -1538,18 +1542,20 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="03. TV Nasional 2",Trans7 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62187
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="03. TV Nasional 2", Trans 7 (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776bc7624307ab/c78ea2b0618a45b2894adb000fe4c9f5.png" group-title="03. TV Nasional 2", MDTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776bc7624307ab/c78ea2b0618a45b2894adb000fe4c9f5.png" group-title="03. TV Nasional 2", MDTV (D)
@@ -1568,12 +1574,13 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sctv.png" group-title="03. TV Nasional 2",SCTV (D)
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="03. TV Nasional 2", SCTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="03. TV Nasional 2", SCTV (FMX)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -1589,12 +1596,13 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 group-title="03. TV Nasional 2" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png",Indosiar (D)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e773b02392/25aba9a19bfa424ea7012dd0c25613f2.png" group-title="03. TV Nasional 2", Indosiar (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e773b02392/25aba9a19bfa424ea7012dd0c25613f2.png" group-title="03. TV Nasional 2", Indosiar 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62227
@@ -1653,11 +1661,12 @@ https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="03. TV Nasional 2", TVRI 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62177
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="03. TV Nasional 2", TVRI (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
@@ -1707,11 +1716,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="03. TV Nasional 2", METRO TV 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62224
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="03. TV Nasional 2", MetroTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="03. TV Nasional 2", MetroTV (FMX)
@@ -1723,11 +1733,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="03. TV Nasional 2", MetroTV (D)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="03. TV Nasional 2", Kompas TV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="03. TV Nasional 2", Kompas TV (FMX)
@@ -1759,12 +1770,13 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62222
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cd06bed442f/9cd730cd0f734738a21347d1aa9d2f7a.png" group-title="03. TV Nasional 2", Berita Satu (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="03. TV Nasional 2", RTV (INDI)
 https://cdn14jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
@@ -1777,12 +1789,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="03. TV Nasional 2", RTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="03. TV Nasional 2", JTV (INDI)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
@@ -1792,11 +1800,12 @@ https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png" group-title="03. TV Nasional 2", JTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png" group-title="03. TV Nasional 2", JTV (FMX)
@@ -1816,11 +1825,12 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62284
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c80f0d63bfc/a05085b5b64c47aaba94a330544f8436.png" group-title="03. TV Nasional 2", BTV (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" group-title="03. TV Nasional 2", JAKTV (INDI)
@@ -1841,11 +1851,12 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f 
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#KODIPROP:inputstream.adaptive.stream_headers=dt-custom-data=eyJ1c2VySWQiOiJndWVzdDEwODc0QG1vcmF0ZWxpbmRvLmNvbSIsInNlc3Npb25JZCI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pTURNME56Rm1PVGt0WlRkbU5pMDBaREZrTFRrME1qWXROakl5TVRVMFpqRmxZek0zSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVJYVnliM0JsTDB4dmJtUnZiaUlzSW1GMWRHaHZjbWwwZVNJNklsSlBURVZmVlZORlVpSXNJbVY0Y0NJNk1UYzFNRFU1TnpJM09Dd2lkWE5sY2tsa0lqb2lOREF5T0RRNFpUUTNaVE0xTlRNMk5qQXhOMlV6WkRSa05UazNaakF3TVdNaUxDSmtaWFpwWTJWSlpDSTZJalUyWlROaU1HTmhZamxqTVRVME9HTWlMQ0pwWVhRaU9qRTNORGd3TURVeU56Z3NJblZ6WlhKdVlXMWxJam9pWjNWbGMzUXhNRGczTkVCdGIzSmhkR1ZzYVc1a2J5NWpiMjBpZlEuX0pJYVNUcUFxVW9wSzNzUUJQSUZBRDJyU0FyWlhIa2c3dkR1Vl8wOUhWZyIsIm1lcmNoYW50IjoiZ2lpdGRfdHJhbnN2aXNpb24ifQ==
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="03. TV Nasional 2", Jak tv (CUBMU)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="03. TV Nasional 2", NUSANTARA TV
