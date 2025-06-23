@@ -4868,3 +4868,17 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/400617
 http://aromatv.co:80/Enjy3637/4JFEBAs359/400618
 
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> PRO LIGA BOLA VOLLY
+//========================================================================
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/39ciYfS.png" group-title="12.  Pro Liga Bola Volly", MOJI 
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="12.  Pro Liga Bola Volly",MOJI Proliga 
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="12.  Pro Liga Bola Volly", MOJI TV aktif saat live 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) 
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
