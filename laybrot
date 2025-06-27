@@ -900,10 +900,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="03. TV Nasional 2", CNN INDONESIA 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62163
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC (INDI) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="03. TV Nasional 2", CNBC (CUBMU) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
