@@ -3438,7 +3438,8 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 //Collected by @mimipipi22 menampilkan playlist >>> POLSAT SPORTS
 //========================================================================
 
-
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL - POLSAT SPORT HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 1 FHDD
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/10443
 #EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL - POLSAT SPORT HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 1 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/67799
 #EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL - POLSAT SPORT HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 1 FHD
@@ -3448,6 +3449,8 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/10443
 #EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL - POLSAT SPORT HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 1 SD
 http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/34309
 
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL - POLSAT SPORT EXTRA HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 2 FHDD
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/6435
 #EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL - POLSAT SPORT EXTRA HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/67808
 #EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL - POLSAT SPORT EXTRA HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 2 FHD
@@ -3464,6 +3467,8 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/440343
 #EXTINF:-1 tvg-id="polsatsportnews.pl" tvg-name="PL - POLSAT SPORT NEWS FHD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT 3 SD
 http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/887
 
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL - POLSAT SPORT PREM. 1 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem1.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 1 FHDD
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/16059
 #EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL - POLSAT SPORT PREM. 1 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem1.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 1 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/67797
 #EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL - POLSAT SPORT PREM. 1 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem1.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 1 FHD
@@ -3473,6 +3478,8 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/16059
 #EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL - POLSAT SPORT PREM. 1 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem1.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 1 SD
 http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/870
 
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL - POLSAT SPORT PREM. 2 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem2.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 2 FHDD
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/16060
 #EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL - POLSAT SPORT PREM. 2 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem2.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/67796
 #EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL - POLSAT SPORT PREM. 2 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sportPrem2.png" group-title="12. Polsat Sports (Volly VNL)",PL - POLSAT SPORT PREM. 2 FHD
@@ -3786,41 +3793,55 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/466456
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SKY SPORTS DAN RMC
+//Collected by @mimipipi22 menampilkan playlist >>> SPORT KLUB
 //========================================================================
 
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub1.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 1 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/120816
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="SPORT KLUB 2 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub2.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 2 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/175714
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT KLUB 3 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub3.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 3 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/175715
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="12.  Sky Sports",SKY SPORTS F1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1668
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="12.  Sky Sports",SKY SPORTS GOLF
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1669
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="12.  Sky Sports",SKY SPORTS MIX
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1670
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="12.  Sky Sports",SKY SPORTS FOOTBALL
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1671
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="12.  Sky Sports",SKY SPORTS PREMIER LEAGUE
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1672
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="12.  Sky Sports",SKY SPORTS CRICKET
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1673
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="12.  Sky Sports",SKY SPORTS ARENA
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1674
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="12.  Sky Sports",SKY SPORTS ACTION
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1675
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACING" tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="12.  Sky Sports",SKY SPORTS RACING
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1676
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="12.  Sky Sports",SKY SPORTS MAIN EVENT
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1677
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 4 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub4.png" group-title="12 Sport Klub&Arena Sport",HR: SPORT KLUB 4 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/339030
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 5 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub5.png" group-title="12 Sport Klub&Arena Sport",HR: SPORT KLUB 5 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/339029
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub6.png" group-title="12 Sport Klub&Arena Sport",HR: SPORT KLUB 6 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/339028
 
 
-#EXTINF:-1 tvg-id="TF1" tvg-name="RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="12.  Sky Sports",RMC SPORT 1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/388
-#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="12.  Sky Sports",RMC SPORT 2
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/389
-#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="12.  Sky Sports",RMC SPORT 3
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/390
-#EXTINF:-1 tvg-id="TF1" tvg-name="RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="12.  Sky Sports",RMC SPORT 4
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/391
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub4.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 4
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/301241
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub5.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 5
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/301242
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub6.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 6
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/301243
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 8 [LIVEEVENT]" tvg-logo="http://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub8.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 8 [LIVEEVENT]
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/301245
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 10 [LIVEEVENT]" tvg-logo="http://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub10.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB 10 [LIVEEVENT]
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/301244
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB GOLF HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlubGolf.png" group-title="12 Sport Klub&Arena Sport",SPORT KLUB GOLF HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/259985
 
+
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="ARENA SPORT 1" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport1.png" group-title="12 Sport Klub&Arena Sport",ARENA SPORT 1
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/2986
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="ARENA SPORT 2" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport2.png" group-title="12 Sport Klub&Arena Sport",ARENA SPORT 2
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/2987
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="ARENA SPORT 3" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport3.png" group-title="12 Sport Klub&Arena Sport",ARENA SPORT 3
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/2988
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="ARENA SPORT 4" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport4.png" group-title="12 Sport Klub&Arena Sport",ARENA SPORT 4
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/2989
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="ARENA SPORT 5" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport5.png" group-title="12 Sport Klub&Arena Sport",ARENA SPORT 5
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/2990
+
+#EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 1 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium1.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 1 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/490261
+#EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 2 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium2.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 2 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/490260
+#EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 3 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium3.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 3 HD
+http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/490259
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> FIFA CLUB WORLD CUP
