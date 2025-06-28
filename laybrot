@@ -2660,12 +2660,6 @@ https://ott.udptv.com/stream/udptv/cbssportsgolazo/master.m3u8?u=discord.gg/civ3
 //Collected by @mimipipi22 menampilkan playlist >>> Now Sports
 //========================================================================
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="NOW Sports Plus" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="12. Now Sports",NOW Sports Plus
-http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/159106
-#EXTINF:-1 tvg-ID="" tvg-name="NOW Sports Prime" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-Prime.png" group-title="12. Now Sports",NOW Sports Prime
-http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/158944
-
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORT 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_110_80" group-title="12. Now Sports",NOW SPORT 1
 http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/495000
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORT 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_110_80" group-title="12. Now Sports",NOW SPORT 2
@@ -2752,26 +2746,16 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/325610
 http://bestp55.xyz:80/A7FC77529786/519C32219872/325609
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="12. Sporty Sports",Digi Sport 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/9511
 
 #EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-2.png" group-title="12. Sporty Sports",Digi Sport 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/9510
 
 #EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="12. Sporty Sports",Digi Sport 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/9509
 
 #EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="12. Sporty Sports",Digi Sport 4
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="12. Sporty Sports",RO: DIGI SPORT 1
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3174
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="12. Sporty Sports",RO: DIGI SPORT 2
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3175
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="12. Sporty Sports",RO: DIGI SPORT 3
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3176
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="12. Sporty Sports",RO: DIGI SPORT 4
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/3177
-
+http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/9446
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="12. Sporty Sports",NBA TV
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDQvbW9uby5tM3U4.m3u8
