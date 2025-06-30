@@ -1110,14 +1110,14 @@ https://hakim45.serv00.net/smarttv.php?id=Tvone
 ##https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444153
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV FHD
+#EXTINF:-1 group-title="03. TV Nasional Siaran No Acak tvg-logo="https://i.imgur.com/wqpP41q.png", METRO TV FHD
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="03. TV Nasional Siaran No Acak",KOMPAS TV
 ##https://wahyu1ptv.pages.dev/KompasTV-HD.m3u8
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444155
 
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV FHD
+#EXTINF:-1 group-title="03. TV Nasional Siaran No Acak tvg-logo="https://i.imgur.com/j6hWRDq.png", KOMPAS TV FHD
 https://hakim45.serv00.net/smarttv.php?id=Kompass
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="03. TV Nasional Siaran No Acak",ANTV
@@ -1160,6 +1160,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 xui-id="10839" tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="03. TV Nasional Siaran No Acak",BERITA SATU
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 #EXTINF:-1 xui-id="18" tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="03. TV Nasional Siaran No Acak",TVRI NASIONAL
 ##https://wahyu1ptv.pages.dev/TvRi-HD.m3u8
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444223
