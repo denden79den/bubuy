@@ -2737,26 +2737,59 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699777
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="12. Astro Sports",AstroArena2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="12. Astro Sports",AstroArena2 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699796
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="12. Astro Sports",AstroBadminton1
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="12. Astro Sports",AstroBadminton1 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699837
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="12. Astro Sports",AstroBadminton2
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="12. Astro Sports",AstroBadminton2 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699874
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="12. Astro Sports",AstroSportPlus1
 https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="12. Astro Sports",AstroSportPlus1 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699838
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="12. Astro Sports",AstroSportPlus2
 https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="12. Astro Sports",BeinSports 1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="12. Astro Sports",BeinSports 1 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699802
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="12. Astro Sports",BeinSports 2
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="12. Astro Sports",BeinSports 2 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699803
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="12. Astro Sports",BeinSports 3
 https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV" tvg-logo="https://i.imgur.com/UszChgD.png" group-title="12. Astro Sports",MY: SPOTV
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699852
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV2" tvg-logo="https://i.imgur.com/5ldyWEj.png" group-title="12. Astro Sports",MY: SPOTV2
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699853
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="12. Astro Sports",BeinSports 3 HD
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699804
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="12. Astro Sports", ASTRO CRICKET
 https://smart.pendy.dpdns.org/Smart.php?id=Acricket
 
