@@ -1031,7 +1031,7 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;A
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://go.erabaru.my.id/live/rcti.png" group-title="03. TV Nasional 3",RCTI HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
 #EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://go.erabaru.my.id/live/gtv.png" group-title="03. TV Nasional 3",GTV HD
-http://tv.kudigital.pw:8080/m3uiptvfree/WBCV48X3ta/3749
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV HD" tvg-logo="https://go.erabaru.my.id/live/mnctv.png" group-title="03. TV Nasional 3",MNC TV HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7 HD" tvg-logo="https://go.erabaru.my.id/live/trans7.png" group-title="03. TV Nasional 3",Trans 7 HD
