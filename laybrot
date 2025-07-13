@@ -1448,12 +1448,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="06. Film Indonesia",04. FLIK
-##EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-##https://wahyu1ptv.pages.dev/Flik-HD.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://xtv.ooo:8080/live/djshub654@/djshub456@/350947.ts
-##https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="06. Film Indonesia",04. FLIK 🔵
 http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62242
