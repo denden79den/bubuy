@@ -4438,6 +4438,9 @@ http://vipmacd.top:8080/12345678/12345678/244
 http://vipmacd.top:8080/12345678/12345678/97138
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="(FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="12. La Liga (Spanyol)",(FHD REPUESTO) DAZN LALIGA
 http://vipmacd.top:8080/12345678/12345678/97193
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="12. La Liga (Spanyol)",DAZN LALIGA 2
+http://vipmacd.top:8080/12345678/12345678/128942
+
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(HD) M+ LALIGA
 http://vipmacd.top:8080/12345678/12345678/252
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(HD REPUESTO) M+ LALIGA
@@ -4457,8 +4460,6 @@ http://vipmacd.top:8080/12345678/12345678/246
 http://vipmacd.top:8080/12345678/12345678/634
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="12. La Liga (Spanyol)",LALIGA TV HYPERMOTION 3
 http://vipmacd.top:8080/12345678/12345678/635
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="12. La Liga (Spanyol)",DAZN LALIGA 2
-http://vipmacd.top:8080/12345678/12345678/128942
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA TV 2
 http://vipmacd.top:8080/12345678/12345678/255
 #EXTINF:-1 tvg-id="0" tvg-name="(FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA TV 3
