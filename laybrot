@@ -4114,33 +4114,43 @@ http://vipmacd.top:8080/12345678/12345678/3001
 #EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlub6.png" group-title="12 Sport Klub&Arena Sport",HR: SPORT KLUB 6 HD
 http://vipmacd.top:8080/12345678/12345678/3002
 
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 1" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="12 Sport Klub&Arena Sport", Arena Sport 1
-http://vipmacd.top:8080/12345678/12345678/115037
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="12 Sport Klub&Arena Sport", Arena Sport 2
-http://vipmacd.top:8080/12345678/12345678/115038
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="12 Sport Klub&Arena Sport", Arena Sport 3
-http://vipmacd.top:8080/12345678/12345678/115039
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 4" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="12 Sport Klub&Arena Sport", Arena Sport 4
-http://vipmacd.top:8080/12345678/12345678/115040
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 5" tvg-logo="http://inax.top:8080/megarestream/Hehe321@restreamer/5520" group-title="12 Sport Klub&Arena Sport", Arena Sport 5
-http://vipmacd.top:8080/12345678/12345678/115041
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 6" tvg-logo="" group-title="12 Sport Klub&Arena Sport", Arena Sport 6
-http://vipmacd.top:8080/12345678/12345678/115018
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 7" tvg-logo="" group-title="12 Sport Klub&Arena Sport", Arena Sport 7
-http://vipmacd.top:8080/12345678/12345678/115019
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 8" tvg-logo="" group-title="12 Sport Klub&Arena Sport", Arena Sport 8
-http://vipmacd.top:8080/12345678/12345678/115020
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 9" tvg-logo="" group-title="12 Sport Klub&Arena Sport", Arena Sport 9
-http://vipmacd.top:8080/12345678/12345678/115021
-#EXTINF:-1 tvg-id="" tvg-name=" Arena Sport 10" tvg-logo="" group-title="12 Sport Klub&Arena Sport", Arena Sport 10
-http://vipmacd.top:8080/12345678/12345678/115022
-
 #EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 1 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium1.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 1 HD
 http://vipmacd.top:8080/12345678/12345678/97139
 #EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 2 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium2.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 2 HD
 http://vipmacd.top:8080/12345678/12345678/97140
 #EXTINF:-1 tvg-id="" tvg-name="BH: ARENA PREMIUM 3 HD" tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium3.png" group-title="12 Sport Klub&Arena Sport",BH: ARENA PREMIUM 3 HD
 http://vipmacd.top:8080/12345678/12345678/97141
+
+#EXTINF:-1 tvg-id="14724" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 1 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1520 
+
+#EXTINF:-1 tvg-id="14725" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 2 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1519 
+
+#EXTINF:-1 tvg-id="14726" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 3 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1518 
+
+#EXTINF:-1 tvg-id="14727" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 4 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1517 
+
+#EXTINF:-1 tvg-id="14728" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 5 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1516 
+
+#EXTINF:-1 tvg-id="14729" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 6 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1510 
+
+#EXTINF:-1 tvg-id="26887" tvg-name="Arena Sport 7 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 7 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15733 
+
+#EXTINF:-1 tvg-id="26888" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 8 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15734 
+
+#EXTINF:-1 tvg-id="26889" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 9 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735 
+
+#EXTINF:-1 tvg-id="26890" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="12 Sport Klub&Arena Sport" ,Arena Sport 10 HR 
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Digi & Prima Sport
