@@ -4167,23 +4167,42 @@ http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/490260
 http://ip.king-cobra.eu:8080/jamosvigerfar/2zs9OMkWEb/490259
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> FIFA CLUB WORLD CUP
+//Collected by @mimipipi22 menampilkan playlist >>> Digi & Prima Sport
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="12 VIP | FIFA CLUB WORLD CUP", FIFA CLUB WORLD CUP 1
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1150143
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="12. Digi & Prima Sport",Digi Sport 1
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/62775
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="12 VIP | FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 2
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1150170
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-2.png" group-title="12. Digi & Prima Sport",Digi Sport 2
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/116132
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="12 VIP | FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 3
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1150134
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="12. Digi & Prima Sport",Digi Sport 3
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/185269
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="12 VIP | FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 4
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1150152
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="12. Digi & Prima Sport",Digi Sport 4
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/185268
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="12 VIP | FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 5
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1150161
+#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1 FHD" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/prima-sport-1.png" group-title="12. Digi & Prima Sport",PRIMA SPORT 1 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/146486
+
+#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="PRIMA SPORT 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Prima_Sport_2_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230226091252" group-title="12. Digi & Prima Sport",PRIMA SPORT 2 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/146488
+
+#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="PRIMA SPORT 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Prima_Sport_3_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230326135325" group-title="12. Digi & Prima Sport",PRIMA SPORT 3 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157160
+
+#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="PRIMA SPORT 4 FHD" tvg-logo="https://www.tvonline123.com/img/canale_webp/prima-sport-4.webp" group-title="12. Digi & Prima Sport",PRIMA SPORT 4 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157161
+
+#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="PRIMA SPORT 5 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Prima_Sport_5_id.png/revision/latest/scale-to-width-down/250?cb=20230326143144" group-title="12. Digi & Prima Sport",PRIMA SPORT 5 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157162
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT-1.png" group-title="12. Digi & Prima Sport",EUROSPORT 1 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/33810
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png" group-title="12. Digi & Prima Sport",EUROSPORT 2 FHD
+http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/33812
+
 
 
 //========================================================================
