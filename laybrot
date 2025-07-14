@@ -4402,27 +4402,68 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truetennis.m3u8
 //Collected by @mimipipi22 menampilkan playlist >>> ESPN DAN DAZN
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="12. ESPN DAN DAZN",ESPN SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="12. Espn & Dazn",ESPN SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="12. ESPN DAN DAZN",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="12. Espn & Dazn",ESPN 2 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="12. ESPN DAN DAZN",ESPN 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="12. Espn & Dazn",ESPN 4 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="12. ESPN DAN DAZN",ESPN 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="12. Espn & Dazn",ESPN 5 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c1tQ0KWR/images.png" group-title="12. ESPN DAN DAZN",ESPN 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c1tQ0KWR/images.png" group-title="12. Espn & Dazn",ESPN 6 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 2 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 3 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 4 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 5 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="12. ESPN DAN DAZN",PT: ELEVEN 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 6 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> LA LIGA
+//========================================================================
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="12. La Liga (Spanyol)",(HD) DAZN LALIGA
+http://vipmacd.top:8080/12345678/12345678/243
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="(HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="12. La Liga (Spanyol)",(HD REPUESTO) DAZN LALIGA
+http://vipmacd.top:8080/12345678/12345678/244
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="12. La Liga (Spanyol)",(FHD) DAZN LALIGA
+http://vipmacd.top:8080/12345678/12345678/97138
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="(FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="12. La Liga (Spanyol)",(FHD REPUESTO) DAZN LALIGA
+http://vipmacd.top:8080/12345678/12345678/97193
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(HD) M+ LALIGA
+http://vipmacd.top:8080/12345678/12345678/252
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(HD REPUESTO) M+ LALIGA
+http://vipmacd.top:8080/12345678/12345678/253
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA
+http://vipmacd.top:8080/12345678/12345678/254
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="12. La Liga (Spanyol)",(FHD REPUESTO) M+ LALIGA
+http://vipmacd.top:8080/12345678/12345678/97192
+#EXTINF:-1 tvg-id="" tvg-name="M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="12. La Liga (Spanyol)",M+ COPA DEL REY
+http://vipmacd.top:8080/12345678/12345678/130169
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA TV BAR
+http://vipmacd.top:8080/12345678/12345678/283
+
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="12. La Liga (Spanyol)",LALIGA TV HYPERMOTION
+http://vipmacd.top:8080/12345678/12345678/246
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="12. La Liga (Spanyol)",LALIGA TV HYPERMOTION 2
+http://vipmacd.top:8080/12345678/12345678/634
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="12. La Liga (Spanyol)",LALIGA TV HYPERMOTION 3
+http://vipmacd.top:8080/12345678/12345678/635
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="12. La Liga (Spanyol)",DAZN LALIGA 2
+http://vipmacd.top:8080/12345678/12345678/128942
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="(FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA TV 2
+http://vipmacd.top:8080/12345678/12345678/255
+#EXTINF:-1 tvg-id="0" tvg-name="(FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="12. La Liga (Spanyol)",(FHD) M+ LALIGA TV 3
+http://vipmacd.top:8080/12345678/12345678/256
+#EXTINF:-1 tvg-id="0" tvg-name="M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="12. La Liga (Spanyol)",M+ LALIGA TV 4
+http://vipmacd.top:8080/12345678/12345678/56470
 
 
