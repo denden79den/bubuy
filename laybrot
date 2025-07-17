@@ -1020,23 +1020,29 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;A
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://go.erabaru.my.id/live/rcti.png" group-title="03. TV Nasional 3",RCTI HD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
+##http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
+http://vipmacd.top:8080/12345678/12345678/34322
 #EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://go.erabaru.my.id/live/gtv.png" group-title="03. TV Nasional 3",GTV HD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
+##http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
+http://vipmacd.top:8080/12345678/12345678/34331
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV HD" tvg-logo="https://go.erabaru.my.id/live/mnctv.png" group-title="03. TV Nasional 3",MNC TV HD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
+##http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
+http://vipmacd.top:8080/12345678/12345678/34326
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7 HD" tvg-logo="https://go.erabaru.my.id/live/trans7.png" group-title="03. TV Nasional 3",Trans 7 HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/54
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV HD" tvg-logo="https://go.erabaru.my.id/live/transtv.png" group-title="03. TV Nasional 3",Trans TV HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/55
 #EXTINF:-1 tvg-id="" tvg-name="Kompas HD" tvg-logo="https://go.erabaru.my.id/live/kompastv.png" group-title="03. TV Nasional 3",Kompas HD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/64
+##http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/64
+http://vipmacd.top:8080/12345678/12345678/34332
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV HD" tvg-logo="https://go.erabaru.my.id/live/metrotv.png" group-title="03. TV Nasional 3",Metro TV HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/63
 #EXTINF:-1 tvg-id="" tvg-name="iNews HD" tvg-logo="https://go.erabaru.my.id/live/inews.png" group-title="03. TV Nasional 3",iNews HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/61
+http://vipmacd.top:8080/12345678/12345678/34335
 #EXTINF:0 tvg-id="ext" group-title="03. TV Nasional 3",INDOSIAR
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/56
+http://vipmacd.top:8080/12345678/12345678/34327
 #EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://go.erabaru.my.id/live/sctv.png" group-title="03. TV Nasional 3",SCTV HD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/57
 #EXTINF:-1 tvg-id="" tvg-name="ANTV HD" tvg-logo="https://go.erabaru.my.id/live/antv.png" group-title="03. TV Nasional 3",ANTV HD
