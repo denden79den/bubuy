@@ -1900,9 +1900,12 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.m
 #EXTINF: -1 tvg-id="trutv" tvg-logo="https://i.imgur.com/c447diw.png" group-title="08. TV Hiburan", TRU TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRUTV.m3u8
 
-#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="08. TV Hiburan" , JUST FOR LAUGHS
+#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="08. TV Hiburan" , JUST FOR LAUGHS FHD
 #EXTVLCOPT:http-user-agent=xplayer168
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-60d32888e31a0300073d9f08" tvg-id="60d32888e31a0300073d9f08" tvg-chno="259" tvg-logo="https://i.imgur.com/hTtDuWE.png" group-title="08. TV Hiburan" , JUST FOR LAUGHS HD
+https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI1IDEyOjM1OjA2IEFNJmhhc2hfdmFsdWU9WmI4V2FTYzFUNXY5ejNOZ0ljSStJdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://i.imgur.com/rU5xlvK.png" group-title="08. TV Hiburan" , FAIL ARMY
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/fail%20army.m3u8
@@ -2219,6 +2222,9 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
 
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-title="11. TV Anak",ASTRO CERIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052389
+
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-title="11. TV Anak",ASTRO CERIA HD
+https://hakim45.serv00.net/smarttv.php?id=Ceria
 
 #EXTINF:-1 group-title="11. TV Anak" tvg-logo="https://i.imgur.com/dfBok5Q.png", BUDDY STAR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
