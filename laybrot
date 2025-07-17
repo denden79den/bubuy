@@ -2214,8 +2214,18 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62263
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="11. TV Anak",Baby TV ID 🔵
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62292
+#EXTINF:-1 tvg-country"ID" group-title="11. TV Anak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrl9Eu-mXYcafw9lBgZ40VQ4uzS-h9N704SxSfHARQLUBKK-rw0bf9Olo&s=10",KidTV Indonesia
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCDVwLvLnrORclfiG_FjBUjQ
+
+
+#EXTINF:-1 tvg-country"ID" group-title="11. TV Anak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzk-if9QNzlLTZ5PnACt5JNkedTu0v7VzBGDEOnmEEKYxSTgQvdWsmxY&s=10",BabyBuss Indonesia
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCpYye8D5fFMUPf9nSfgd4bA
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="11. TV Anak",BLIPPI & FRIENDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
@@ -2479,6 +2489,12 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 #EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="11. TV Anak",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="11. TV Anak",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 channel-id="60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3830" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="11. TV Anak", LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
 
 //========================================================================
