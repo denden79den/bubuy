@@ -6,128 +6,119 @@
 // Collected by @denitv menampilkan playlist >>> 00. live event
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcbKHTmb2Z2AcJAcMWfH1SVxdd4fKPSgYuw&s", MotoGP 2025 22 Juni 2025 18:25 
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/obCvYhEYWqYM_3ouVK-aHg/Fv2lucGIbhPi2caWYvF5Lg/1752681027769/live/may10/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 4
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/j8eeSg50CxpyL0Zb36bz4Q/Fv2lucGIbhPi2caWYvF5Lg/1752066050618/live/cunSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 1
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+#https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://pasjabar.com/wp-content/uploads/2025/07/ogp.jpg", Badminton Japan Open 2025 [15–20 Juli 2025] 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/myPvr5XrL85cf74pgTQAnA/Fv2lucGIbhPi2caWYvF5Lg/1752236173109/live/may17/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://faiqtv.my.id/percobaanvidio/hls.php/.m3u8?id=206&type=hls
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", Sea V League 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF5Lg/1752066294774/live/may211/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/DQVWBJwesJ1uj3u78YE1jA/Fv2lucGIbhPi2caWYvF5Lg/1752662025140/live/may21/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/dxu4v8Faxl_OebxaPYrVpA/Fv2lucGIbhPi2caWYvF5Lg/1752684881053/live/may171/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/yHQ0ATro833cZcnQluu6Nw/Fv2lucGIbhPi2caWYvF5Lg/1752083315836/live/may20/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://iili.io/3cSp4Lu.md.png", MotoGP 2025
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 1 Aktif 18:00 WIB
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://iili.io/3yG5Ig2.png", Formula 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18913
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18913
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 2 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/i_zXIAvMEt5RatXT425jtw/Fv2lucGIbhPi2caWYvF5Lg/1750343939684/live/may17/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 3 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 4 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/FK9Lm_rFWX3ggNqgVSbr_Q/Fv2lucGIbhPi2caWYvF5Lg/1750515187553/live/may21/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 5 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/SZMkHgAise8IOdkbU0iuyw/Fv2lucGIbhPi2caWYvF5Lg/1750611231587/live/may201/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 1 Aktif 12:30 WIB
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/I2wjiV0L2ktN471Pe2PIhQ/Fv2lucGIbhPi2caWYvF5Lg/1750591638528/live/may17/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 2
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 3 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/HLDFeG26GYxE9kbsMCIk-w/Fv2lucGIbhPi2caWYvF5Lg/1750525108535/live/may171/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 4 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/USqlXYYRXbbVm99h4ojAJg/Fv2lucGIbhPi2caWYvF5Lg/1750442822278/live/may211/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 5 Aktif 15:30 WIB
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/ESorqA8kpbSVxN52MXrPrg/Fv2lucGIbhPi2caWYvF5Lg/1750603750591/live/oldSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 6
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/htxq65o7kln3I2fiD3N5DQ/Fv2lucGIbhPi2caWYvF5Lg/1750603976856/live/may20/chunklist.m3u8
-
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 7
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/8UyDKWhSeCCbM-05TQHXTA/Fv2lucGIbhPi2caWYvF5Lg/1750610135536/live/may21/chunklist.m3u8
-
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", Juventus vs Wydad Casablanca 22 Juni 2025 23:00 WIB 
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=46506
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 1  
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 2
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 3
-http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 4
-http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 9
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF5Lg/1750287574941/live/Z1SD/chunklist.m3u8
 
 
 ============================================================================================================================================================
