@@ -2252,19 +2252,6 @@ http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62263
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 tvg-country"ID" group-title="11. TV Anak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrl9Eu-mXYcafw9lBgZ40VQ4uzS-h9N704SxSfHARQLUBKK-rw0bf9Olo&s=10",KidTV Indonesia
-#EXTVLCOPT:http-origin=https://www.youtube.com
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCDVwLvLnrORclfiG_FjBUjQ
-
-
-#EXTINF:-1 tvg-country"ID" group-title="11. TV Anak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzk-if9QNzlLTZ5PnACt5JNkedTu0v7VzBGDEOnmEEKYxSTgQvdWsmxY&s=10",BabyBuss Indonesia
-#EXTVLCOPT:http-origin=https://www.youtube.com
-#EXTVLCOPT:http-referrer=https://www.youtube.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCpYye8D5fFMUPf9nSfgd4bA
-
 #EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="11. TV Anak",BLIPPI & FRIENDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
 
