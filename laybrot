@@ -4144,4 +4144,21 @@ http://vipmacd.top:8080/12345678/12345678/256
 #EXTINF:-1 tvg-id="0" tvg-name="M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="12. La Liga (Spanyol)",M+ LALIGA TV 4
 http://vipmacd.top:8080/12345678/12345678/56470
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> SPORT TV PORTUGAL
+//========================================================================
 
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 1 4K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 1 4K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98463
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 1 8K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 1 8K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98464
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 2 4K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 2 4K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98465
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 3 4K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 3 4K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98466
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 4 HD" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 4 HD
+http://ghost1.tv:80/1090sdha9075/906120say9062/98467
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 4 4K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 4 4K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98468
+#EXTINF:-1 tvg-id="" tvg-name="Pt: Sport TV 5 4K" tvg-logo="http://ghost1.tv:80/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="12. Sport TV",Sport TV 5 4K
+http://ghost1.tv:80/1090sdha9075/906120say9062/98469
