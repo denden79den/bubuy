@@ -3597,35 +3597,58 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/672067
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_2021_gradient.svg.png",POLSAT SPORT 1
 http://vipmacd.top:8080/12345678/12345678/34309
 
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_2021_gradient.svg.png",POLSAT SPORT 1 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/14838.m3u8
+
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Extra_2021_gradient.svg.png",POLSAT SPORT 2
 http://vipmacd.top:8080/12345678/12345678/886
-
-#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Extra_2021_gradient.svg.png",POLSAT SPORT 2 HD
-http://vipmacd.top:8080/12345678/12345678/887
 
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnews.png",POLSAT SPORT 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227284&extension=ts
 
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnews.png",POLSAT SPORT 3 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/233716.m3u8
+
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Fight.png",POLSAT SPORT FIGHT
 http://vipmacd.top:8080/12345678/12345678/888
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Fight.png",POLSAT SPORT FIGHT HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/233717.m3u8
 
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium1.png",POLSAT SPORT PREM. 1
 http://vipmacd.top:8080/12345678/12345678/870
 
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium1.png",POLSAT SPORT PREM. 1 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54164.m3u8
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_2_2021.png",POLSAT SPORT PREM. 2
 http://vipmacd.top:8080/12345678/12345678/871
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_2_2021.png",POLSAT SPORT PREM. 2 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54165.m3u8
 
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_3_PPV_2021%20(1).png",POLSAT SPORT PREM. 3
 http://vipmacd.top:8080/12345678/12345678/872
 
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_3_PPV_2021%20(1).png",POLSAT SPORT PREM. 3 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54166.m3u8
+
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsat_sport_premium_4.png",POLSAT SPORT PREM. 4
 http://vipmacd.top:8080/12345678/12345678/873
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsat_sport_premium_4.png",POLSAT SPORT PREM. 4 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54167.m3u8
 
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatpremium5.png",POLSAT SPORT PREM. 5
 http://vipmacd.top:8080/12345678/12345678/874
 
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatpremium5.png",POLSAT SPORT PREM. 5 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54168.m3u8
+
 #EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsta_sport_premium_6.png",POLSAT SPORT PREM  PPV6
 http://vipmacd.top:8080/12345678/12345678/875
+
+#EXTINF:-1 group-title="12. Polsat Sports (Volly VNL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsta_sport_premium_6.png",POLSAT SPORT PREM  PPV6 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/54169.m3u8
 
 
 //========================================================================
