@@ -3073,6 +3073,31 @@ http://ghost1.tv:80/1090sdha9075/906120say9062/60889
 #EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2 hd" tvg-logo="http://ghost1.tv:80/images/f9d5ada106ebb9fb3c387b2eb8d3a022.png" group-title="12. Sony, TNT, SSC Sports",SSC EXTRA 2 hd
 http://ghost1.tv:80/1090sdha9075/906120say9062/60894
 
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS ᴴᴰ 1" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssca.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS ᴴᴰ 1
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/150633.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS ᴴᴰ 2" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc2.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS ᴴᴰ 2
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/150634.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS ᴴᴰ 3" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc3.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS ᴴᴰ 3
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/150635.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS ᴴᴰ 4" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc4.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS ᴴᴰ 4
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/150636.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS ᴴᴰ 5" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/ssc5.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS ᴴᴰ 5
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/150639.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS EXTRA 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex1.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS EXTRA 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/314038.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS EXTRA 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex2.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS EXTRA 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/255477.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SSC SPORTS EXTRA 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SAUDIARABIA/ssc/sscex3.png" group-title="12. Sony, TNT, SSC Sports",|AR| SSC SPORTS EXTRA 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/255478.m3u8
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Now Sports
