@@ -3453,6 +3453,78 @@ http://ghost1.tv:80/1090sdha9075/906120say9062/80532
 
 
 //========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> Bein Sports TV
+//========================================================================
+
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports 1 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="12. BeinSports 4K",beIN Sports 1 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114053.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="12. BeinSports 4K",beIN Sports 1 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="12. BeinSports 4K",beIN Sports 2 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114052.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="12. BeinSports 4K",beIN Sports 2 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/2.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="12. BeinSports 4K",beIN Sports 3 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114050.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="12. BeinSports 4K",beIN Sports 3 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="12. BeinSports 4K",beIN Sports 4 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114049.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="12. BeinSports 4K",beIN Sports 4 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/5.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="12. BeinSports 4K",beIN Sports 5 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114048.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="12. BeinSports 4K",beIN Sports 5 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/6.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="12. BeinSports 4K",beIN Sports 6 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114047.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="12. BeinSports 4K",beIN Sports 6 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/7.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="12. BeinSports 4K",beIN Sports 7 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114046.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="12. BeinSports 4K",beIN Sports 7 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/8.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="12. BeinSports 4K",beIN Sports 8 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114045.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="12. BeinSports 4K",beIN Sports 8 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/9.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 9 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="12. BeinSports 4K",beIN Sports 9 4K
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/114044.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 9 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="12. BeinSports 4K",beIN Sports 9 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/10.m3u8
+
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 1 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/117124.m3u8
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 1 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/117125.m3u8
+
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 2 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/117129.m3u8
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 2 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/117130.m3u8
+
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 3 HD
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/3.m3u8
+
+
+//========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> SPORT FIGHT
 //========================================================================
 
@@ -3832,31 +3904,28 @@ http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
 //========================================================================
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="12. Digi & Prima Sport",Digi Sport 1
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/62775
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/29086.m3u8
 
 #EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-2.png" group-title="12. Digi & Prima Sport",Digi Sport 2
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/116132
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4504.m3u8
 
 #EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="12. Digi & Prima Sport",Digi Sport 3
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/185269
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4503.m3u8
 
 #EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="12. Digi & Prima Sport",Digi Sport 4
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/185268
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4502.m3u8
 
 #EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="PRIMA SPORT 1 FHD" tvg-logo="https://tvhdonline.org/tv-hd/img/canale/prima-sport-1.png" group-title="12. Digi & Prima Sport",PRIMA SPORT 1 FHD
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/146486
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/453473.m3u8
 
 #EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="PRIMA SPORT 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Prima_Sport_2_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230226091252" group-title="12. Digi & Prima Sport",PRIMA SPORT 2 FHD
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/146488
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/453474.m3u8
 
 #EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="PRIMA SPORT 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Prima_Sport_3_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230326135325" group-title="12. Digi & Prima Sport",PRIMA SPORT 3 FHD
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157160
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/453475.m3u8
 
 #EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="PRIMA SPORT 4 FHD" tvg-logo="https://www.tvonline123.com/img/canale_webp/prima-sport-4.webp" group-title="12. Digi & Prima Sport",PRIMA SPORT 4 FHD
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157161
-
-#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="PRIMA SPORT 5 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Prima_Sport_5_id.png/revision/latest/scale-to-width-down/250?cb=20230326143144" group-title="12. Digi & Prima Sport",PRIMA SPORT 5 FHD
-http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/157162
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/453476.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EUROSPORT-1.png" group-title="12. Digi & Prima Sport",EUROSPORT 1 FHD
 http://sorinv2.hopto.org:8008/Cosmin_Craciun/ekT4Y49h2b/33810
