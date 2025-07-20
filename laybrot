@@ -238,8 +238,7 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png" group-title="02. TV News",08. SindoNewsTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="02. TV News",09. Sea Today 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
