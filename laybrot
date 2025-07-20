@@ -538,14 +538,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Animax
-https://cdn10jtedge.indihometv.com/atm/DASH/ANIMAX/manifest.mpd
-
-#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Moji
-https://cdn10jtedge.indihometv.com/atm/DASH/OCHANNEL/manifest.mpd
-
-#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Flik
-https://cdn10jtedge.indihometv.com/atm/DASH/FLIK/manifest.mpd
+#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Studio Universal
+https://cdn10jtedge.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
 
 
 
