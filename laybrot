@@ -539,13 +539,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Animax
-https://cdn10jtedge.indihometv.com/atm/DASH/animax/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/ANIMAX/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Animax
-https://cdn10jtedge.indihometv.com/atm/DASH/ochannel/manifest.mpd
+#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Moji
+https://cdn10jtedge.indihometv.com/atm/DASH/OCHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Animax
-https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
+#EXTINF:-1 tvg-id="--" group-title="03. Indihome" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Flik
+https://cdn10jtedge.indihometv.com/atm/DASH/FLIK/manifest.mpd
 
 
 
