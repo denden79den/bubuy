@@ -3521,6 +3521,42 @@ http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/117130.m3u8
 #EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="12. BeinSports 4K",beIN Sports XTRA 3 HD
 http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/3.m3u8
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> BEIN SPORTS FRANCE
+//========================================================================
+
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| beIN Sports 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/228.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="12. BeinSports France",|FR| beIN Sports 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/227.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="12. BeinSports France",|FR| beIN Sports 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/226.m3u8
+
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="|FR| BeIN Sport Max 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 4 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/229.m3u8
+
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="|FR| BeIN Sport Max 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 5 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/230.m3u8
+
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="|FR| BeIN Sport Max 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 6 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/231.m3u8
+
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="|FR| BeIN Sport Max 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 7 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/232.m3u8
+
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="|FR|  BeIN Sport Max 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR|  BeIN Sport Max 8 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/233.m3u8
+
+#EXTINF:-1 tvg-ID="beinsportsmax9.fr" tvg-name="|FR| BeIN Sport Max 9 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 9 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/6582.m3u8
+
+#EXTINF:-1 tvg-ID="beinsportsmax10.fr" tvg-name="|FR| BeIN Sport Max 10 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="12. BeinSports France",|FR| BeIN Sport Max 10 ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/6583.m3u8
+	
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> SPORT FIGHT
