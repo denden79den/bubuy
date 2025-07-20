@@ -154,9 +154,10 @@ https://wahyu1ptv.pages.dev/AstroOasis.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="01. TV Religi", 11. TAWAF TV
-https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tv9_big.png" group-title="01. TV Religi", 12. TV9 NU
-https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 group-title="01. TV Religi" tvg-id="tv10.id" tvg-logo="https://i.ibb.co.com/KsJGvwX/tv10.png", 13. TV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
