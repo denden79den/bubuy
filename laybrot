@@ -3256,12 +3256,12 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1090650
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="12. Sporty Sports",HUB SPORTS 5 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1090651
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 1 BE" tvg-logo="" group-title="12. Sporty Sports",PLAY SPORTS 1 BE
-http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/128275
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 2 BE" tvg-logo="" group-title="12. Sporty Sports",PLAY SPORTS 2 BE
-http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/128274
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 3 BE" tvg-logo="" group-title="12. Sporty Sports",PLAY SPORTS 3 BE
-http://clientsportals.net:8080/jKuBEAibkh/2ldeDB4EJp/128273
+#EXTINF:-1 tvg-ID="playsports1.be" tvg-name="|BE| PLAY SPORTS ᴴᴰ 1" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" group-title="12. Sporty Sports",PLAY SPORTS ᴴᴰ 1
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/59418.m3u8
+#EXTINF:-1 tvg-ID="playsports2.be" tvg-name="|BE| PLAY SPORTS ᴴᴰ 2" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" group-title="12. Sporty Sports",PLAY SPORTS ᴴᴰ 2
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/59419.m3u8
+#EXTINF:-1 tvg-ID="playsports3.be" tvg-name="|BE| PLAY SPORTS ᴴᴰ 3" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" group-title="12. Sporty Sports",PLAY SPORTS ᴴᴰ 3
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/59420.m3u8
 
 #EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/RMC_SPORT_LIVE1.png" group-title="12. Sporty Sports",RMC SPORT 1 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/56671
@@ -3745,6 +3745,17 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:2E:EE:1B&stream=2763&extension=
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:2E:EE:1B&stream=42186&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 6" tvg-logo="" group-title="12. Ziggo Sports",ZIGGO SPORT 6
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:2E:EE:1B&stream=2745&extension=ts
+
+#EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="Ziggo Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="12. Ziggo Sports",Ziggo Sport 1ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4859.m3u8
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="12. Ziggo Sports",Ziggo Sport 2ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4861.m3u8
+#EXTINF:-1 tvg-ID="ziggosportgolf.nl" tvg-name="Ziggo Sport Golf ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTGOLF.png" group-title="12. Ziggo Sports",Ziggo Sport 3ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4852.m3u8
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="Ziggo Sport Racing H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="12. Ziggo Sports",Ziggo Sport 4ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4850.m3u8
+#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="Ziggo Sport Extra 1" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="12. Ziggo Sports",Ziggo Sport 5ᴴᴰ
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4857.m3u8
 
 
 //========================================================================
