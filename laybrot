@@ -2290,7 +2290,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="10. TV Musik" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS
-https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 11. TV ANAK
