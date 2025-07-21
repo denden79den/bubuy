@@ -148,7 +148,8 @@ https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="01. TV Religi", 08. AlHijrahTV
 https://wahyu1ptv.pages.dev/AstroAlHijrahTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="01. TV Religi", 09. OasisTV
-https://wahyu1ptv.pages.dev/AstroOasis.m3u8
+##https://wahyu1ptv.pages.dev/AstroOasis.m3u8
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1164009.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="01. TV Religi", 10. MTATV
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
