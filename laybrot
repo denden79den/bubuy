@@ -2966,19 +2966,21 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 ##https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 http://vipmacd.top:8080/12345678/12345678/34532
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1 FHD
+##EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1 FHD
 ##https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-http://vipmacd.top:8080/12345678/12345678/34608
+##http://vipmacd.top:8080/12345678/12345678/34608
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="12. Astro Sports",AstroArena1 HD
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+##https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163658.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="12. Astro Sports",AstroArena2 FHD
+##EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="12. Astro Sports",AstroArena2 FHD
 ##https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-http://vipmacd.top:8080/12345678/12345678/34609
+##http://vipmacd.top:8080/12345678/12345678/34609
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="12. Astro Sports",AstroArena2 HD
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+##https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163656.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="12. Astro Sports",AstroBadminton1
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
