@@ -2923,19 +2923,22 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 //========================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="12. Astro Sports", Astro Premiere League 1 FHD
+##EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="12. Astro Sports", Astro Premiere League 1 FHD
 ##https://hakim45.serv00.net/smarttv.php?id=go_assp1
-http://vipmacd.top:8080/12345678/12345678/34535
+##http://vipmacd.top:8080/12345678/12345678/34535
+##http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163984.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="12. Astro Sports", Astro Premiere League 1 HD
-https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+##https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163984.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="12. Astro Sports",Astro Premiere League 2 FHD
+##EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="12. Astro Sports",Astro Premiere League 2 FHD
 ##https://hakim45.serv00.net/smarttv.php?id=go_assp2
-http://vipmacd.top:8080/12345678/12345678/34534
+##http://vipmacd.top:8080/12345678/12345678/34534
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="12. Astro Sports",Astro Premiere League 2 HD
-https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+##https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163986.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="12. Astro Sports",Astro Grandstand FHD
 ##https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
