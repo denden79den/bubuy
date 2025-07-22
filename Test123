@@ -5341,7 +5341,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cdrama/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -5350,28 +5351,26 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozil
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_blueantextreme_ver1.png",ROCK ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/blueantextreme/manifest.mpd
-
+##https://cdn08jtedge.indihometv.com/dassdvr/130/blueantextreme/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/blueantextreme/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/tlc/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/tlc/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tlc/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_blueant_big.png",ROCK ENTERTAIMENT
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/blueant/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/blueant/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5382,7 +5381,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_sone_big.png",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sone/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5405,7 +5404,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH//kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/lifetime/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_tv5monde_big1.png",TV5 MONDE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -5457,12 +5457,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tvmui_big.png" group-title="5. INDIHOME TRIAL", MUI TV
 https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="5. INDIHOME TRIAL", Tawaf TV
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="5. INDIHOME TRIAL", AlQuran Kareem
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TRIAL", MQTV
-https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd|user-agent=Mozilla/5.0
+https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
