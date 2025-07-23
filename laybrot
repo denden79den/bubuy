@@ -1995,13 +1995,19 @@ https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="05. Sinetron Indonesia",09. AstroRania
 https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
 
-#EXTINF:-1 group-title="05. Sinetron Indonesia" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",10. Drama World
+#EXTINF:-1 group-title="05. Sinetron Indonesia" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",10. Drama Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
+#EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://i.ibb.co/v6YswMDk/20250605-084002.jpg" group-title="05. Sinetron Indonesia", Drama Channel (MY)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://codexgen.my.id/rombaktoken/play.mpd?token=02%2BVxxaXIVvKvdgE%2Bmkny1pCTDZJRk1xcVllNGhQbkdPYm03NEQrTDNOOXJpS2JBZHlPLzJ2bDBIOUNUYVRSWXA0RE9BSWFraDlSaEtMWmo3RDE3V1ZMM09lVGhFZGM1Ylh4NFhKQVZGSWRnQmNVN1JmYjF1Z2FhWDR4c3NrRUkwb1lwZFBiZDRiSE83dVNBZ013blJMeXFPRk5JT29FbmRaajBIQitVY3Y2a3VycEtNWnlSZWpLZHl6dVVuVW02Z3habjJZOWFtY1MwQXBYK05YZXpNWHRHK2FkK1QyeThzUVJKb1BlL3FueGZ6U0IxZE9hOEs4cXpycXdVWGFjZkZRREN4QytqWG9GNnVlbzQ%3D
 
 
 ============================================================================================================================================================
