@@ -664,7 +664,11 @@ https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png" group-title="01. TV Religi",07. AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="01. TV Religi", 08. AlHijrahTV
-https://wahyu1ptv.pages.dev/AstroAlHijrahTV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/dashiso/1113/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="01. TV Religi", 09. OasisTV
 ##https://wahyu1ptv.pages.dev/AstroOasis.m3u8
 http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1164009.m3u8
