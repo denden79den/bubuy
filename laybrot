@@ -2058,9 +2058,15 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://codexgen.my.id/rombaktoken/play.mpd?token=kERfYCoqjYYanyTX1K39NTJRNld4Z01nYVNLT29KeGpaRUtodDZLMkl5TDVhZldJMjR5SVl2NE55ZTdrRzVRMEpnYzVqcUd2bnRiczNnd05iUWNmR1JPNWlJSVFtODVvc2tRZmlJc1pJSXpFMjA4bGU3ZUFXL0d2UGFKZTRoYlRpU2t6K1psRUtNR2dOVnZJT0xxZnZ6bzhDaHBWemt6MG1TTmo1Q1MyWjQ2MERtZDFsUmJKRmx6RmlwT2xHVFF5c3QwSFpnYXVTbVRVdmpCVVpCNFhNWXptT0RpaTJBeFNtVG8yZTEyZ0tMNGpDcHI2MzhzNFNPek1pUmpBWlN1bG82SGZhQlVCa3Awd1haU2g4RWxNeGdXTXN1akhCczh2T2RlVVVVbjBYcmZ6Um9ZVTlZOHlQbWQ0bzlJPQ%3D%3D
 
-#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="06. Film Indonesia",04. FLIK FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
+#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="06. Film Indonesia",04. FLIK HD
+##EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+##http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
+
+
 
 ##EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="06. Film Indonesia",04. FLIK 🔵
 ##http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62242
