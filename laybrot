@@ -4796,7 +4796,49 @@ http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4498.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/1280px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png" group-title="12. Digi & Prima Sport",EUROSPORT 2 FHD
 http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/4497.m3u8
 
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="12. Digi & Prima Sport" tvg-name="Prima Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png",PRIMA SPORT 1 
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8 
 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="12. Digi & Prima Sport" tvg-name="Prima Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png",PRIMA SPORT 2 
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" group-title="12. Digi & Prima Sport" tvg-name="Prima Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png",PRIMA SPORT 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" group-title="12. Digi & Prima Sport" tvg-name="Prima Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8yu0gp1656958366.png",PRIMA SPORT 4 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="12. Digi & Prima Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport1.png",DIGI SPORT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="12. Digi & Prima Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport2.png",DIGI SPORT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="12. Digi & Prima Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport3.png",DIGI SPORT 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="12. Digi & Prima Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport4.png",DIGI SPORT 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8 
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Sport Premium TV
@@ -5044,6 +5086,26 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c1tQ0KWR/images.png" group-title="12. Espn & Dazn",ESPN 6 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn.png",ESPN 1 
+https://embmaxtv.online/espn/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/esportes/espn2.png",ESPN 2 
+https://embmaxtv.online/espn2/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn3.png",ESPN 3 
+https://embmaxtv.online/espn3/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn4.png",ESPN 4 
+https://embmaxtv.online/espn4/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn5.png",ESPN 5 
+https://embmaxtv.online/espn5/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+#EXTINF:-1 group-title="12. Espn & Dazn" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/espn6.png",ESPN 6 
+https://embmaxtv.online/espn6/index.m3u8?|Referer=https://embedcanaistv.com/ 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="12. Espn & Dazn",PT: ELEVEN 2 HD
