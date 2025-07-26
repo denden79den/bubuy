@@ -4980,19 +4980,20 @@ http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/assets/1719765710_SPOTV-OTT-88-BW.png",SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
+##https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/beib1/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/assets/1719765786_SPOTV2-OTT-88-BW.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
+##https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/beib2/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/nba/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png",HORIZON SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -5000,12 +5001,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/horizonsport/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/fightsport/manifest.mpd
 
 
 ===========================NEWS INDIHOME=====================================
@@ -5035,10 +5038,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="5. INDIHOME TRIAL", CNN INDONESIA
-https://cdn10jtedge.indihometv.com/atm/DASH/cnnindonesia/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cnnindonesia_dash/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="5. INDIHOME TRIAL", CNBC
-https://cdn10jtedge.indihometv.com/atm/DASH//cnbcindonesia/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH//cnbcindonesia_dash/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG
 https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
@@ -5050,7 +5053,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/cnninternational/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cnninternational_dash/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME TRIAL", ALJAZEERA
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
