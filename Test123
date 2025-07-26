@@ -5115,7 +5115,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/hitsmovie/manifest.mpd
 ##https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/119/flik/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
