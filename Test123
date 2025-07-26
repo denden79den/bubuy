@@ -4922,7 +4922,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="5. INDIHOME TRIAL", RTV
-https://cdn14jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+##https://cdn14jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="5. INDIHOME TRIAL", JTV
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
