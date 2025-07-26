@@ -5069,8 +5069,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvbs/manifest.mpd
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
-##https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png" group-title="5. INDIHOME TRIAL" tvg-id="" , Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -5081,7 +5081,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
-https://cdn10jtedge.indihometv.com/atm/DASH/tvnmovies/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/tvnmovies/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_imc_big.png",IMC
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -5091,24 +5092,28 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvnmovies/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png",GALAXY PREMIUM
-https://cdn10jtedge.indihometv.com/atm/DASH/galaxypremium/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/galaxypremium/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/galaxypremium/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_galaxy_big1.png",GALAXY
-https://cdn10jtedge.indihometv.com/atm/DASH/galaxy/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/galaxy/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/galaxy/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png",HITS MOVIES
-https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/hitsmovie/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png",BIOSKOP INDONESIA
-##https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_celestialmovie_big.png",CELESTIAL MOVIE
-##https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/celestialmovie/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/celestialmovie/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_thrill_ver1.png",THRILL
 https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
