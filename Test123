@@ -5014,7 +5014,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png",SEA TODAY
-https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/seatoday/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="5. INDIHOME TRIAL", TVONE
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
@@ -5023,11 +5024,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png",DW TV
-https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+##https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EURONEWS
-##https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/euronews/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+##https://cdn10jtedge.indihometv.com/atm/DASH/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_france24_big.png" group-title="5. INDIHOME TRIAL", FRANCE 24
 https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
@@ -5036,7 +5038,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/cnnindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="5. INDIHOME TRIAL", CNBC
-https://cdn10jtedge.indihometv.com/atm/DASH//cnbcindonesia_dash/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH//cnbcindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG
 https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
@@ -5047,14 +5049,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cnninternational/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME TRIAL", ALJAZEERA
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvbsnews_big.png" group-title="5. INDIHOME TRIAL", TVBS NEWS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn10jtedge.indihometv.com/atm/DASH/tvbs/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn10jtedge.indihometv.com/atm/DASH/tvbs/manifest.mpd
 
 
 ===========================MOVIE INDIHOME============================================
@@ -5094,11 +5097,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/galaxy/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-##https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://codexgen.my.id/rombaktoken/play.mpd?token=xVOVnUbl6%2FDmuwxKeJiUS25ENTZtUlZqcSt6VWhNVTRxTFhMdGRpSzh2a05POXVpNjRLYWkrWFJsYUkzNW5WaTRyaVMzRDdNSTlUVGIzL2dyVHRpcmJpRjJSbzc3Um1rL2hqVEhTaksvdmZnMFpQTituMXRiRFdOckkzcllSaGwzRjJYeVIxbitnOXo1cE5VWTJ5WVl3M1BZM3l1SGtvbVlab1RRdTF3dFBHTUhrS1hoK3BmQ3M4K3pGL0hqWU41aStDYUVFbTVQa1VleTgzSnRwT2tBR3VWWUEyK0RDTmE3T0gxTUtBTW54cE1lRXYxRUMwSGIwcTcxQVB5RHBzd25CNUhyMmd1cDNNWnBpOThCRitOS203eXIzVHhBOVYxb0Z3d3RaWlV4QUo0L0R3eFBKZTQyc2MwdmJFPQ%3D%3D
+https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
 
 #EXTINF:-1 group-title="5. INDIHOME TRIAL" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png",BIOSKOP INDONESIA
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
