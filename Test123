@@ -5507,3 +5507,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TRIAL", MQTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TRIAL", Garuda TV
+https://cdn10jtedge.indihometv.com/atm/DASH/garudatv/manifest.mpd
