@@ -4067,6 +4067,16 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=783&type=dash
 ##https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=783&type=hls
 
 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="12. Vidio Sports",Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="12. Vidio Sports", TVRI OXYGEN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+##https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/oxygentv.m3u8
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/tvri.m3u8
+
+
+
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Astro Sports
 //========================================================================
