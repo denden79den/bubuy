@@ -7,7 +7,7 @@
 ============================================================================================================================================================
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="00.LIVE EVENT", AN Se Young (KOR) vs Michelle Li (CAN) - Women's Singles Round of 32 | Victor China Open 2025 | 08:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="00.LIVE EVENT", BADMINTON 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -15,7 +15,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pKWvH3y_IB9cRKcpKfKPGcZ8DYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/victor-china-open-2025-round-of-32-court-2-9d9ae6.jpg" group-title="00.LIVE EVENT", Yushi Tanaka (JPN) vs Anders Antonsen (DEN) - Men's Singles Round of 32 | Victor China Open 2025 | 08:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pKWvH3y_IB9cRKcpKfKPGcZ8DYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/victor-china-open-2025-round-of-32-court-2-9d9ae6.jpg" group-title="00.LIVE EVENT", BADMINTON 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -23,7 +23,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A_bv9Ov3oG8FOkEhWM9H9cnhfcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/victor-china-open-2025-round-of-32-court-3-40a066.jpg" group-title="00.LIVE EVENT", Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) vs Yang Po-Hsuan/Hu Ling Fang (TPE) - Mixed Doubles Round of 32 | Victor China Open 2025 | 08:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A_bv9Ov3oG8FOkEhWM9H9cnhfcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/victor-china-open-2025-round-of-32-court-3-40a066.jpg" group-title="00.LIVE EVENT", BADMINTON 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -31,7 +31,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lnqMhBIZcvB-uYYoAph4p_lyaFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445631/fbe1ae.jpg" group-title="00.LIVE EVENT", Takumi Nomura/Yuichi Shimogami (JPN) vs Leo Rolly Carnando/Bagas Maulana (INA) - Men's Doubles Round of 32 | Victor China Open 2025 | 14:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lnqMhBIZcvB-uYYoAph4p_lyaFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4445631/fbe1ae.jpg" group-title="00.LIVE EVENT", BADMINTON 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -39,7 +39,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oie1fbI3oumQNambi5QL53Srzl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4440644/1670d6.jpg" group-title="00.LIVE EVENT", ATP 250: Generali Open 2025 - Day 3 | 16:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oie1fbI3oumQNambi5QL53Srzl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4440644/1670d6.jpg" group-title="00.LIVE EVENT", ATP EVENT TENIS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -47,7 +47,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Crpruxo83Rn8HAHoBnjW68GdJEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443140/8e2427.jpg" group-title="00.LIVE EVENT", WTA 250: Livesport Prague Open 2025 - Day 1 | 16:00 23 Juli 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Crpruxo83Rn8HAHoBnjW68GdJEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4443140/8e2427.jpg" group-title="00.LIVE EVENT", EVENT SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
