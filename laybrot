@@ -4112,6 +4112,24 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18190&type=drm
 https://halu.serv00.net/satu.mpd?id=18190
 
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="12. Vidio Sports",SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=204
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=204
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="12. Vidio Sports",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=205
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=205
+
+
+
+
+
+
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Astro Sports
 //========================================================================
