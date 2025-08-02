@@ -4113,6 +4113,19 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 https://halu.serv00.net/satu.mpd?id=18190
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="12. Vidio Sports", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+##https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
+https://halu.serv00.net/satu.mpd?id=204
+
+#EXTINF:-1 group-title="12. Vidio Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+##https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+https://halu.serv00.net/satu.mpd?id=205
+
+
 
 
 //========================================================================
