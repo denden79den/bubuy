@@ -4159,38 +4159,38 @@ https://halu.serv00.net/satu.mpd?id=204
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Astro Sports tv
+//Collected by @mimipipi22 menampilkan playlist >>> AstroSport tv
 //========================================================================
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png" group-title="12. Astro Sports", Astro Grandstand #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
+#EXTVLCOPT:http-origin=https://yoxplay.xyz 
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport1 
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="12. Astro Sports",Astro Premier League 🇲🇾
-https://events3.liveboxpro.com/event/125.m3u8
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="12. Astro Sports", Astro Football #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
+#EXTVLCOPT:http-origin=https://yoxplay.xyz 
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport2 
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="12. Astro Sports",Astro Premier League 2 🇲🇾
-https://events3.liveboxpro.com/event/126.m3u8
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhRmY3UjM1EzNmJzNtczM4IWLyIjZ00CNkNWYtEmN3cTZzgzN/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="12. Astro Sports", Astro Premier League #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
+#EXTVLCOPT:http-origin=https://yoxplay.xyz 
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport3 
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="12. Astro Sports",Astro Grandstand 🇲🇾
-https://events3.liveboxpro.com/event/123.m3u8
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Astro Premier League 2 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz 
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport4 
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="12. Astro Sports",Astro Football 🇲🇾
-https://events3.liveboxpro.com/event/124.m3u8
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UzMkRGNwAzMwQTMtkjN4IWLjVGM00yM5MDZtQTY1gDZ0YGN/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Badminton #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz 
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroBadminton 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
