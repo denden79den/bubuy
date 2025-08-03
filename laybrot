@@ -4162,31 +4162,36 @@ https://halu.serv00.net/satu.mpd?id=204
 //Collected by @mimipipi22 menampilkan playlist >>> AstroSport tv
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png" group-title="12. Astro Sports", Astro Grandstand #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png" group-title="12. Astro Sports", Astro Grandstand 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
 #EXTVLCOPT:http-origin=https://yoxplay.xyz 
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport1 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="12. Astro Sports", Astro Football #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="12. Astro Sports", Astro Football 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
 #EXTVLCOPT:http-origin=https://yoxplay.xyz 
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport2 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="12. Astro Sports", Astro Premier League #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="12. Astro Sports", Astro Premier League 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/ 
 #EXTVLCOPT:http-origin=https://yoxplay.xyz 
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport3 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Astro Premier League 2 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Astro Premier League 2 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz 
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport4 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Badminton #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="12. Astro Sports", Badminton 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz 
