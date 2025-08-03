@@ -97,22 +97,34 @@ https://popmi.my.id/tes.m3u8?id=9714
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=8815
 
-#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png", Bein 1
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Spotv 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139
 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Spotv 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Bein Sports 1 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299
 
-#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Bein Sports 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Bein Sports 3 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1
