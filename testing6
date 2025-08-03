@@ -234,7 +234,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6399
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6504 
-https://popmi.my.id/tes.m3u8?id=6504
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6504
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
 
