@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg"
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="🇮🇩  VIDIO TV 🇮🇩", SCTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="🇮🇩  VIDIO TV 🇮🇩", SCTV 1
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=204
@@ -104,7 +104,7 @@ https://popmi.my.id/tes.m3u8?id=8815
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6299&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
 
@@ -113,7 +113,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6317&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1
 
@@ -122,7 +122,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6685&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1 HLS
 
@@ -140,7 +140,7 @@ https://popmi.my.id/tes.m3u8?id=6685
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6686&type=dash 
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686 
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 HLS
 
@@ -157,7 +157,7 @@ https://popmi.my.id/tes.m3u8?id=6686
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6786&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
 
@@ -166,7 +166,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9182 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9182&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9182
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
 
@@ -175,7 +175,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9183 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9183&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9183
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/jWfO9AAKL03aw_crIUZztvDSd5o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png", Premier League TV
 
@@ -184,7 +184,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9353 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9353&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9353
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/iPxOdRXjFUTk-3ZAq4rIoM5509c=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png", NBA TV
 
@@ -193,7 +193,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=6717&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/wP-ZliPyzkQjDFSyVzvtMFGVU2w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/92d52c.jpg", Liverpool TV
 
@@ -243,7 +243,7 @@ https://popmi.my.id/tes.m3u8?id=6504
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=8121 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=8121&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=8121
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
 
@@ -257,7 +257,7 @@ https://popmi.my.id/tes.m3u8?id=6784
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6511 
-https://popmi.my.id/tes.m3u8?id=6511
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6511
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
 
@@ -266,7 +266,7 @@ https://popmi.my.id/tes.m3u8?id=6511
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=8120 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=8120&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=8120
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/vo4nX_9DXfkHYpd2gpeqFdHYu_w=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6507/d29206.png", FashionTV L'Original
 
@@ -275,7 +275,7 @@ https://cuass-060172da4dc0.herokuapp.com/pid/index.mpd?id=8120&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6507 
-https://popmi.my.id/tes.m3u8?id=6507
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6507
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
 
