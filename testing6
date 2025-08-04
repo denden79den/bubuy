@@ -582,6 +582,7 @@ https://popmi.my.id/tes.m3u8?id=7218
 
 ==========================local indihome=============================
 
+#EXTINF:-1 group-logo="https://i.imghippo.com/files/dVw7885FQ.png"
 
 #EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="INDIHOME",------|TV LOKAL|------
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
