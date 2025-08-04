@@ -2032,6 +2032,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 //Collected by @mimipipi22 menampilkan playlist >>> DENS TV
 //========================================================================
 
+#EXTINF:-1 group-logo="https://i.imghippo.com/files/Lbmy9183hjY.png"
 
 #EXTINF:-1 tvg-id="" group-title="DENS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
