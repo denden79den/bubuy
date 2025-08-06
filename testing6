@@ -116,8 +116,8 @@ https://popmi.my.id/tes.m3u8?id=18622
 https://popmi.my.id/tes.m3u8?id=9714
 
 
-#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Spotv 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="🇮🇩  VIDIO TV 🇮🇩",Spotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm
