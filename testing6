@@ -278,11 +278,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6399&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8121&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8121&type=dash
 
-#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://popmi.my.id/tes.m3u8?id=6784
-
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩  VIDIO TV 🇮🇩", GGS TV
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -295,6 +290,11 @@ https://popmi.my.id/tes.m3u8?id=18105
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8120&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8120&type=dash
+
+#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6784
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
 
