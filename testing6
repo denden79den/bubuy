@@ -257,8 +257,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6362&type=drm
 ##https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6362&type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=tvN&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=tvN&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=tvn&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=tvn&type=dash
 
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png", Zee BBiosko
