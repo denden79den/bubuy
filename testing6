@@ -2515,3 +2515,52 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 1" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="VIP SPORT",|UK| HUB SPORTS 1
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/280827
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 2" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="VIP SPORT",|UK| HUB SPORTS 2
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/280828
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 3" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="VIP SPORT",|UK| HUB SPORTS 3
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/280829
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 4" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="VIP SPORT",|UK| HUB SPORTS 4
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/280830
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 5" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="VIP SPORT",|UK| HUB SPORTS 5
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/280831
+
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|UK| BEIN SPORTS ᴴᴰ EN 1" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="VIP SPORT",|UK| BEIN SPORTS ᴴᴰ EN 1
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/73973
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|UK| BEIN SPORTS ᴴᴰ EN 2" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="VIP SPORT",|UK| BEIN SPORTS ᴴᴰ EN 2
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/73974
+
+
+#EXTINF:-1 tvg-ID="supersportvariety1.za" tvg-name="  SuperSport Variety 1" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",  SuperSport Variety 1
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138612
+
+#EXTINF:-1 tvg-ID="supersportvariety2.za" tvg-name="  SuperSport Variety 2" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="VIP SPORT",  SuperSport Variety 2
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138616
+
+#EXTINF:-1 tvg-ID="supersportvariety3.za" tvg-name="  SuperSport Variety 3" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",  SuperSport Variety 3
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138738
+
+#EXTINF:-1 tvg-ID="supersportvariety4.za" tvg-name="  SuperSport Variety 4" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",  SuperSport Variety 4
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138694
+
+#EXTINF:-1 tvg-ID="supersportfootball.za" tvg-name="  SuperSport Football ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",  SuperSport Football ᴴᴰ
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138591
+
+#EXTINF:-1 tvg-ID="supersportfootball.za" tvg-name="  SuperSport MOTOSPORT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",SuperSport MOTOSPORT ᴴᴰ
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138595
+
+#EXTINF:-1 tvg-ID="supersportpremierleague.za" tvg-name="SuperSport Premier League" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",  SuperSport Premier League
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138586
+
+#EXTINF:-1 tvg-ID="supersportblitz.za" tvg-name="SuperSport Blitz" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",SuperSport Blitz
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138614
+
+#EXTINF:-1 tvg-ID="supersportpsl.za" tvg-name="SuperSport PSL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT",SuperSport PSL ᵁᴴᴰ
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138737
+
+#EXTINF:-1 tvg-ID="supersportgrandstand.za" tvg-name="SuperSport Grandstand" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="VIP SPORT", SuperSport Grandstand
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138783
+
+#EXTINF:-1 tvg-ID="supersportlaliga.za" tvg-name="|ZW| SS La Liga" tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/s.png" group-title="VIP SPORT",|ZW| SS La Liga
+http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/303412
