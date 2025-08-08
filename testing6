@@ -116,15 +116,14 @@ https://popmi.my.id/tes.m3u8?id=7432
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=9713
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/vgPh4742qO.png" group-title="🇮🇩  VIDIO TV 🇮🇩", Daystar TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://popmi.my.id/tes.m3u8?id=18622
-
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg", Jawapos TV
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=9714
 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/vgPh4742qO.png" group-title="🇮🇩  VIDIO TV 🇮🇩", Daystar TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=18622
 
 #EXTINF:-1 tvg-id="Spotv" tvg-logo="https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png" group-title="🇮🇩  VIDIO TV 🇮🇩",Spotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -173,8 +172,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6685&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
-
-
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
 
@@ -282,7 +279,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8120&type=dash
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=6784
 
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩  VIDIO TV 🇮🇩", GGS TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png" group-title="🇮🇩  VIDIO TV 🇮🇩", GGS TV
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=18105
