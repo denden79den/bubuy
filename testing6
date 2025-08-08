@@ -923,8 +923,6 @@ https://vdo.cumatestingsaja.workers.dev/?stream=live&id=204&type=dash|User-Agent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://siasia-berjuang-hls.bintangstream513.workers.dev/.m3u8?id=204type=hls
 
-
-
 #EXTINF:-1 group-title="VIDIO LIVE TV" tvg-id="205.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vdo.cumatestingsaja.workers.dev/?stream=live&id=205&type=drm
@@ -954,6 +952,12 @@ https://vdo.cumatestingsaja.workers.dev/?stream=live&id=783&type=dash|User-Agent
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vdo.cumatestingsaja.workers.dev/?stream=live&id=782&type=drm
 https://vdo.cumatestingsaja.workers.dev/?stream=live&id=782&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="VIDIO LIVE TV" tvg-id="782.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/.m3u8?id=782type=hls
+
 
 #EXTINF:-1 group-title="VIDIO LIVE TV" tvg-id="777.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
