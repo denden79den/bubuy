@@ -375,15 +375,10 @@ https://popmi.my.id/tes.m3u8?id=7464
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=6852
 
-#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/SpjuzVoKdUo7lxmN6URPI4QEvEQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/2c48ce.png", Tawaf TV
+#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png", DMI TV
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=12607
-
-#EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/n39JFranf5fBu5vMktAMRTennFo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6853/de1a7c.png", Reformed 21 TV
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://popmi.my.id/tes.m3u8?id=6853
 
 #EXTINF:-1 group-title="🇮🇩  VIDIO TV 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/ZK3MJggjRhLH9fHevY-qg-HNvho=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png", U-Channel TV
 
