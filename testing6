@@ -2450,3 +2450,68 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> ESPN & DAZN
+============================================================================================================================================================
+
+
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="DAZN & ESPN",DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="DAZN & ESPN",DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="DAZN & ESPN",DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="DAZN & ESPN",DAZN 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="DAZN & ESPN",DAZN 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="DAZN & ESPN",DAZN 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="DAZN & ESPN",ESPN
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="DAZN & ESPN",ESPN 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="DAZN & ESPN",ESPN 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="DAZN & ESPN",ESPN 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="DAZN & ESPN",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1tQ0KWR/images.png" group-title="DAZN & ESPN",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+
+
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> SPORT TV
+============================================================================================================================================================
+
+
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORT TV",SPORT TV 1 
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84596
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORT TV",Sport TV 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://tvmate.icu:8080/5jkavP/125954/167743
+#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORT TV",Sport TV 3
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84601
+#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORT TV",Sport TV 4
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84603
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORT TV",Sport TV 5
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84605
+
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png",Sportv 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg",Sportv 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://i.imghippo.com/files/WU1252hQk.jpg",Sportv 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
+
+
+
