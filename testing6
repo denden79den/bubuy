@@ -3245,7 +3245,7 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 #KODIPROP:inputstream=inputstream.adaptive
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="ERV BIOSKOP",ETV Bioskop 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="ETV BIOSKOP",ETV Bioskop 3
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
