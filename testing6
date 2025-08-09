@@ -3220,6 +3220,41 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=sunna-tv
 
 
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> ETV BIOSKOP
+============================================================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="ETV BIOSKOP",ETV Bioskop
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="ETV BIOSKOP",ETV Bioskop 2
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="ERV BIOSKOP",ETV Bioskop 3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> SONY & TNT SPORT
