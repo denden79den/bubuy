@@ -10,10 +10,35 @@ https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Andro
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=nettv-hd|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
-
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="OXYGEN TV", METRO TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=metrotv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=kompastv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvri|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", SCTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=sctv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", INDOSIAR
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=indosiar|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", TRANS 7
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=trans7|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", TRANS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=transtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+
 
 
 
