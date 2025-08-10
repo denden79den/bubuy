@@ -12,7 +12,7 @@ https://why.biz.id/Iptv/oxygen.php?id=beritasatu|user-agent=Oxygen TV/5.9 (Linux
 
 #EXTINF:-1 tvg-id="GARUDA.id" tvg-name="ANTV.id" tvg-chno="BERITASATU.id" tvg-logo="" group-title="OXYGEN TV", GARUDA TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=garuda|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=garudatv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
 
 #EXTINF:-1 tvg-logo="" group-title="OXYGEN TV", NET TV
