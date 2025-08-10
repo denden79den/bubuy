@@ -1201,8 +1201,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/garuda/manifest.mpd
 
 <=================== VISION TV=============================>
 
-
-#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" 
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -2811,9 +2810,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 
 
+<======================== FIRST MEDIA TV ==========================>
 
-
-<======================== FM ==========================>
+#EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png"
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="FIRST MEDIA",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
