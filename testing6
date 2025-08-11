@@ -222,7 +222,7 @@ https://why.biz.id/Iptv/oxygen.php?id=edgesport|user-agent=Oxygen TV/5.9 (Linux;
 ============================================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="------|OXYGENTVE------" tvg-logo="" group-title="Oxygen TV 2",------|TV LOKAL|------
+#EXTINF:-1 tvg-id="" tvg-name="------|TV LOKAL------" tvg-logo="" group-title="Oxygen TV 2",------|TV LOKAL|------
 http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="Oxygen TV 2", ANTV 
