@@ -4013,6 +4013,11 @@ https://rolextv.asia:443/shiny/shiny/205790
 #EXTINF:-1 tvg-id="" tvg-name="W-SPORT" tvg-logo="" group-title="HUB SPORT", ASTRO W-SPORT
 https://rolextv.asia:443/shiny/shiny/205780
 
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="HUB SPORT",PL: POLSAT SPORT 1
+http://vdns2.top:8080/12345678/87654321/34309
 
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="HUB SPORT",PL: POLSAT SPORT 2
+http://vdns2.top:8080/12345678/87654321/886
 
-
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="HUB SPORT",PL: POLSAT SPORT 3
+http://vdns2.top:8080/12345678/87654321/887
