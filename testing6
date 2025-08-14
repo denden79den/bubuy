@@ -1,3 +1,21 @@
+=====####***| Live Event|***####=====
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="LIVE EVENT", FIVB 1
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19347&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19347&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="LIVE EVENT", FIVB 2
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19331&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19331&type=dash
+
+
+
 =====####***| oXygen tv |***####=====
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/RVB3vn7w/oXygen.png"
