@@ -4028,5 +4028,12 @@ https://rolextv.asia:443/shiny/shiny/269743
 #EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="DSTV | WWE CHANNEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqXJ1fm7sVDwfaifPLYZ0oY7AG1BnMWruxQ&s" group-title="HUB SPORT",WWE CHANNEL FHD
 https://rolextv.asia:443/shiny/shiny/269744
 
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 1 FHD [NL] (DAZN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-1-be.png" group-title="HUB SPORT",PLAY SPORTS 1 FHD
+https://rolextv.asia:443/shiny/shiny/269454
 
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 2 FHD [NL] (DAZN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-2-be.png" group-title="HUB SPORT",PLAY SPORTS 2 FHD
+https://rolextv.asia:443/shiny/shiny/269455
+
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 3 FHD [NL] (DAZN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-3-be.png" group-title="HUB SPORT",PLAY SPORTS 3 FHD
+https://rolextv.asia:443/shiny/shiny/269456
 
