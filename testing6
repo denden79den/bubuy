@@ -3962,18 +3962,43 @@ http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/138783
 http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/303412
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SG: HUB PREMIER 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 1 FHD
 https://rolextv.asia:443/shiny/shiny/204248
 
-#EXTINF:-1 tvg-id="" tvg-name="SG: HUB PREMIER 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 2 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 2 FHD
 https://rolextv.asia:443/shiny/shiny/204250
 
-#EXTINF:-1 tvg-id="" tvg-name="SG: HUB PREMIER 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 3 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 3 FHD
 https://rolextv.asia:443/shiny/shiny/204251
 
-#EXTINF:-1 tvg-id="" tvg-name="SG: HUB PREMIER 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 4 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 4 FHD
 https://rolextv.asia:443/shiny/shiny/204252
 
-#EXTINF:-1 tvg-id="" tvg-name="SG: HUB PREMIER 1 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 5 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 5 FHD
 https://rolextv.asia:443/shiny/shiny/204253
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 1" tvg-logo="" group-title="HUB SPORT", ASTRO PREMIER LEAGUE 1
+https://rolextv.asia:443/shiny/shiny/205772
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 2" tvg-logo="" group-title="HUB SPORT", ASTRO PREMIER LEAGUE 2
+https://rolextv.asia:443/shiny/shiny/205773
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS PLUS" tvg-logo="" group-title="HUB SPORT", ASTRO SPORTS PLUS
+https://rolextv.asia:443/shiny/shiny/205774
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO GRANDSTAND" tvg-logo="" group-title="HUB SPORT", ASTRO GRANDSTAND
+https://rolextv.asia:443/shiny/shiny/205777
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO FOOTBALL" tvg-logo="" group-title="HUB SPORT", ASTRO FOOTBALL
+https://rolextv.asia:443/shiny/shiny/205778
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA" tvg-logo="" group-title="HUB SPORT", ASTRO ARENA
+https://rolextv.asia:443/shiny/shiny/205783
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="" group-title="HUB SPORT", ASTRO ARENA 2
+https://rolextv.asia:443/shiny/shiny/205784
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON" tvg-logo="" group-title="HUB SPORT", ASTRO BADMINTON
+https://rolextv.asia:443/shiny/shiny/205786
+
 
