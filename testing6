@@ -4021,3 +4021,12 @@ http://vdns2.top:8080/12345678/87654321/886
 
 #EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="HUB SPORT",PL: POLSAT SPORT 3
 http://vdns2.top:8080/12345678/87654321/887
+
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="US | WWE NETWORK FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqXJ1fm7sVDwfaifPLYZ0oY7AG1BnMWruxQ&s" group-title="HUB SPORT",WWE NETWORK FHD
+https://rolextv.asia:443/shiny/shiny/269743
+
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="DSTV | WWE CHANNEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqXJ1fm7sVDwfaifPLYZ0oY7AG1BnMWruxQ&s" group-title="HUB SPORT",WWE CHANNEL FHD
+https://rolextv.asia:443/shiny/shiny/269744
+
+
+
