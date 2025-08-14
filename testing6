@@ -3977,7 +3977,7 @@ https://rolextv.asia:443/shiny/shiny/204252
 #EXTINF:-1 tvg-id="" tvg-name="SG: HUB SPORTS 5 FHD" tvg-logo="" group-title="HUB SPORT",SG: HUB SPORT 5 FHD
 https://rolextv.asia:443/shiny/shiny/204253
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 1" tvg-logo="" group-title="HUB SPORT", ASTRO PREMIER LEAGUE 1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE" tvg-logo="" group-title="HUB SPORT", ASTRO PREMIER LEAGUE 1
 https://rolextv.asia:443/shiny/shiny/205772
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER LEAGUE 2" tvg-logo="" group-title="HUB SPORT", ASTRO PREMIER LEAGUE 2
@@ -4001,4 +4001,12 @@ https://rolextv.asia:443/shiny/shiny/205784
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON" tvg-logo="" group-title="HUB SPORT", ASTRO BADMINTON
 https://rolextv.asia:443/shiny/shiny/205786
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="" group-title="HUB SPORT", ASTRO BEIN SPORTS
+https://rolextv.asia:443/shiny/shiny/205788
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="HUB SPORT", ASTRO BEIN SPORT 2
+https://rolextv.asia:443/shiny/shiny/205787
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="HUB SPORT", ASTRO BEIN SPORTS 3
+https://rolextv.asia:443/shiny/shiny/205788
 
