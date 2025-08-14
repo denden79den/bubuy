@@ -4037,3 +4037,18 @@ https://rolextv.asia:443/shiny/shiny/269455
 #EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 3 FHD [NL] (DAZN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-3-be.png" group-title="HUB SPORT",PLAY SPORTS 3 FHD
 https://rolextv.asia:443/shiny/shiny/269456
 
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="HUB SPORT",SONY TEN 1 FHD
+https://rolextv.asia:443/shiny/shiny/152
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="HUB SPORT",SONY TEN 2 FHD
+https://rolextv.asia:443/shiny/shiny/153
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="HUB SPORT",SONY TEN 3 FHD
+https://rolextv.asia:443/shiny/shiny/154
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 4 HD.in" tvg-name="SONY TEN 4 HD" tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="HUB SPORT",SONY TEN 4 HD
+https://rolextv.asia:443/shiny/shiny/7788
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="SONY TEN 5 FHD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="HUB SPORT",SONY TEN 5 FHD
+https://rolextv.asia:443/shiny/shiny/155
+
