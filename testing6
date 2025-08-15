@@ -14,6 +14,10 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19347&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19331&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19331&type=dash
 
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="LIVE EVENT",EVENT INDOSIAR
+http://vdns2.top:8080/12345678/87654321/34327
+
+
 
 
 =====####***| oXygen tv |***####=====
