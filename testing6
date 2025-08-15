@@ -4300,6 +4300,36 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football1-HD.png" group-title="HUB SPORT",Match!Football1
+https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football2-HD.png" group-title="HUB SPORT",Match!Football2
+https://wahyu1ptv.pages.dev/Match!Football2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football3-HD.png" group-title="HUB SPORT",Match!Football3
+https://wahyu1ptv.pages.dev/Match!Football3-HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 1
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30404.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30403.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="SPORT",NOW HK NOW SPORTS 3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30402.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30401.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30400.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 6
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30399.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="HUB SPORT",NOW HK NOW SPORTS 7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30398.m3u8
+
 
 
 
