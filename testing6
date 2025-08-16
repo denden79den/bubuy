@@ -2915,6 +2915,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 <=================== Dens =============================>
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/FLph8LXn/denstv.png"
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VGF6YU6gVAOW6pyqt5pVXN14-CE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-tv-stream-86c62b.jpg" group-title="Dens TV", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
