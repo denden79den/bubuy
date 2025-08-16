@@ -4253,6 +4253,67 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30399.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30398.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="HUB SPORT", Go3SportOpen
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="HUB SPORT", Go3Sport1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="HUB SPORT", Go3Sport2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="HUB SPORT", Go3Sport3
+https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="HUB SPORT", ArenaPremium1
+https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="HUB SPORT", ArenaPremium2
+https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="HUB SPORT", ArenaPremium3
+https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="HUB SPORT", ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="HUB SPORT", ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="HUB SPORT", ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="HUB SPORT", ElevenSport4
+https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="HUB SPORT", ZiggoSportSelect
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="HUB SPORT", ZiggoSportVoetbal
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="HUB SPORT", Sport.TV1
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="HUB SPORT", Sport.TV2
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="HUB SPORT", Sport.TV3
+https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="HUB SPORT", Sport.TV4
+https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png" group-title="HUB SPORT", Sport.TV5
+https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="HUB SPORT", Sport.TV6
+https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+
+
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
 http://zoneuk.club:80/1122334455/6677889900/709263
