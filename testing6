@@ -1,6 +1,6 @@
 =====####***| Live Event|***####=====
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="LIVE EVENT", FIVB 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="LIVE EVENT", EVENT 1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
