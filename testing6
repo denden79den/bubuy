@@ -4356,14 +4356,12 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/30398.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
 http://zoneuk.club:80/1122334455/6677889900/709263
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MYS | Astro Premier League FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | World Sports",MYS | Astro Premier League FHD
-http://zoneuk.club:80/1122334455/6677889900/57500
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 HD
 http://zoneuk.club:80/1122334455/6677889900/709262
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 FHD
 http://zoneuk.club:80/1122334455/6677889900/709261
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MYS | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | World Sports",MYS | Astro Premier League 2 FHD
-http://zoneuk.club:80/1122334455/6677889900/57501
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 HD
 http://zoneuk.club:80/1122334455/6677889900/709260
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
@@ -4374,14 +4372,12 @@ http://zoneuk.club:80/1122334455/6677889900/848960
 http://zoneuk.club:80/1122334455/6677889900/848959
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand FHD
 http://zoneuk.club:80/1122334455/6677889900/709259
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MYS | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | World Sports",MYS | Astro Grandstand FHD
-http://zoneuk.club:80/1122334455/6677889900/57502
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand HD
 http://zoneuk.club:80/1122334455/6677889900/709258
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football FHD
 http://zoneuk.club:80/1122334455/6677889900/709257
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MYS | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | World Sports",MYS | Astro Football FHD
-http://zoneuk.club:80/1122334455/6677889900/57503
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football HD
 http://zoneuk.club:80/1122334455/6677889900/709256
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MY | Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="SPORTS | Astro Sports",MY | Astro Cricket FHD
@@ -4392,40 +4388,27 @@ http://zoneuk.club:80/1122334455/6677889900/848711
 http://zoneuk.club:80/1122334455/6677889900/848710
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport FHD
 http://zoneuk.club:80/1122334455/6677889900/709252
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MYS | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/W-Sports.png" group-title="SPORTS | World Sports",MYS | W-Sport FHD
-http://zoneuk.club:80/1122334455/6677889900/57510
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 1 FHD
 http://zoneuk.club:80/1122334455/6677889900/837115
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name="MY | beIN Sports 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 2 FHD
 http://zoneuk.club:80/1122334455/6677889900/837114
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 3 FHD
 http://zoneuk.club:80/1122334455/6677889900/837113
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GinxeSportsTV.za" tvg-name="MY | GNIX Sports HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="SPORTS | World Sports",MY | GNIX Sports HD
-http://zoneuk.club:80/1122334455/6677889900/57505
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MYS | Astro WWE FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-WWE.png" group-title="SPORTS | World Sports",MYS | Astro WWE FHD
-http://zoneuk.club:80/1122334455/6677889900/57507
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports",MY | WWE Network HD
 http://zoneuk.club:80/1122334455/6677889900/709248
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MYS | Astro Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | World Sports",MYS | Astro Golf FHD
-http://zoneuk.club:80/1122334455/6677889900/57509
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | Astro Sports",MY | SkyNet Golf FHD
 http://zoneuk.club:80/1122334455/6677889900/709249
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | World Sports",MY | Astro Arena HD
-http://zoneuk.club:80/1122334455/6677889900/57512
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFoxSportsUltra.au" tvg-name="MY | GNIX Sports HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="SPORTS | Astro Sports",MY | GNIX Sports HD
 http://zoneuk.club:80/1122334455/6677889900/709255
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | World Sports",MY | Astro Arena 2 HD
-http://zoneuk.club:80/1122334455/6677889900/57511
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena FHD
 http://zoneuk.club:80/1122334455/6677889900/709254
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MYS | Astro beIN Sports FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/BeinSports.png" group-title="SPORTS | World Sports",MYS | Astro beIN Sports FHD
-http://zoneuk.club:80/1122334455/6677889900/57514
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.my" tvg-name="MYS | SPOTV HD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | World Sports",MYS | SPOTV HD
-http://zoneuk.club:80/1122334455/6677889900/57508
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2 FHD
 http://zoneuk.club:80/1122334455/6677889900/709266
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MYS | SPOTV 2 HD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | World Sports",MYS | SPOTV 2 HD
-http://zoneuk.club:80/1122334455/6677889900/57515
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV HD
 http://zoneuk.club:80/1122334455/6677889900/709253
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV FHD
