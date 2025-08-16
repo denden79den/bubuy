@@ -4510,5 +4510,26 @@ http://zoneuk.club:80/1122334455/6677889900/842085
 
 
 
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE: Monday Night Raw (Mon)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/MNR.png" group-title="LIVE | Wrestling",WWE: Monday Night Raw (Mon)
+http://zoneuk.club:80/1122334455/6677889900/871402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CWKASW.us" tvg-name="WWE: NXT 2.0 (Tue)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/NXT.png" group-title="LIVE | Wrestling",WWE: NXT 2.0 (Tue)
+http://zoneuk.club:80/1122334455/6677889900/871401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TBS.us" tvg-name="AEW: Dynamite (Wed)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/AEW-Dynamite.png" group-title="LIVE | Wrestling",AEW: Dynamite (Wed)
+http://zoneuk.club:80/1122334455/6677889900/871400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNAWrestling.pluto" tvg-name="TNA Wrestling (Thu)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/TNA-Wrestling.png" group-title="LIVE | Wrestling",TNA Wrestling (Thu)
+http://zoneuk.club:80/1122334455/6677889900/871399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="USANetwork.us" tvg-name="WWE: Friday Night Smackdown (Fri)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/FNS.png" group-title="LIVE | Wrestling",WWE: Friday Night Smackdown (Fri)
+http://zoneuk.club:80/1122334455/6677889900/871398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNT.us" tvg-name="AEW: Rampage (Fri)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/AEW-Rampage.png" group-title="LIVE | Wrestling",AEW: Rampage (Fri)
+http://zoneuk.club:80/1122334455/6677889900/871397
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNT.us" tvg-name="AEW: Saturday Collision (Sat)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/AEW-Collision.png" group-title="LIVE | Wrestling",AEW: Saturday Collision (Sat)
+http://zoneuk.club:80/1122334455/6677889900/871396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.peacocktv" tvg-name="WWE: Peacock Pass" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/WWE-Peacock.png" group-title="LIVE | Wrestling",WWE: Peacock Pass
+http://zoneuk.club:80/1122334455/6677889900/871403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE: Netflix 01 (Live Events Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/Netflix-WWE.png" group-title="LIVE | Wrestling",WWE: Netflix 01 (Live Events Only)
+http://zoneuk.club:80/1122334455/6677889900/873390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE: Netflix 02 (Live Events Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/Netflix-WWE.png" group-title="LIVE | Wrestling",WWE: Netflix 02 (Live Events Only)
+http://zoneuk.club:80/1122334455/6677889900/873391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WWE: Netflix 03 (Live Events Only)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/01/Netflix-WWE.png" group-title="LIVE | Wrestling",WWE: Netflix 03 (Live Events Only)
+http://zoneuk.club:80/1122334455/6677889900/873392
 
