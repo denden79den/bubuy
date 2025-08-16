@@ -52,7 +52,7 @@ http://vdns2.top:8080/12345678/87654321/34327
 
 =====####***| oXygen tv |***####=====
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/RVB3vn7w/oXygen.png"
+#EXTINF:-1 group-logo="https://i.ibb.co.com/QjjgbQKB/oxygen-tv.png"
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="Oxygen TV",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
