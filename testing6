@@ -4268,6 +4268,32 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
 
+
+#EXTINF:-1 tvg-ID="espn.nl" tvg-name="NL ▎ESPN HD ʀᴀᴡ" tvg-logo="http://img.logo-cdn.cc/espn.png" group-title="ZIGGO & ESPN",NL ▎ESPN HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406244
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="NL ▎ESPN 2 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/espn2.png" group-title="ZIGGO & ESPN",NL ▎ESPN 2 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406245
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="NL ▎ESPN 3 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/espn3.png" group-title="ZIGGO & ESPN",NL ▎ESPN 3 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406246
+#EXTINF:-1 tvg-ID="espn4.nl" tvg-name="NL ▎ESPN 4 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/espn4.png" group-title="ZIGGO & ESPN",NL ▎ESPN 4 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406247
+#EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="NL ▎ZIGGO SPORT HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406250
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="NL ▎ZIGGO SPORT 2 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport2.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT 2 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406252
+#EXTINF:-1 tvg-ID="ziggosportgolf.nl" tvg-name="NL ▎ZIGGO SPORT 3 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosportgolf.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT 3 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406256
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="NL ▎ZIGGO SPORT 4 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport4.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT 4 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406253
+#EXTINF:-1 tvg-ID="ziggosportdocu.nl" tvg-name="NL ▎ZIGGO SPORT 5 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport5.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT 5 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406254
+#EXTINF:-1 tvg-ID="ziggosportextra2.nl" tvg-name="NL ▎ZIGGO SPORT 6 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport6.png" group-title="ZIGGO & ESPN",NL ▎ZIGGO SPORT 6 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406255
+#EXTINF:-1 tvg-ID="eurosport1.nl" tvg-name="NL ▎EUROSPORT 1 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="ZIGGO & ESPN",NL ▎EUROSPORT 1 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/708729
+#EXTINF:-1 tvg-ID="eurosport2.nl" tvg-name="NL ▎EUROSPORT 2 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="ZIGGO & ESPN",NL ▎EUROSPORT 2 HD ʀᴀᴡ
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/708730
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD-1" tvg-logo="http://ghost1.tv:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sport HD",Bein Sports HD-1
 http://ghost1.tv:80/1090sdha9075/906120say9062/80517
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD-2" tvg-logo="http://ghost1.tv:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sport HD",Bein Sports HD-2
