@@ -48,7 +48,8 @@ http://zoneuk.club:80/1122334455/6677889900/709249
 http://zoneuk.club:80/1122334455/6677889900/709255
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena
-http://zoneuk.club:80/1122334455/6677889900/709254
+https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2
 http://zoneuk.club:80/1122334455/6677889900/709266
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV
