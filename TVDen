@@ -13,8 +13,9 @@ http://zoneuk.club:80/1122334455/6677889900/709261
 http://zoneuk.club:80/1122334455/6677889900/848961
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 FHD
 http://zoneuk.club:80/1122334455/6677889900/848960
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Premier League 5 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 5 FHD
-http://zoneuk.club:80/1122334455/6677889900/848959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Sport Plus" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" group-title="SPORTS | Astro Sports",MY | Astro Sport Plus
+https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
@@ -56,3 +57,9 @@ http://zoneuk.club:80/1122334455/6677889900/709253
 http://zoneuk.club:80/1122334455/6677889900/709251
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",MY | SPOTV 2
 http://zoneuk.club:80/1122334455/6677889900/709250
+
+
+
+
+
+
