@@ -163,10 +163,9 @@ http://zoneuk.club:80/1122334455/6677889900/709266
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV
 http://zoneuk.club:80/1122334455/6677889900/709253
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV
-http://zoneuk.club:80/1122334455/6677889900/709251
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",MY | SPOTV 2
-http://zoneuk.club:80/1122334455/6677889900/709250
-
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
 
 
 
