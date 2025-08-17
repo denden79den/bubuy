@@ -1204,6 +1204,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/net/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="INDIHOME", GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn10jtedge.indihometv.com/atm/DASH/garudatv/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="INDIHOME", TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
