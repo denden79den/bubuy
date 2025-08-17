@@ -4662,7 +4662,12 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="HUB SPORT", Sport.TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1 4k" tvg-logo="http://ghost1.tv:80/images/61773c846ff5cfb47be0535d326a9167.jpg" group-title="HUB SPORT",AD Sport 1 4k
+http://ghost1.tv:80/1090sdha9075/906120say9062/60840
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2 4k" tvg-logo="http://gostiptv.vip:80/images/7fe786b094a7cbefd742fc89244c6ce9.jpg" group-title="HUB SPORT",AD Sport 2 4k
+http://ghost1.tv:80/1090sdha9075/906120say9062/60844
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 4k" tvg-logo="http://gostiptv.vip:80/images/56e43bc5055f61366d3e97ccdee1bae0.png" group-title="HUB SPORT",StarzPlay 4k
+http://ghost1.tv:80/1090sdha9075/906120say9062/60848
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
