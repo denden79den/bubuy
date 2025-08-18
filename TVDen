@@ -174,6 +174,43 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> SPORT PREMIERE (LIGA INGGRIS) 
+============================================================================================================================================================
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 1 FHD
+http://vocotv.pro:80/tatum/tatum/288375
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 2 FHD
+http://vocotv.pro:80/tatum/tatum/288374
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 3 FHD
+http://vocotv.pro:80/tatum/tatum/288373
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 4 FHD
+http://vocotv.pro:80/tatum/tatum/288372
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 5 FHD
+http://vocotv.pro:80/tatum/tatum/288371
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 6 FHD
+http://vocotv.pro:80/tatum/tatum/288370
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier7.sg" tvg-name="Hub Premier 7 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 7 FHD
+http://vocotv.pro:80/tatum/tatum/288369
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier8.sg" tvg-name="Hub Premier 8 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 8 FHD
+http://vocotv.pro:80/tatum/tatum/288368
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hub Premier 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 9 FHD
+http://vocotv.pro:80/tatum/tatum/288367
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hub Premier 10 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 10 FHD
+http://vocotv.pro:80/tatum/tatum/288366
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hub Premier 11 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" group-title="SPORTS | Liga Inggris (EPL)",Hub Premier 11 FHD
+http://vocotv.pro:80/tatum/tatum/288365
 
 
 
