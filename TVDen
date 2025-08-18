@@ -267,4 +267,33 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
 
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> SPORT HUB TV
+============================================================================================================================================================
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="SG | Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORTS | Hub Sports",SG | Hub Sports 1
+https://rolextv.asia:443/shiny/shiny/204248
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports2.sg" tvg-name="SG | Hub Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS | Hub Sports",SG | Hub Sports 2
+https://rolextv.asia:443/shiny/shiny/204250
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="SG | Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORTS | Hub Sports",SG | Hub Sports 3
+https://rolextv.asia:443/shiny/shiny/204251
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="SPORTS | Hub Sports",SG | Hub Sports 4
+https://rolextv.asia:443/shiny/shiny/204252
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORTS | Hub Sports",SG | Hub Sports 5
+https://rolextv.asia:443/shiny/shiny/204253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS.sg" tvg-name="SG | beIN Sports 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",SG | beIN Sports 1
+http://zoneuk.club:80/1122334455/6677889900/625423
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS2.sg" tvg-name="SG | beIN Sports 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",SG | beIN Sports 2
+http://zoneuk.club:80/1122334455/6677889900/625424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS3.sg" tvg-name="SG | beIN Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",SG | beIN Sports 3
+http://zoneuk.club:80/1122334455/6677889900/625422
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS4.sg" tvg-name="SG | beIN Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",SG | beIN Sports 4
+http://zoneuk.club:80/1122334455/6677889900/625421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS5.sg" tvg-name="SG | beIN Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",SG | beIN Sports 5
+http://zoneuk.club:80/1122334455/6677889900/625420
+
+
+
 
