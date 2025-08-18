@@ -375,29 +375,29 @@ http://vdns2.top:8080/12345678/87654321/886
 http://vdns2.top:8080/12345678/87654321/887
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | Super VIP", DIGI SPORT 1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="SPORTS | Super VIP", DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277313.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | Super VIP", DIGI SPORT 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="SPORTS | Super VIP", DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277314.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | Super VIP", DIGI SPORT 3
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="SPORTS | Super VIP", DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277315.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | Super VIP", DIGI SPORT 4
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="SPORTS | Super VIP", DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277316.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SPORTS | Super VIP", FUBO SPORTS 1
+#EXTINF:-1  tvg-logo="https://go4.pw/AMERICA/USA/fubo-sports.png" group-title="SPORTS | Super VIP", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SPORTS | Super VIP", FUBO SPORTS 2
+#EXTINF:-1  tvg-logo="https://go4.pw/AMERICA/USA/fubo-sports.png" group-title="SPORTS | Super VIP", FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
@@ -413,6 +413,13 @@ https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="SPORTS | Super VIP", ArenaPremium3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-
+#EXTINF:-1 tvg-id="TF1" tvg-name="RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="SPORTS | Super VIP",RMC SPORT 1
+http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/388
+#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="SPORTS | Super VIP",RMC SPORT 2
+http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/389
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="SPORTS | Super VIP",RMC SPORT 3
+http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/390
+#EXTINF:-1 tvg-id="TF1" tvg-name="RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="SPORTS | Super VIP",RMC SPORT 4
+http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/391
 
 
