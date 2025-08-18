@@ -1,35 +1,3 @@
-#EXTINF:-1 group-title="DIAMOND 1"  tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://red.openwindows038.workers.dev/play.m3u8?id=733&type=hls
-
-#EXTINF:-1 group-title="DIAMOND 1"  tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://red.openwindows038.workers.dev/play.m3u8?id=734&type=hls
-
-#EXTINF:-1 group-title="DIAMOND 1"  tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
-https://red.openwindows038.workers.dev/play.m3u8?id=783&type=hls
-
-#EXTINF:-1 group-title="DIAMOND 1"  tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://red.openwindows038.workers.dev/play.m3u8?id=782&type=hls
-
-
-
-
-
-
-
-
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> SPORT VISION+ TV
@@ -256,10 +224,12 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
+##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2
-http://zoneuk.club:80/1122334455/6677889900/709261
+##http://zoneuk.club:80/1122334455/6677889900/709261
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS2.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
 http://zoneuk.club:80/1122334455/6677889900/848961
@@ -269,7 +239,7 @@ http://zoneuk.club:80/1122334455/6677889900/848960
 https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football
 https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -278,7 +248,7 @@ https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52
 http://zoneuk.club:80/1122334455/6677889900/709264
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="SPORTS | Astro Sports",MY | Astro Badminton
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadminton.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport
 https://ott.udptv.xyz/stream/astro/wsport/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -303,8 +273,7 @@ http://zoneuk.club:80/1122334455/6677889900/709255
 https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2
-https://ott.udptv.xyz/stream/astro/astroarena2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV
 http://zoneuk.club:80/1122334455/6677889900/709253
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV
