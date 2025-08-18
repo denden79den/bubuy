@@ -473,6 +473,23 @@ http://zoneuk.club:80/1122334455/6677889900/842085
 
 
 
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> SPORT ZIGGO
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="NL ▎ZIGGO SPORT HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406250
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="NL ▎ZIGGO SPORT 2 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport2.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 2
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406252
+#EXTINF:-1 tvg-ID="ziggosportgolf.nl" tvg-name="NL ▎ZIGGO SPORT 3 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosportgolf.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 3
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406256
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="NL ▎ZIGGO SPORT 4 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport4.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 4
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406253
+#EXTINF:-1 tvg-ID="ziggosportdocu.nl" tvg-name="NL ▎ZIGGO SPORT 5 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport5.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 5
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406254
+#EXTINF:-1 tvg-ID="ziggosportextra2.nl" tvg-name="NL ▎ZIGGO SPORT 6 HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport6.png" group-title="SPORTS | ZIGGO",ZIGGO SPORT 6
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/406255
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> SPORT SUPER VIP
