@@ -1707,7 +1707,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 ##https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_blueant_big.png",ROCK ENTERTAIMENT
-https://cdn10jtedge.indihometv.com/atm/DASH/blueant/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
 https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
