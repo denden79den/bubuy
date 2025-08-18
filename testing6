@@ -1804,10 +1804,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="INDIHOME", MQTV
-https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="INDIHOME", GarudaTV
-https://cdn10jtedge.indihometv.com/atm/DASH/garuda/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
 
 
 <=================== VISION TV=============================>
