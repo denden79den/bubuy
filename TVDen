@@ -2,7 +2,7 @@ EXTM3U
 
 #================ LOKAL ================
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="Lokal",SCTV
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
 
 #EXTINF:-1 tvg-id="INDOSIAR.id" tvg-name="Indosiar" group-title="Lokal",Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
