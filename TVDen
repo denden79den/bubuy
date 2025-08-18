@@ -112,8 +112,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2
@@ -139,7 +137,7 @@ http://zoneuk.club:80/1122334455/6677889900/709264
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport
-http://zoneuk.club:80/1122334455/6677889900/709252
+https://ott.udptv.xyz/stream/astro/wsport/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 1
 http://zoneuk.club:80/1122334455/6677889900/837115
@@ -169,6 +167,11 @@ http://zoneuk.club:80/1122334455/6677889900/709253
 https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",MY | SPOTV 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="SPORTS | Astro Sports", Unifi Sports 1
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
 
 
 
