@@ -218,16 +218,21 @@ http://vocotv.pro:80/tatum/tatum/288365
 ============================================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS | Sony & TNT",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORTS | Sony & TNT",SONY TEN 1 FHD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS | Sony & TNT",SONY TEN 2 HD
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORTS | Sony & TNT",SONY TEN 2 FHD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS | Sony & TNT",SONY TEN 3 HD
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORTS | Sony & TNT",SONY TEN 3 FHD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS | Sony & TNT", SONY TEN 4 HD
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 4 HD.in" tvg-name="SONY TEN 4 HD" tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="SPORTS | Sony & TNT",SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS | Sony & TNT",SONY TEN 5 HD
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="SONY TEN 5 FHD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="SPORTS | Sony & TNT",SONY TEN 5 FHD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORTS | Sony & TNT",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
