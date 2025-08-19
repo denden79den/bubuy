@@ -947,8 +947,8 @@ https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/N6V6RQD.png" group-title="FILM | Sinetron",02. Citra Drama 🔵
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62267
+#EXTINF:-1 group-title="FILM | Sinetron" tvg-logo="https://images.indihometv.com/assets/88_CITRADRAMA_2025_03_17_14_49_15.png",Citra Drama (Indi) 
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/hrtNcNe.png" group-title="FILM | Sinetron",03. Citra Entertaiment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -974,8 +974,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png" group-title="FILM | Sinetron",07. AstroRia
-https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/B-inal22/AstroRia.m3u8
+#EXTINF:-1 group-title="FILM | Sinetron" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/06/Malay_Channel_Ria.jpg", 07. AstroRia
+http://223.18.103.169:8277/Ria-0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="FILM | Sinetron",08. AstroAura
 https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
