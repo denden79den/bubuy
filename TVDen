@@ -706,10 +706,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="TV | Nasional",05. ScTv 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="TV | Nasional",05. ScTv
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="TV | Nasional",06. MdTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -805,13 +806,16 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 ============================================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="FILM | HBO & ETV",1. eTvBioskop1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="FILM | HBO & ETV",2. eTvBioskop2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop2.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="FILM | HBO & ETV",3. eTvBioskop3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop3.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="FILM | HBO & ETV",4. eTvBioskop4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop4.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",5. eTvBioskop1 (backup) 
 #KODIPROP:contentlookup=False
@@ -865,31 +869,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="FILM | HBO & ETV",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="FILM | HBO & ETV", HBO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/210
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1496
-
-#EXTINF:-1 group-title="FILM | HBO & ETV" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/591
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/11492
-
-#EXTINF:-1 group-title="FILM | HBO & ETV" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/592
-
-#EXTINF:-1 group-title="FILM | HBO & ETV" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/873
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1498
-
-#EXTINF:-1 group-title="FILM | HBO & ETV" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png", CINEMAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
