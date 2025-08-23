@@ -7,6 +7,9 @@
 ============================================================================================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="LIVE | Event", tes
+http://playlist123.vercel.app/api/pl
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg" group-title="LIVE | Event"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="LIVE | Event", TIMNAS 1
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
