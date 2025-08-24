@@ -1,6 +1,356 @@
 #EXTM3U billed-msg="DENI TV On August 2025.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/1fPAWxzcpw9LYEFkvOGeuEnZ2sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514021/d5c1a1.jpg",🔴(24 Agt 2025 18:00 WIB) 2025 MXGP of the Netherlands: MX2 - Race 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17141&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17141&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/ONbd8flulFLNEpfbEObGvNV_V-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514014/25a982.jpg",🔴(24 Agt 2025 18:14 WIB) MotoGP Race: MotoGP 2025 Round 14 - Michelin Grand Prix of Hungary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/GOCYX5A0maiRycFgrTFPp01VnBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512889/80aada.jpg",(24 Agt 2025 18:54 WIB) Madura United FC vs PERSITA - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19385&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/TrIlgp3NwOBlHvM-HtfK94BIXHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514020/010284.jpg",(24 Agt 2025 19:00 WIB) 2025 MXGP of the Netherlands: MXGP - Race 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17141&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17141&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/YacGEjeNUCIg5X6vVUpNTc0leog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512890/2f36c8.jpg",(24 Agt 2025 19:10 WIB) Indonesia vs Malaysia - ASEAN U16 Girls' Mandiri Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19406&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19406&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/0UZTHpRkVQuiYiYWTMMkOCIvrRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512849/d39993.jpg",(24 Agt 2025 19:30 WIB) Crystal Palace vs Nottingham Forest - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/QIhF4kyFKtqY8JMaWy8TP3MLkB0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512866/abf4c7.jpg",(24 Agt 2025 20:00 WIB) Everton vs Brighton - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9183&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/EDP78QmfnPgfDi79-ialAtuMhu4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514022/17bc8c.jpg",(24 Agt 2025 21:00 WIB) 2025 MXGP of the Netherlands: MX2 - Race 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17141&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17141&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/UUttNK0JozGQInwml84MnXjpsNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4516130/24d37c.jpg",(24 Agt 2025 21:45 WIB) Ajax vs Heracles - Eredivisie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19436&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19436&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/R1N7yO0lTfI6QtI1CN_0tlTORy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512851/74b416.jpg",(24 Agt 2025 22:00 WIB) Fulham vs Man United - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/nyYWSKbaQ_fyrZVrSMjr644A31Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514012/c87242.jpg",(24 Agt 2025 22:00 WIB) Osasuna vs Valencia - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/2P3vptv-f8RZiPueffnsS1D0RTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514024/6aa06d.jpg",(24 Agt 2025 22:00 WIB) 2025 MXGP of the Netherlands: MXGP - Race 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17141&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17141&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/bzSyM5d9zDTkO_DmrFx7P28zEn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512844/d364c8.jpg",(24 Agt 2025 23:00 WIB) TOUR Championship - Round 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18189&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18189&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/bWYj3DA-Bw38KQPm_jp1X_7iJ6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4518691/7e6b91.jpg",(24 Agt 2025 23:00 WIB) Ben Shelton vs Ignacio Buse - Men' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17139&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17139&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/HOf7OZz8eLKN4qc6ewszhBKnXx0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514312/7a6a1c.jpg",(24 Agt 2025 23:15 WIB) Como vs Lazio - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17938&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/DGnTOthrbDpqeZNlbmfeyWj3NoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520554/f27e92.jpg",(24 Agt 2025 23:15 WIB) Cagliari vs Fiorentina - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/xosti8ndYdlz-VkCKlfzFhn6ozg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514038/a694f2.jpg",(25 Agt 2025 00:30 WIB) Real Sociedad vs Espanyol - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/E4ZGl6nDIL3GfoOqjojcn1b7cNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514039/f215ec.jpg",(25 Agt 2025 00:30 WIB) Villarreal vs Girona - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6317&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6317&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/mVrDmgLoVHps_ndF5yRZ9ju8FcE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4518692/f130d7.jpg",(25 Agt 2025 00:30 WIB) Aryna Sabalenka vs Rebeka Masarova - Women' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17139&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17139&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/EU3GSJ17mwCHjNK1kIkLN89NhWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520558/9abd18.jpg",(25 Agt 2025 00:30 WIB) Emilio Nava vs Taylor Fritz - Men' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/otKs9UFm2YMmF305zjzJbhtTve8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520553/ad68c0.jpg",(25 Agt 2025 01:30 WIB) Atalanta vs Pisa - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/cFDC3lkFymrJO6C3FI0VG0eh38M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520557/1b4c0d.jpg",(25 Agt 2025 01:30 WIB) Juventus vs Parma - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17938&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/Oscgpe5N3ArEkNkE6on-paDGYZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514041/e38666.jpg",(25 Agt 2025 02:30 WIB) Oviedo vs Real Madrid - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/eMKL3WxsYhsERPk3wp8-CmTBkwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520559/f58162.jpg",(25 Agt 2025 06:00 WIB) Destanee Aiava vs Jasmine Paolini - Women' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/6MeDtNIMAmVrOy1CUMuI-mn-jy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520562/49ef68.jpg",(25 Agt 2025 06:00 WIB) Novak Djokovic vs Learner Tien - Men' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17139&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17139&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/TvIAZw6vWMlhOQhIZx5emnRqXzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520560/ad7351.jpg",(25 Agt 2025 07:30 WIB) Daniil Medvedev vs Benjamin Bonzi - Men' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17140&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17140&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/zbTGRy9VUCUYRp-Fhpjiw84QQJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520563/3439e9.jpg",(25 Agt 2025 07:30 WIB) Jessica Pegula vs Mayar Sherif - Women' Singles Round 1 | US Open Tennis Championships 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17139&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=17139&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/MXMfd3CCck-RBE0X9bepTZfOvvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514045/ca149f.jpg",(25 Agt 2025 09:50 WIB) Bulgaria vs Czechia - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/216qyNTdviKnXVG_L7vh6XYIPdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514049/e60911.jpg",(25 Agt 2025 09:50 WIB) Iran vs Canada - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/93k4NXCeQONsZaqer91iMWIkBdA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514042/158113.jpg",(25 Agt 2025 10:00 WIB) Egypt vs Turkey - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/vlYzCnbSX21M11Y3pb9rixEuvMo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514043/e8a1e4.jpg",(25 Agt 2025 13:00 WIB) China vs United States - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/6GTLS67IlWejrwbItka348VR4UE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514046/8b74cf.jpg",(25 Agt 2025 13:00 WIB) Brazil vs Cuba - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/PRtVDYkbfE1UFd67my5qCuNM7js=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514050/7c5b9d.jpg",(25 Agt 2025 13:00 WIB) Poland vs Kazakhstan - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/dU7W7AxNJdeL6xIEQvZsJO09PQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514044/ee6d5c.jpg",(25 Agt 2025 16:00 WIB) Thailand vs Morocco - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/sFp1O0JbIFLaoKe9l6Z8T_dTPug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514047/9abb12.jpg",(25 Agt 2025 16:00 WIB) Colombia vs Japan - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/XSygNfVcQZuZjXSM6q8QRrMq3lQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514051/b46869.jpg",(25 Agt 2025 16:00 WIB) South Korea vs Puerto Rico - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/LazqSU__bYL4whcezS6X_adxhLM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514216/0bd355.jpg",(25 Agt 2025 18:50 WIB) France vs Ukraine - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19347&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19347&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/WSBHkSk_cOCp0FWoDzcpyJtkXx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514048/9c4203.jpg",(25 Agt 2025 19:00 WIB) Argentina vs Indonesia - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19412&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19412&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/kgPKcTvM6o-Bu5gL7s0GKTpG1gs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514052/9b31cc.jpg",(25 Agt 2025 19:00 WIB) Italy vs Tunisia - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/LxtKS0ZvVvAZiROYhWBLfpRZAIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514217/90e640.jpg",(25 Agt 2025 19:20 WIB) Thailand vs Singapore - ASEAN U16 Girls' Mandiri Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19407&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19407&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/ys-WK3Kh01WP_iSv_wty6WF4Cdw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514218/f64a76.jpg",(25 Agt 2025 19:30 WIB) Vietnam vs Myanmar - ASEAN U16 Girls' Mandiri Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19408&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19408&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/vtPjtp4F0kgsaDIjk0pISVMTVyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520564/ed7901.jpg",(25 Agt 2025 23:15 WIB) Udinese vs Verona - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19404&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/sviN6zFwJpCxEDV5u_AVikuQhSg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520817/b25b20.jpg",(26 Agt 2025 00:25 WIB) Athletic Club vs Rayo Vallecano - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/k1AUHBB-GUOxuz5BZP2om35agDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520832/68caad.jpg",(26 Agt 2025 01:30 WIB) Newcastle vs Liverpool - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=9182&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/yYz_f8IaKUkNbqVyMv54djgHmUE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520835/d9fcdc.jpg",(26 Agt 2025 02:30 WIB) Sevilla vs Getafe - LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=6299&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=6299&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/YYJCQftIML-M72uqNh9qFKp731w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520565/7a8832.jpg",(26 Agt 2025 10:00 WIB) Thailand vs Turkey - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/Yx9SYHpfgazbSxUVvIzgd_2qGPA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520570/ffc851.jpg",(26 Agt 2025 10:00 WIB) Iran vs Poland - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/pCu-FMTaFf9L-jDJmlVhA0lFF2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520574/02a5ac.jpg",(26 Agt 2025 10:00 WIB) Czechia vs Japan - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/lqWM7ICUNIXDHRUxCnX3FZ5Rzr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520566/6e85e6.jpg",(26 Agt 2025 13:00 WIB) United States vs Morocco - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/ILyCecWdrrCMyD1qtyvo6qVYf7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520571/7699b9.jpg",(26 Agt 2025 13:00 WIB) Canada vs Puerto Rico - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/xVg18U2mVRrckE1rCp13kkirxiM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520575/3aeeba.jpg",(26 Agt 2025 13:00 WIB) Bulgaria vs Brazil - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/u_aAR6i-qbw2VQ2-kHUgIdIMI7g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520567/c42322.jpg",(26 Agt 2025 16:00 WIB) China vs Egypt - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/E3XmByhVxQQ8wA0Lh5UCnVcxuMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520572/b88c88.jpg",(26 Agt 2025 16:00 WIB) South Korea vs Kazakhstan - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/1OPgK82-EemTsnG2w_TmDSoVk-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520576/89ab64.jpg",(26 Agt 2025 16:00 WIB) Colombia vs Cuba - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/1R0GzKvH0ccrx0M8U4W_LYf_N-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520568/11a093.jpg",(26 Agt 2025 19:00 WIB) France vs Indonesia - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19334&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19334&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/kGwMr4McCGuYsEAaQHDO9P2STqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520573/d4effc.jpg",(26 Agt 2025 19:00 WIB) Italy vs Argentina - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19331&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19331&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/ka3wAMjMbDzb06iGmMaeU-6-c6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4520577/568bab.jpg",(26 Agt 2025 19:00 WIB) Tunisia vs Ukraine - FIVB Men's U21 World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19332&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19332&type=dash
+
+#EXTINF:-1 group-title="VDO LIVE (updated 24 Agt 2025 18:30 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/bUSYxSdb7gMr73gaABUkcRZWV8A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19414/byon-madness-vol-2-b677f3.jpg",(30 Agt 2025 20:40 WIB) BYON Madness 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19414&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19414&type=dash
+
+
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> Live Event
