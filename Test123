@@ -123,45 +123,36 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd 
 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO HD
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
-#EXTINF:-1 tvg-id="HBO FHD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO FHD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png" group-title="1. FIRSTMEDIA",HBO
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Hits HD
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png" group-title="1. FIRSTMEDIA",HBO Hits
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits (FHD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Hits FHD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="1. FIRSTMEDIA",HBO Family 
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Family HD
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="1. FIRSTMEDIA",HBO Signature
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (FHD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Family FHD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Signature HD
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
-
-#EXTINF:-1 tvg-id="HBO Signature (FHD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",HBO Signature FHD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",Cinemax HD
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-
-#EXTINF:-1 tvg-id="CINEMAX (FHD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s" group-title="1. FIRSTMEDIA",Cinemax FHD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="1. FIRSTMEDIA",Cinemax
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #EXTINF:-1 group-title="1. FIRSTMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s",Horee! 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -5509,4 +5500,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TRIAL", GarudaTV
 https://cdn10jtedge.indihometv.com/atm/DASH/garuda/manifest.mpd
+
 
