@@ -31,7 +31,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd 
 
 #EXTINF:-1 group-title="1. FIRSTMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGeSdmHlQ9vXAaRORx9-fhbeCx8_81AnQQ&s",ANTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181 
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd 
@@ -5509,3 +5509,4 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME TRIAL", GarudaTV
 https://cdn10jtedge.indihometv.com/atm/DASH/garuda/manifest.mpd
+
