@@ -3847,7 +3847,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 ============================================================================================================================================================
 
 
-#EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzdx7WKk0B8UOYeaIdDtZvwot91lz21WMF9i7uklL8zQ-NVNgy9M-8f0&s=10", TEST PIALA KEMERDEKAAN
+#EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzdx7WKk0B8UOYeaIdDtZvwot91lz21WMF9i7uklL8zQ-NVNgy9M-8f0&s=10", Event Bola
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=drm
