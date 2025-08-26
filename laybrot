@@ -2846,19 +2846,19 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 ###EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="FILM | HBO & ETV",4. eTvBioskop4
 ##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop4.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",5. eTvBioskop1
+#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",eTvBioskop 1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",6. eTvBioskop2
+#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",eTvBioskop 2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",7. eTvBioskop3
+#EXTINF:-1 tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO & ETV",eTvBioskop 3
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
