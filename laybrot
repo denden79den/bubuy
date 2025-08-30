@@ -15,25 +15,25 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg" group-title="LIVE | VIP Event", Bulu Tangkis 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="LIVE | VIP Event", Bulu Tangkis 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18249&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
 
-#EXTINF:-1 tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg" group-title="LIVE | VIP Event", Bulu Tangkis 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="LIVE | VIP Event", Bulu Tangkis 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18250&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg" group-title="LIVE | VIP Event", Bulu Tangkis 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="LIVE | VIP Event", Bulu Tangkis 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 
-#EXTINF:-1 tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg" group-title="LIVE | VIP Event", Bulu Tangkis 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="LIVE | VIP Event", Bulu Tangkis 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18252&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
