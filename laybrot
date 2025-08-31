@@ -6,6 +6,9 @@
 // Collected by @denitv menampilkan playlist >>> Live Event Vip
 ============================================================================================================================================================
 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="LIVE | VIP Event",ANTV
+http://203.77.246.2:443/udp/239.1.1.104:5000?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="LIVE | VIP Event", Indosiar Superleague
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
