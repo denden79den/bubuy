@@ -6,8 +6,6 @@
 // Collected by @denitv menampilkan playlist >>> Live Event Vip
 ============================================================================================================================================================
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="LIVE | VIP Event",ANTV
-https://list.iptvcat.com/my_list/s/68f33fcc3280065b09ec5557fd696219.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="LIVE | VIP Event", Indosiar Superleague
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
@@ -2463,8 +2461,8 @@ https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="TV | Nasional",10. AnTv
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=782
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="TV | Nasional",11. TvRi
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
