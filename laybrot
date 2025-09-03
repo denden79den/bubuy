@@ -3865,8 +3865,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1
-##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
-http://royalibox.com:80/plcedarkaouishbissm/px6pzjgmf8/1163984
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2
 ##http://zoneuk.club:80/1122334455/6677889900/709261
@@ -3874,6 +3874,8 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS2.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
 http://royalibox.com:80/plcedarkaouishbissm/px6pzjgmf8/1163682
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 FHD
 http://royalibox.com:80/plcedarkaouishbissm/px6pzjgmf8/1163675
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Sport Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS | Astro Sports",MY | Astro Sport Plus
@@ -3881,13 +3883,17 @@ https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSS1.m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+##EXTVLCOPT:http-origin=https://webxzplay.cfd
+##EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+##https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football
-https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+##https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MY | Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="SPORTS | Astro Sports",MY | Astro Cricket
 http://zoneuk.club:80/1122334455/6677889900/709264
