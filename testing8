@@ -1290,13 +1290,15 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="09. FILM | BIOSKOP",ETV Bioskop 1.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+##http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+https://wahyu1ptv.pages.dev/wahyuiptv/ETV-Bioskop-1.m3u8
 
 
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="09. FILM | BIOSKOP",ETV Bioskop 2.2
-https://WahyuIPTV.short.gy/EtvBioskop2
+##https://WahyuIPTV.short.gy/EtvBioskop2
+https://wahyu1ptv.pages.dev/wahyuiptv/ETV-Bioskop-2.m3u8
 
 
 
