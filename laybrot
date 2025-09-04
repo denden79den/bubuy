@@ -4465,8 +4465,6 @@ http://doubleclickstreams.xyz:80/Sammy38/Sammy38/157960
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Pt: Sport TV 5 HD" tvg-logo="" group-title="SPORTS | Super VIP",Sport TV 5 HD
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/157958
 
-
-
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> DSTV Supersports
 ============================================================================================================================================================
@@ -4505,3 +4503,108 @@ http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931503
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931504
 #EXTINF:-1 tvg-id="WWE.za" tvg-name="SuperSport WWE Network FHD" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/WWE.za.png" group-title="SPORTS | DSTV Supersports",SuperSport WWE Network FHD
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931505
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> TES | TESTING
+============================================================================================================================================================
+
+
+#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="TES | TESTING",PL: POLSAT SPORT 1
+http://norkady.top:8080/211704637032001/81704637032046/56005
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="TES | TESTING",PL: POLSAT SPORT 2
+http://norkady.top:8080/211704637032001/81704637032046/23833
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="TES | TESTING",PL: POLSAT SPORT FIGHT
+http://norkady.top:8080/211704637032001/81704637032046/23838
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="TES | TESTING",PL: POLSAT SPORT 3
+http://norkady.top:8080/211704637032001/81704637032046/23839
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM 1
+http://norkady.top:8080/211704637032001/81704637032046/23835
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM 2
+http://norkady.top:8080/211704637032001/81704637032046/23836
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT PREMIUM PPV 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv3.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM PPV 3
+http://norkady.top:8080/211704637032001/81704637032046/23831
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PREMIUM PPV 4" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv4.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM PPV 4
+http://norkady.top:8080/211704637032001/81704637032046/23825
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT PREMIUM PPV 5" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv5.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM PPV 5
+http://norkady.top:8080/211704637032001/81704637032046/23830
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PREMIUM PPV 6" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremiumppv6.png" group-title="TES | TESTING",PL: POLSAT SPORT PREMIUM PPV 6
+http://norkady.top:8080/211704637032001/81704637032046/23829
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="TES | TESTING",RO: DIGI SPORT 1
+http://norkady.top:8080/211704637032001/81704637032046/23854
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="TES | TESTING",RO: DIGI SPORT 2
+http://norkady.top:8080/211704637032001/81704637032046/23853
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="TES | TESTING",RO: DIGI SPORT 3
+http://norkady.top:8080/211704637032001/81704637032046/23851
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="TES | TESTING",RO: DIGI SPORT 4
+http://norkady.top:8080/211704637032001/81704637032046/23852
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="TES | TESTING",MY: Astro SuperSport 1
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453462
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="TES | TESTING",MY: Astro SuperSport 2
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453461
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="TES | TESTING",MY: Astro SuperSport 3
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453460
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="TES | TESTING",MY: Astro SuperSport 4
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453459
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TES | TESTING",ID: RCTI
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419986
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d1de8748c99d6110e28b0729da083257.png" group-title="TES | TESTING",ID: Trans 7
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419980
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="TES | TESTING",ID: Trans TV
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419979
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4334efd13666d82cc3ddea017b680a79.jfif" group-title="TES | TESTING",ID: TV One
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419976
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TES | TESTING",ID: MNC TV
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419996
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="TES | TESTING",ID: Metro TV
+http://srv7099.websitemigliordns.xyz:80/123456/654321/419998
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: iNews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TES | TESTING",ID: iNews
+http://srv7099.websitemigliordns.xyz:80/123456/654321/420007
+
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="TES | TESTING",PL: Polsat Sport
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453302
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab6b2174511b2261698dc982b3123556.png" group-title="TES | TESTING",PL: Polsat Sport Extra
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453301
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport FIGHT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png" group-title="TES | TESTING",PL: Polsat Sport FIGHT
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453300
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a0067670263c42a460b113615cfd80a.png" group-title="TES | TESTING",PL: Polsat Sport News
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453299
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="TES | TESTING",PL: Polsat Sport Premium 1
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453298
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="TES | TESTING",PL: Polsat Sport Premium 2
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453297
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="TES | TESTING",PL: Polsat Sport Premium 3
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453296
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="TES | TESTING",PL: Polsat Sport Premium 4
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453295
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png" group-title="TES | TESTING",PL: Polsat Sport Premium 5
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453294
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png" group-title="TES | TESTING",PL: Polsat Sport Premium 6
+http://srv7099.websitemigliordns.xyz:80/123456/654321/453293
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1 FHD" tvg-logo="" group-title="TES | TESTING",RO: DIGI Sport 1 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555178
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 2 FHD" tvg-logo="" group-title="TES | TESTING",RO: DIGI Sport 2 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555176
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3 FHD" tvg-logo="" group-title="TES | TESTING",RO: Digi Sport 3 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555174
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4 FHD" tvg-logo="" group-title="TES | TESTING",RO: Digi Sport 4 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555172
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 1 FHD" tvg-logo="" group-title="TES | TESTING",RO: Prima Sport 1 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555165
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prime Sport 2 FHD" tvg-logo="" group-title="TES | TESTING",RO: Prime Sport 2 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555164
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prime Sport 3 FHD" tvg-logo="" group-title="TES | TESTING",RO: Prime Sport 3 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555163
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prime Sport 1 FHD" tvg-logo="" group-title="TES | TESTING",RO: Prime Sport 1 FHD
+http://srv7099.websitemigliordns.xyz:80/123456/654321/555162
