@@ -4687,3 +4687,9 @@ http://srv7099.websitemigliordns.xyz:80/123456/654321/555164
 http://srv7099.websitemigliordns.xyz:80/123456/654321/555163
 #EXTINF:-1 tvg-id="" tvg-name="RO: Prime Sport 1 FHD" tvg-logo="" group-title="TES | TESTING",RO: Prime Sport 1 FHD
 http://srv7099.websitemigliordns.xyz:80/123456/654321/555162
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1024px-SCTV_Logo.svg.png" group-title="TES | TESTING",🏡🌠SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://cdn08jtedge.indihometv.com/dassdvr/SCTVHD/mpd/SCTVHD.mpd
