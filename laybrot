@@ -2708,6 +2708,15 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop3.m3u8
 #EXTINF:-1 group-title="FILM | HBO & ETV" tvg-logo="https://cityofeagan.com/images/Logos/ETV_2C.jpg", ETV Bioskop 4 Backup
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop4.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FILM | HBO & ETV",🏡🌠ID: Etv Bioskop 01🌠🏡
+https://my.bhianesse.xyz/A1/kontol3/302240
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FILM | HBO & ETV",🏡🌠ID: ETV BIOSKOP 02🌠🏡
+https://my.bhianesse.xyz/A1/kontol3/501242
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FILM | HBO & ETV",🏡🌠ID: ETV BIOSKOP 03🌠🏡
+https://my.bhianesse.xyz/A1/kontol3/501243
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FILM | HBO & ETV",🏡🌠ID: Etv Bioskop 04🌠🏡
+https://my.bhianesse.xyz/A1/kontol3/302243
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
