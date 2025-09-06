@@ -949,12 +949,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png" group-title="TV | Pengetahuan",BBC Earth (v+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png" group-title="TV | Pengetahuan",CGTN Doc (v+)
