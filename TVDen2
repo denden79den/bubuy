@@ -881,12 +881,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 #EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg" group-title="TV | Pengetahuan", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png" group-title="TV | Pengetahuan", History
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
-
 #EXTINF:-1 group-title="TV | Pengetahuan" tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png",Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 group-title="TV | Pengetahuan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_461.png",BBC Earth
@@ -904,7 +898,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="TV | Pengetahuan" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERY_2025_03_17_15_36_07.png",Discovery Channel
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
@@ -1002,7 +995,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6858ee73728018f052
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1127,7 +1119,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="TV | Entertainment",TV5 Monde Style (DensTV)
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
