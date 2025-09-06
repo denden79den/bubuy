@@ -311,20 +311,6 @@ https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02 
 https://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-id="Showcase" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="FILM | Box Office", Astro Showcase     
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5054/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="AstroBoo" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="FILM | Box Office",ASTRO BOO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2407/default_ott.mpd
-
-
 
 #EXTINF:-1 group-title="FILM | Box Office" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
