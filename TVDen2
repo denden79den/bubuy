@@ -1672,16 +1672,16 @@ http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115669.m3u
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT  PREMIUM 2
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115670.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 FHD" tvg-logo="" group-title="SPORTS | Vip 1",Digi Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 FHD" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="SPORTS | Vip 1",Digi Sport 1
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/141915.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 FHD" tvg-logo="" group-title="SPORTS | Vip 1",Digi Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 FHD" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="SPORTS | Vip 1",Digi Sport 2
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/141917.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 FHD" tvg-logo="" group-title="SPORTS | Vip 1",Digi Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 FHD" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="SPORTS | Vip 1",Digi Sport 3
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/141919.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4 FHD" tvg-logo="" group-title="SPORTS | Vip 1",Digi Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4 FHD" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="SPORTS | Vip 1",Digi Sport 4
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/141921.m3u
 
 #EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE: PLAY SPORTS 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports1.png" group-title="SPORTS | Vip 1", PLAY SPORTS 1 HD
