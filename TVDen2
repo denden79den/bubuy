@@ -1667,9 +1667,9 @@ http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115675.m3u
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 3 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 3
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115667.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT PREMIUM 1
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT PREMIUM 1
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115669.m3u
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT  PREMIUM 2
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT  PREMIUM 2
 http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/115670.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 FHD" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="SPORTS | Vip 1",Digi Sport 1
@@ -1690,7 +1690,7 @@ http://worldviptv.online:8080/Abbeschaib/xiYnPdjCgm/221729
 http://worldviptv.online:8080/Abbeschaib/xiYnPdjCgm/221730
 #EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE: PLAY SPORTS 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports3.png" group-title="SPORTS | Vip 1", PLAY SPORTS 3 HD
 http://worldviptv.online:8080/Abbeschaib/xiYnPdjCgm/485250
-#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports4.png" group-title="group-title="SPORTS | Vip 1", PLAY SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports4.png" group-title="SPORTS | Vip 1", PLAY SPORTS 4 HD
 http://worldviptv.online:8080/Abbeschaib/xiYnPdjCgm/542134
 
 
