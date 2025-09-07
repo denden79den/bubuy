@@ -1533,7 +1533,9 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699803
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699804
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports",MY | WWE Network
-https://ott.udptv.xyz/stream/astro/wwe/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | Astro Sports",MY | SkyNet Golf
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699826
@@ -1775,6 +1777,65 @@ http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/389
 http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/390
 #EXTINF:-1 tvg-id="TF1" tvg-name="RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="SPORTS | Vip 1",RMC SPORT 4
 http://vipgerretger.top:8080/VIP0191169590311424/51695903114889/391
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsn4wz1643206149.png" group-title="SPORTS | Vip 1", ARENA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227249.ts
+
+#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="SPORTS | Vip 1" tvg-id="001" tvg-name="",  ARENA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227254.ts
+
+#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yjqg7l1643205550.png" group-title="SPORTS | Vip 1" tvg-id="001" tvg-name="",  ARENA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+#https://bintangstreaming.my.id/forsat23/pro.php?id=434
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227256.ts
+
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="SPORTS | Vip 1", ARENA SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227251.ts
+
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="SPORTS | Vip 1", ARENA SPORT PREMIUM 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+#https://bintangstreaming.my.id/forsat23/pro.php?id=135
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227252.ts
+
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS | Vip 1",Portugal- SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156952.ts
+
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORTS | Vip 1",Portugal- Sport TV 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156954.ts
+
+#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS | Vip 1",Portugal- Sport TV 3
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156955.ts
+
+#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORTS | Vip 1",Portugal- Sport TV 4
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156956.ts
+
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORTS | Vip 1",Portugal- Sport TV 5
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156957.ts
+
+#EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS | Vip 1", Sport Klub 1 SR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227267.ts
+
+#EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="SPORTS | Vip 1", Sport Klub 2 SR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227269.ts
+
+#EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="SPORTS | Vip 1", Sport Klub 3 SR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227271.ts
+
 
 #EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE: PLAY SPORTS 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports1.png" group-title="SPORTS | Vip 1", PLAY SPORTS 1 HD
 http://worldviptv.online:8080/Abbeschaib/xiYnPdjCgm/221729
