@@ -1818,6 +1818,14 @@ http://103.179.182.117:6768/hls/50/50.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Vip 1",TVRI SPORTS
+http://103.179.182.117:6768/hls/49/49.m3u8
+
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Vip 1",FIGHT SPORTS
 http://103.179.182.117:6768/hls/16/16.m3u8
 
@@ -1826,10 +1834,8 @@ http://103.179.182.117:6768/hls/16/16.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Vip 1",TVRI SPORTS
-http://103.179.182.117:6768/hls/49/49.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Vip 1",SPOTV 1
+http://103.179.182.117:6768/hls/15/15.m3u8
 
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
