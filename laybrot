@@ -1048,6 +1048,27 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV | Musik" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS
 https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
+#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 1
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/13/13.m3u8
+
+#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 2
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/17/17.m3u8
+
+#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 3
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/18/18.m3u8
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> DOCUMENTARY TV
