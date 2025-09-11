@@ -2235,11 +2235,9 @@ https://vidd.semar.my.id/koneksi.php?id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 
-
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> EVENT | LIGA INGGRIS
 ============================================================================================================================================================
-
 
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/352x34:3189x1852/x/photo/2022/02/24/1331208461.jpg" group-title="EVENT | LIGA INGGRIS"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | LIGA INGGRIS", EPL 1
@@ -2285,7 +2283,25 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
 
 
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> EVENT | LIGA INDONESIA
+============================================================================================================================================================
 
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10" group-title="group-title="EVENT | LIGA INDONESIA", LIGA BRI SUPER LEAGUE
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=205&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=205&type=dash
+
+#EXTINF:-1 group-title="EVENT | LIGA INDONESIA" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 
 
