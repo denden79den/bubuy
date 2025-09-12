@@ -2310,7 +2310,9 @@ https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/56/56.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indinesia", TIMNAS 1
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indinesia", TIMNAS 2
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas2.m3u8
 
 
