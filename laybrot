@@ -1758,7 +1758,12 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699757
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadmintonB.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699792
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699792
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/62/62.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 1
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699802
