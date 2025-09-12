@@ -2235,7 +2235,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="AVC live #02" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="EVENT | VOLLY VNL"
+#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="AVC live #02" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="EVENT | VOLLY VNL", Volly Filiphine
 https://my.bhianesse.xyz/A1/v1/out/u/pl_sdi2.mpd
 
 
