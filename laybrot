@@ -1796,51 +1796,31 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-name="beIN SPORTS 1 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 1 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119324.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88580
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 2 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119326.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88582
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 3 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119328.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88584
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 4 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119330.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88586
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 5 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119332.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88588
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 6 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119334.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88590
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS 7 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119336.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="SPORTS | BeinSport",beIN SPORTS 8 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119338.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="SPORTS | BeinSport",beIN SPORTS 9 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119340.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS EXTRA 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS EXTRA 1 HD
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/117706.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS EXTRA 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS EXTRA 2 HD
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/117708.m3u
-
-#EXTINF:-1 tvg-id="logos-_beINSPORTSXTRA3_EN.bein" tvg-name="BEINSPORTS EXTRA 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA3_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS EXTRA 3 HD
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/119972.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88592
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 1 EN 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS 1 EN 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/142147.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88594
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 2 EN 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS 2 EN 4K
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/142148.m3u
-
-#EXTINF:-1 tvg-id="beINSports NEWS" tvg-name="beIN SPORTS LA LIGA HD" tvg-logo="https://i.pinimg.com/originals/a3/19/4a/a3194a63e709bab493938f9e1761327b.png" group-title="SPORTS | BeinSport",beIN SPORTS LA LIGA HD
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/71962.m3u
-#EXTINF:-1 tvg-id="NBA_DIGITAL_Mono_EN.bein" tvg-name="beIN SPORTS NBA HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png" group-title="SPORTS | BeinSport",beIN SPORTS NBA HD
-http://mu10.dyncdn.ovh:2095/live/raouf45/346544554523/52120.m3u
+http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88595
 
 
 ============================================================================================================================================================
