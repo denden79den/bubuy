@@ -1848,7 +1848,7 @@ http://103.179.182.117:6768/hls/50/50.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Vip 1",TVRI SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS | Vip 1",TVRI SPORTS
 http://103.179.182.117:6768/hls/49/49.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
