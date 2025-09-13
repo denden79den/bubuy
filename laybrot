@@ -1822,6 +1822,10 @@ http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88594
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 2 EN 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="SPORTS | BeinSport",BEINSPORTS 2 EN 4K
 http://gunslingertv.org:8080/K1uWWBmaxJ/Xa1TFucw91/88595
 
+#EXTINF:-1 group-title="SPORTS | BeinSport" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> SPORTS VIP 1
