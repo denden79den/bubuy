@@ -2309,7 +2309,7 @@ https://my.bhianesse.xyz/A1/v1/out/u/pl_sdi2.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="http://zamlb.co.uk:80/images/0MiIm5awJBS5Tm7uRVO4_5hOpzcFnqvnB0Gg8d_92qSIb0O6cGQJ1xU3vRDkudUuuKhwY4C8u4uebO302FbjdLIu4QCCVaRFSzqcqMBYKAiU6BZ4WjXpTMlHfPPlW59FFNw8quGSguYpWLW402ud7Q.png" group-title="EVENT | LIGA INGGRIS", EPL 1
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | LIGA INGGRIS", EPL 1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | LIGA INGGRIS", EPL 2
