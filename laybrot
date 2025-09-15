@@ -1769,9 +1769,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19334&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
@@ -1781,9 +1778,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=dash
@@ -1793,9 +1787,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
@@ -1805,13 +1796,9 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18253&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18253&type=dash
-
 
 #EXTINF:-1 group-title="SPORTS | Vidio 2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_LES_lV1GnQYtUFu6fvS_VxYebemPj48yYNQnTO5gZ_PUZzCdX64f51b&s=10", BEIN 1 F1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1823,7 +1810,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17884&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
@@ -1839,7 +1825,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
@@ -1848,7 +1833,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
@@ -1857,7 +1841,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6317&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=dash
@@ -1866,7 +1849,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
@@ -1875,7 +1857,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18189&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18189&type=dash
@@ -1885,9 +1866,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18189&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18190&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18190&type=dash
@@ -1897,9 +1875,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18190&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=dash
@@ -1909,9 +1884,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=dash
@@ -1921,20 +1893,15 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
-
 
 #EXTINF:-1 group-title="SPORTS | Vidio 2"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
@@ -1944,8 +1911,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=dash
@@ -1955,8 +1920,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
@@ -1966,8 +1929,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
@@ -1976,7 +1937,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17638&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17638&type=dash
@@ -1985,7 +1945,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17638&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17639&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17639&type=dash
@@ -1994,7 +1953,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17639&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17882&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17882&type=dash
@@ -2003,7 +1961,6 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17882&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6717&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6717&type=dash
@@ -2012,16 +1969,17 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6717&type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9353&type=drm 
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9353&type=dash
 
 #EXTINF:-1 group-title="SPORTS | Vidio 2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi5H_lYVRSDFq8HTycszWJZ1Y1ZaKQ6hUtYkqw_HwToTFBqzxgrwHLwJv&s=10", LIVOLI 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19488&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19488&type=dash
 
 
 ============================================================================================================================================================
