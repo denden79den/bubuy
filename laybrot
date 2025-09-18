@@ -1798,22 +1798,22 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 ##http://vocotv.pro:80/tatum/tatum/288371
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 1 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 1
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700164
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 1 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 1
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700164
 ##https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Polsat1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 2 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 2
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700165
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 2 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 2
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700165
 ##https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Polsat2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 3 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 3
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700167
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT FIGHT
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700166
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 3 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 3
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700167
+##EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT FIGHT
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700166
 
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT PREMIUM 1
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700168
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 1 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT PREMIUM 1
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700168
 ##https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT  PREMIUM 2
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700170
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT PREMIUM 2 FHD" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORTS | Vip 1",POLSAT  PREMIUM 2
+##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/700170
 ##https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium2.m3u8
 
 
@@ -1823,8 +1823,8 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 2 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="SPORTS | Vip 1",POLSAT SPORT 2 HD
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 3 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="SPORTS | Vip 1",POLSAT SPORT 3 HD
-http://goldenpro.xyz:80/miyem2026/RV1G544/1275734
+##EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 3 HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat sport.png" group-title="SPORTS | Vip 1",POLSAT SPORT 3 HD
+##http://goldenpro.xyz:80/miyem2026/RV1G544/1275734
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="SPORTS | Vip 1", DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
