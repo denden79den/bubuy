@@ -2337,7 +2337,7 @@ http://goldenpro.xyz/miyem2026/RV1G544/438874
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="SPORTS | Vip 1",VNL 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL",VNL 1
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
