@@ -2010,14 +2010,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OvSrHURyB3qMHc-H8MzEoXexsDuNLmyyTQ&s" group-title="SPORTS | Vip 1",MOJI TV HD
-http://103.179.182.117:6768/hls/50/50.m3u8
-
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS | Vip 1",TVRI SPORTS
 http://103.179.182.117:6768/hls/49/49.m3u8
 
@@ -2440,7 +2432,15 @@ http://goldenpro.xyz/miyem2026/RV1G544/438874
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL",VNL 1
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", MOJI VOLI
+http://103.179.182.117:6768/hls/50/50.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VOLI TV
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -2448,13 +2448,13 @@ http://goldenpro.xyz/miyem2026/RV1G544/438874
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://103.179.182.117:6768/hls/2/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 1
 ##https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL7.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 2
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0pvi62jha0ON7goXOwplD9w5d8fOreUzbCCM_q_Wl7bb24BqWnl-7H1l&s=10" group-title="EVENT | VOLLY VNL", VNL 3
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL10.m3u8
 
 #EXTINF:-1 group-title="EVENT | VOLLY VNL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi5H_lYVRSDFq8HTycszWJZ1Y1ZaKQ6hUtYkqw_HwToTFBqzxgrwHLwJv&s=10", LIVOLI 1
