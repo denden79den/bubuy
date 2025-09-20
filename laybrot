@@ -2302,6 +2302,13 @@ http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277315.m3u8
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277316.m3u8
 ##https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Digisport4.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRatSLZVx8VHrqTlSCELnvlQ48AaF1s8XCQ&s" group-title="SPORTS | Vip 1", DIEMA SPORT 1
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Diema1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk32woNXnXazFCpBwWjuqHwWwcO9hRD_CizOv82bz6xa1D7yEawWRKM6p6bGWRYiaZkGI&usqp=CAU" group-title="SPORTS | Vip 1", DIEMA SPORT 2
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Diema2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQof_QSNpfRmNBbfeaI-ty2Uid-7Xk98HmOrIjUmC1Ggn32IdjWZr_gU7YmdxF-eGMqNok&usqp=CAU" group-title="SPORTS | Vip 1", DIEMA SPORT 3
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Diema3.m3u8
+
 #EXTINF:-1  tvg-logo="https://go4.pw/AMERICA/USA/fubo-sports.png" group-title="SPORTS | Vip 1", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
