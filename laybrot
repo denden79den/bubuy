@@ -286,6 +286,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=dash
 
+#EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true", Moji Live Sport 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true", TRANS TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
