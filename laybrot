@@ -2362,25 +2362,36 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227251.ts
 #https://bintangstreaming.my.id/forsat23/pro.php?id=135
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227252.ts
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS | Vip 1",SPORT TV 1 HD
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156952.ts
-
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORTS | Vip 1",Sport TV 2
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156954.ts
-
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS | Vip 1",Sport TV 3
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156955.ts
-
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORTS | Vip 1",Sport TV 4
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156956.ts
-
-#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORTS | Vip 1",Sport TV 5
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156957.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="SPORTS | Vip 1",PT: ELEVEN 1
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99475
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="SPORTS | Vip 1",PT: ELEVEN 2
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99476
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="SPORTS | Vip 1",PT: ELEVEN 3
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99477
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="SPORTS | Vip 1",PT: ELEVEN 4
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99478
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport5.png" group-title="SPORTS | Vip 1",PT: ELEVEN 5
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99479
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport6.png" group-title="SPORTS | Vip 1",PT: ELEVEN 6
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99480
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="SPORTS | Vip 1",PT: EUROSPORT 1
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99481
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="SPORTS | Vip 1",PT: EUROSPORT 2
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99482
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="SPORTS | Vip 1",PT: SPORT TV +
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99483
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="SPORTS | Vip 1",PT: SPORT TV 1
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99484
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="SPORTS | Vip 1",PT: SPORT TV 2
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99485
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="SPORTS | Vip 1",PT: SPORT TV 3
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="SPORTS | Vip 1",PT: SPORT TV 4
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99487
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="SPORTS | Vip 1",PT: SPORT TV 5
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99488
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="SPORTS | Vip 1",PT: SPORT TV 6
+http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/99489
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS | Vip 1", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
