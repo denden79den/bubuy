@@ -275,18 +275,6 @@ https://spacetv.my.id/index.mpd?id=19354&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true", Moji Live Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=dash
-
-#EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true", Moji Live Sport 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
