@@ -2207,39 +2207,6 @@ http://103.179.182.117:6768/hls/21/21.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 http://103.179.182.117:6768/hls/94/94.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS | Vip 1", UK: SKY SPORTS MAIN EVENT
-http://1tv41.icu:8080/live/43761449506/smallwood/35243.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS | Vip 1", UK: SKY SPORTS PREMIER LEAGUE
-https://a1xs.vip/2000002
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS | Vip 1", UK: SKY SPORTS FOOTBALL
-https://a1xs.vip/2000003
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://a1xs.vip/2000005
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS | Vip 1", SUPERSPORT PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/51vk0ol0f0zo1falb559o/supersport-premier-league.m3u8?rlkey=m5fxkwayzm3a1vtdc0vc9p913&st=gc1udhg6
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS | Vip 1", SUPERSPORT FOOTBALL
-https://dl.dropboxusercontent.com/scl/fi/13pfox5ze8vmkdjpi13zj/supersport-football.m3u8?rlkey=fn1d2xsbkwjgibm2p721iljsp&st=ai9zxlbk
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS | Vip 1", SUPERSPORT LALIGA
-https://dl.dropboxusercontent.com/scl/fi/m66tepegfonq6q289syyt/supersport-laliga.m3u8?rlkey=1zbiq4m9npwpj84eprwpjbc3a&st=qknkt699
-
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORTS | Vip 1",SONY TEN 1 FHD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
