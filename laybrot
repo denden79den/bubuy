@@ -2580,6 +2580,9 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/eepl13.m3u8
 
 #EXTINF:-1 group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="EVENT | LALIGA"
 
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="EVENT | LALIGA", Now Sport Laliga
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport2.m3u8
+
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name=" DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="EVENT | LALIGA", DAZN LALIGA 1
 http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/97138
 
