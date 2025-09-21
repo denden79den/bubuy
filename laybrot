@@ -953,6 +953,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 group-title="TV | Kids Cartoon" tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png",Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/cartoonito.jpg?raw=true" group-title="TV | Kids Cartoon", Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+http://103.179.182.117:6768/hls/6/6.m3u8
+
 #EXTINF:-1 group-title="TV | Kids Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-D9sV_4ckaZvzVZu6VX43db-_ZQ0IrVUOeg&s",CBeebies
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
