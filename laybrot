@@ -304,18 +304,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true", TRANS TV
-##EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=733&type=drm
-##https://spacetv.my.id/index.mpd?id=733&type=
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://nextgenz.my.id/event/pidio/play.m3u8?id=733&type=hls
-
+http://iptv.kilas7.com:80/kaukia/asdfrewq/3
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true", TRANS TV FMX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -324,10 +313,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=733&type=hls
 https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true", Trans7
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=734&type=drm
-https://spacetv.my.id/index.mpd?id=734&type=dash
+http://iptv.kilas7.com:80/kaukia/asdfrewq/4
 
 #EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true", Trans7 FMX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
