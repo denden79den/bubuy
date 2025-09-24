@@ -2190,7 +2190,47 @@ http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa
 
 #EXTINF:-1 tvg-name="Unifi Sports " tvg-id="unifiSports.my" group-title="SPORTS | Go Astro" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports 1
 
+=============================================================================================
 
+
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgvZr-9rfbjeae3S72M73iJxmJxkbiNdiZDyJCA8JR2mvmT_oVg4dKCSfF5CVVxY1c1LSkUE8XoAOQE0R4yIL8I.png" group-title="SPORTS | Go Astro",ASTRO SPORTS UHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903795&extension=ts&play_token=gpyu9x0s7w
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgGoxM29rr7zBxIx9oEgNxKXehIKMRp4CMDiBolNFrMx57BDww5byn0zVScybupbQda5h57lU15LU2BkHOCRw1M.png" group-title="SPORTS | Go Astro",ASTRO ARENA
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903794&extension=ts&play_token=IsYWYx1cy7
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvosECzN4jYQhkLOCeBheuyJfOJkuq9RPRunI8aK2cKm3ZWSuepNrhfDxTZNpgSiN_O3_P5ZqQeySd6ZtlqX6X-w.png" group-title="SPORTS | Go Astro",ASTRO ARENA 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903793&extension=ts&play_token=huWpAmWlwP
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvl0x5x9Oq6GLNTNMBmXWx-Z1V4cHWwH2nBOPSK5KgYbvnVcw-blq2BHvbx8v3FLmjqN1tYknZYMHQsj_RZ4UJug.png" group-title="SPORTS | Go Astro",ASTRO BADMINTON
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903792&extension=ts&play_token=9wXH2RRy6r
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvs_742IGCZnWNvKTitxjMBTWMzTvqwoj2RiS6oG0CKEjhFWG1yKcU8NFiLsPQyR9ZNgKkujCNjagEbqZ39KblBQ.png" group-title="SPORTS | Go Astro",ASTRO CRICKET
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903791&extension=ts&play_token=i2AvFZg01o
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgviGR8ybZ0Yk7dP5_kvBBXDTbGDWpJj8Bycxcyw9nhi9cxApg40lOKHWXlbYjjplhEk8tmJJzAsfBE0uGQn7F2II.png" group-title="SPORTS | Go Astro",ASTRO FOOTBALL
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903790&extension=ts&play_token=UX8AdWorM4
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgnPcB0gVTTE4Mwj27_1ydChdvCmjQHHqF3Z-y5drslAIEzYCMv37X51ek6Gf_sKCeH1Ght6bahoZj1q_w59PPE.png" group-title="SPORTS | Go Astro",ASTRO PREMIER LEAGUE
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903789&extension=ts&play_token=2EHdBy0jIw
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgnPcB0gVTTE4Mwj27_1ydDn00lEyxIH2hQLnaxfgAhCMU8Em4BtWKvpPzybzYnJFjvBqWUR0JIffu2637WjqkE.png" group-title="SPORTS | Go Astro",ASTRO PREMIER LEAGUE 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903788&extension=ts&play_token=AcEQKmVEbQ
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgnPcB0gVTTE4Mwj27_1ydDNim5EbXQcjIXhdoeg8NjX1955loxe4aGug8ZG4pfOZ3av4peUzShtQ1WP34a3HRY.png" group-title="SPORTS | Go Astro",ASTRO PREMIER LEAGUE 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903787&extension=ts&play_token=VmVsF4fuPm
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgnPcB0gVTTE4Mwj27_1ydA6qwHrhRVc4bdrDG-w7LcVD49oFPXEFAFi58rvFcYo0nTXitcpkk3KeDqFV6IX1qI.png" group-title="SPORTS | Go Astro",ASTRO PREMIER LEAGUE 4
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903786&extension=ts&play_token=FTFWZwRuzI
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgnPcB0gVTTE4Mwj27_1ydB9kM1bGp0Ioa7tDlloS5NMfU4Cnhxm7CV90NF5ChXqOJ6ITYqJkLZkhOEWWRKjwPk.png" group-title="SPORTS | Go Astro",ASTRO PREMIER LEAGUE 5
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903785&extension=ts&play_token=Kq6fcHVnjS
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvvMhbkyHvQU5PjMHxPPyQr_GmjBZer8KUZcnLVYtlJ7WIgnu-3GOhhESVTuSVWksZ_AFfkxTwJfcoCDQtmcU9WI.png" group-title="SPORTS | Go Astro",ASTRO SPORTS PLUS
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903784&extension=ts&play_token=IK39BnGlAE
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvn6Gm0wVk3QxRihUfjzcbky6PUQ8A2jFRAZ5tO90bELVaQ731jJf_vCIGHbzjTg4Vsa2I2EEnrejSbGf4jJo8bE.png" group-title="SPORTS | Go Astro",BEIN SPORTS
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903783&extension=ts&play_token=5Dkt8En8E3
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvhTnz97-OJk7lgMYg0Pbjvqh3DMKFeV2oghHIyFu0zV4nHgyFOTSU65HmhRJztksqXUeb7ngHwHpNjfl-JC4Mjg.png" group-title="SPORTS | Go Astro",BEIN SPORTS 2
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903782&extension=ts&play_token=PdW4r8JZVs
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvkD3Fit9roaB7FBE26OdDVL4zSDL1CNjAG31E2CzNmQs2on2yfDKy9S17NRORVxSs8_V5rwtKBMDPY3nbwEn5no.png" group-title="SPORTS | Go Astro",BEIN SPORTS 3
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903781&extension=ts&play_token=5epK3VPnFB
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgxvV3WfmkZn8_rlMCc-91djZXvsbVOukjiHDe4p0duFQAYQuEaEJUwel9N-o_lCWjZE7J6tEXqlBSJ8JHfJWJ0.png" group-title="SPORTS | Go Astro",GOLF CHANNEL
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903780&extension=ts&play_token=wb7R9rISAz
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvoAF70Ee4oeMQaxUnZytVOLsvP-82AvTrqavmrRjdergyFJoEBBenFbJyeKoLXFiEzerkPuZ2XRAg8MJZzVngcA.png" group-title="SPORTS | Go Astro",PREMIER SPORTS
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903779&extension=ts&play_token=hZ3IjFrUWu
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvpDTpQAXe4KdiNqI8iVZV4rR2JPQg3d33S0IrjpnR7y7LCR9HdcitpkKHRZEO4Xq99BPT54BsAXFqsyXtF00ry4.png" group-title="SPORTS | Go Astro",SPOTV
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903778&extension=ts&play_token=3ibWFEoDny
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvgB4hhSOrFwLJdHndQuGVECUOBYEN1VrLO2hy7qUUWCUZ0tSVayZSiTftzzYdgEAtTT4X_EG4dm7dx5fULP99vk.png" group-title="SPORTS | Go Astro",W-SPORT CHANNEL
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B2:2F:23&stream=1903777&extension=ts&play_token=zJqB7kZcn1
 
 
 ============================================================================================================================================================
