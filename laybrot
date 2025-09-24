@@ -2526,6 +2526,21 @@ http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/3142
 #EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE: PLAY SPORTS 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/playSports3.png" group-title="SPORTS | Vip 1", PLAY SPORTS 3 HD
 http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/3143
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a8/9e/c5/a89ec5a7758e53c05c242d442b4daf09.jpg" group-title="SPORTS | Vip 1",PREMIER 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a8/9e/c5/a89ec5a7758e53c05c242d442b4daf09.jpg" group-title="SPORTS | Vip 1",PREMIER 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a8/9e/c5/a89ec5a7758e53c05c242d442b4daf09.jpg" group-title="SPORTS | Vip 1",PREMIER 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> SPORTS VIP 2
