@@ -2151,7 +2151,7 @@ http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd1236
 http://mains.services/live/pmf0423/1aku0jt%40/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
-ttp://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4a.ts
+http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4a.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD
 
@@ -2187,7 +2187,7 @@ ttp://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4
 
 #EXTINF:-1 tvg-id="SPOTV2" ch-number="" tvg-name="SPOTV2" group-title="SPORTS | Go Astro" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png",SPOTV2
 
-#EXTINF: -1 tvg-id="W-Sport" group-title="SPORTS | Go Astro" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" ch-number="" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport
+#EXTINF: -1 tvg-id="W-Sport" group-title="SPORTS | Go Astro" ch-number="" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport
 
 #EXTINF:-1 tvg-id="GolfChannel" ch-number="" tvg-name="Golf Channel HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="SPORTS | Go Astro",NBC Golf 
 
