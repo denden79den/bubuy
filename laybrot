@@ -2124,9 +2124,13 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 ============================================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena 1 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://dl.dropboxusercontent.com/scl/fi/xop2e8f1yljldiacphfyv/ASTROARENA1.m3u8?rlkey=3snl11dzdpn8u8kvsg8i9h2n2&st=8iy7jt0h
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://dl.dropboxusercontent.com/scl/fi/o7btfcfb3dpaap68pe4g3/ASTROARENA2.m3u8?rlkey=f2otd4u0643lkq76zvwz1xjgx&st=auauq5dn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
 
