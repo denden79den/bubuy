@@ -10,10 +10,11 @@
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444146
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/gtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
