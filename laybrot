@@ -1259,7 +1259,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
 ============================================================================================================================================================
-// Collected by @DenTV menampilkan playlist >>> 10. TV Musik
+// Collected by @DenTV menampilkan playlist >>> TV Musik
 ============================================================================================================================================================
 
 #EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Xjjxf3F/musictv.png" group-title="TV | Musik",MUSIC TV
@@ -1355,33 +1355,240 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV | Musik" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS
 https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
-#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 1
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/13/13.m3u8
 
-#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 2
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/17/17.m3u8
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> Tv News
+============================================================================================================================================================
 
-#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 3
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/18/18.m3u8
 
-#EXTINF:-1 group-title="TV | Musik" tvg-logo="", Music Indo 4
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/93/93.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/cnn.jpg?raw=true" group-title="TV | News",CNN INT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+#http://103.179.182.117:6768/hls/60/60.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/foxnews.jpg?raw=true" group-title="TV | News",FOX NEWS
+https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/bbcnews.jpg?raw=true" group-title="TV | News",BBC NEWS
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/dw.jpg?raw=true" group-title="TV | News",DW ENGLISH
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/france24.jpg?raw=true" group-title="TV | News",FRANCE24
+https://atemeshield1-voe.sysln.id/live/eds/France24/mpd/France24.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/trtworld.jpg?raw=true" group-title="TV | News",TRT WORLD
+https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/aljazeeraeng.jpg?raw=true" group-title="TV | News",ALJAZEERA ENGLISH
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Al Jazeera Arabic.id" tvg-name="Al Jazeera Arabic.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/aljazeera.jpg?raw=true" group-title="TV | News",ALJAZEERA ARAB
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=023eb9bda4064967b74730834f5e022e:5af44730eaf2754f62199d7b86053709
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="RT English" tvg-name="RT English" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/rteng.jpg?raw=true" group-title="TV | News",RT ENGLISH
+https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mpd/RussiaTodayHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mpd/RussiaTodayHD.mpd
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/euronews.jpg?raw=true" group-title="TV | News",EURONEWS
+https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/cna.jpg?raw=true" group-title="TV | News",CNA
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/cgtn.jpg?raw=true" group-title="TV | News",CGTN
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/wion.jpg?raw=true" group-title="TV | News",WION
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=lite&chname=WION
+
+#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/cnbcasia.jpg?raw=true" group-title="TV | News",CNBC ASIA
+##https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+#http://103.179.182.117:6768/hls/58/58.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/bloomberg.jpg?raw=true" group-title="TV | News",BLOOMBERG
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/idx.jpg?raw=true" group-title="TV | News",IDX
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/jakartaglobe.jpg?raw=true" group-title="TV | News",JAKARTA GLOBE CHANNEL
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+
+
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> TV MUSLIM
+============================================================================================================================================================
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TV9 NU.id" tvg-name="TV9 NU.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/tv9.jpg?raw=true" group-title="TV | Muslim",TV9
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+#http://103.179.182.117:6768/hls/77/77.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
+#EXTINF:-1 tvg-id="DMITV.id" tvg-name="DMI TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/dmitv.jpg?raw=true" group-title="TV | Muslim",DMI TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Muhammadiyah TV.id" tvg-name="Muhammadiyah TV.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/tvmu.jpg?raw=true" group-title="TV | Muslim",TVMU
+https://fta1-cdn-flr.visionplus.id/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+#http://103.179.182.117:6768/hls/78/78.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=137
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/muslimtv.jpg?raw=true" group-title="TV | Muslim",MUSLIM TV
+##https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/citramuslim.jpg?raw=true" group-title="TV | Muslim",CITRA MUSLIM
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
+#EXTINF:-1 tvg-id="Tawaf TV.id" tvg-name="Tawaf TV.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/tawaftv.jpg?raw=true" group-title="TV | Muslim",TAWAF TV
+##https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MUI TV.id" tvg-name="MUI TV.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/muitv.jpg?raw=true" group-title="TV | Muslim",MUITV
+https://mui.siar.us/mui/live/playlist.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#http://103.179.182.117:6768/hls/79/79.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MQTV" tvg-name="MQTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/mqtv.jpg?raw=true" group-title="TV | Muslim",MQTV
+https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
+#http://103.179.182.117:6768/hls/82/82.m3u8
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/alqurankareem.jpg?raw=true" group-title="TV | Muslim",AL QURAN KAREEM
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+#http://103.179.182.117:6768/hls/80/80.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="SunnaTV.id" tvg-name="Sunna TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/sunnatv.jpg?raw=true" group-title="TV | Muslim",SUNNA TV
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="pijar.id" tvg-name="pijar" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/pijartv.jpg?raw=true" group-title="TV | Muslim",PIJAR TV
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Khazanah.id" tvg-name="Khazanah" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/khazanah.jpg?raw=true" group-title="TV | Muslim",KHAZANAH
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+
+#EXTINF:-1 group-title="TV | Muslim" tvg-logo="https://www.broadcastmagz.com/wp-content/uploads/2020/11/Screenshot_20201107-2223332.png",AJWA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7464
+https://spacetv.my.id/index.m3u8?id=7464&type=hls
+
+#EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="TV | Muslim" tvg-logo="https://www.insantv.com/wp-content/uploads/sites/2/2017/06/insantv.png",INSAN TV
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="TV | Muslim" tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg",HIJRAH TV
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
+
 
 
 ============================================================================================================================================================
