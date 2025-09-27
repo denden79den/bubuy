@@ -22,7 +22,7 @@ https://spacetv.my.id/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9182&type=drm
 https://spacetv.my.id/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="TV | Nasional" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true", Live event
+#EXTINF:-1 group-title="LIVE | Event" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true", Live event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
