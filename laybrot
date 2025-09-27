@@ -3541,20 +3541,23 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695930
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="SPORTS | Vip 2",===HK NOW PREMIER SPORTS===
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 1
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695937
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-2.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 2
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695938
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-3.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 3
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695939
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 4" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-4.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 4
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695940
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-5.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 5
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695941
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-6.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 6
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695942
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png" group-title="SPORTS | Vip 2",HK Now Premier Sports 7
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/695943
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 1 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117457
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 2 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117458
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 3 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 3 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117459
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 4 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 4 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117460
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 5 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 5 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117461
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 6 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 6 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117462
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 7 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 7 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117463
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 8 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | Vip 2",Now Premier League 8 [Events Only]
+http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117464
+
 
 
 ============================================================================================================================================================
