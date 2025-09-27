@@ -10,7 +10,8 @@
 #https://vdo.com
 
 #EXTINF:-1 group-title="LIVE | Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Rp4g9kVjSaQxKJTWQbJ6Cjfa53A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4596956/a27e44.jpg",🔴(27 Sep 2025 18:00 WIB) Ryder Cup - Day 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+##EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17139&type=drm
 https://spacetv.my.id/index.mpd?id=17139&type=dash
