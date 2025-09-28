@@ -39,6 +39,15 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 
+#EXTINF:-1 group-title="LIVE | Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xZcugLW77V09-ly5QslJS9wKh74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4596307/01d395.jpg", Live Eventt
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19488&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=19488&type=dash
+
 #EXTINF:-1 group-title="LIVE | Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pqucuaRDfUDHUgQ8vxrkhQUL9zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4596462/7b28cc.jpg",🔴(27 Sep 2025 18:33 WIB) PERSITA vs PERSIB - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
