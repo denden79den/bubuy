@@ -3534,3 +3534,364 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/404945
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/438662
 
 
+#EXTINF:-1 group-title="VDO TV" tvg-id="205.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=205&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=205&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="204.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=204&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=204&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="733.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=733&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=733&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="783.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=783&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=783&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="734.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=734&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=734&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="782.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=782&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=782&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="206.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=206&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=206&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="777.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=777&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=777&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="874.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=874&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=874&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="1561.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=1561&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=1561&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="875.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=875&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=875&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="8237.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=8237&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=8237&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6441.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6441&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6441&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6165.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6165&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6165&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18280.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18280&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18280&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18162.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18162&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18162&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="5415.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png",Jaktv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=5415&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=5415&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18105.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png",GGS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18105&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18105&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="19046.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=19046&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=19046&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7464.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",AJWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7464&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7464&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7052.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png",Hip Hip Horee!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7052&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7052&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7432.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7432&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7432&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="9713.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=9713&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=9713&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6397.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png",Horee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6397&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6397&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7619.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png",MUSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7619&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7619&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6482.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6482&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6482&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="9714.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",jawaposTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=9714&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=9714&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6898.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png",U-Channel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6898&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6898&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7230.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg",Magna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7230&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7230&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="12607.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png",DMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=12607&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=12607&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="9182.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png",CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=9182&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=9182&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="9183.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/mlEiapp7GXmQN5-WBHtM1EY6-kM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png",CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=9183&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=9183&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6686.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png",CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6686&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6686&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6685.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png",CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6685&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6685&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6786.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png",CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6786&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6786&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6299.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png",Bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6299&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6299&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="17875.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png",Bein 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=17875&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=17875&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6317.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png",Bein 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6317&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6317&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="17139.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=17139&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=17139&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="17140.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=17140&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=17140&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="19538.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/2x3R48h57BqxajiojvqgSbkQwCU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19538/c129a3.png",Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=19538&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=19538&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="9353.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/wxu6A5xCPmydS0PsUyDZa9kbGeo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png",Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=9353&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=9353&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18189.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png",Champions Golf 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18189&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18189&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18190.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png",Champions Golf 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18190&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18190&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6717.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/KLX48tQxYRs4GxMnvm2avGTXpf0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6717/790cc9.png",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6717&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6717&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6362.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6362&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6362&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6852.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png",Makkah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6852&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6852&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="8121.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=8121&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=8121&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6410.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png",Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6410&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6410&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6784.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6784&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6784&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="8120.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/evo4ygNACDOou93AiTxBSlw6wrs=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=8120&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=8120&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6411.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/UeT72lXpCHQ7pp5YCRA-eFlsajU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6411&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6411&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7150.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7150&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7150&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="7968.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=7968&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=7968&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="5075.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png",DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=5075&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=5075&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6412.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png",Euronews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6412&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6412&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="18622.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png",Daystar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=18622&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=18622&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="17278.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png",TV5Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=17278&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=17278&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="6533.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",Zoomoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=6533&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=6533&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+#EXTINF:-1 group-title="VDO TV" tvg-id="12784.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/gxp9cK9zfpgAKXUUuVc7SYF1q1g=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png",Africanews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo2/?stream=live&id=12784&type=drm&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+https://playlist123.vercel.app/api/vdo2.mpd?stream=live&id=12784&type=dash&hash=ZkfyN0JNeEFopeBCKemgv35bqH0o7OzRzglViVvI3wpAwimoy1Kw757lg0fBbQpwBWqwdrVU1hTlQByYdwKfVfnXrfBEnILorP8a1jberbfEkYcpcq78UQKpxlC6qJFgiky8aYC51RdwauM7ZzeH5p
+
+
