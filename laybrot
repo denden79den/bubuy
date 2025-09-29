@@ -743,6 +743,24 @@ https://spacetv.my.id/index.mpd?id=7230&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=12607&type=drm
 https://spacetv.my.id/index.mpd?id=12607&type=dash
 
+#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6685.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png",CTV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6685&type=drm
+https://spacetv.my.id/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6686.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png",CTV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6686&type=drm
+https://spacetv.my.id/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6786.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png",CTV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6786&type=drm
+https://spacetv.my.id/index.mpd?id=6786&type=dash
+
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="9182.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/yRBAoM6H7dAkEINjwCH-TVbeacE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png",CTV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -754,24 +772,6 @@ https://spacetv.my.id/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9183&type=drm
 https://spacetv.my.id/index.mpd?id=9183&type=dash
-
-#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6686.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png",CTV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6686&type=drm
-https://spacetv.my.id/index.mpd?id=6686&type=dash
-
-#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6685.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/7chJIHmXZKn6pLd4kHzMH44577M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png",CTV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6685&type=drm
-https://spacetv.my.id/index.mpd?id=6685&type=dash
-
-#EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6786.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png",CTV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6786&type=drm
-https://spacetv.my.id/index.mpd?id=6786&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-id="6299.vidiodotcom" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png",Bein 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
