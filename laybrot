@@ -2691,12 +2691,16 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions1.jpg?raw=true" group-title="SPORTS | Vision+",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #http://103.179.182.117:6768/hls/66/66.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions1.jpg?raw=true" group-title="SPORTS | Vision+",CHAMPIONS TV 1.1
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://viiip.kitashinsaku.com/qtoltt/tes.m3u8?id=17938
+
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
