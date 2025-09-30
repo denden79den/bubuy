@@ -1946,6 +1946,15 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 // Collected by @DenTV menampilkan playlist >>> KIDS CARTOON
 ============================================================================================================================================================
 
+#EXTINF:-1 group-title="TV | Kids Cartoon" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
+https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
+
+#EXTINF:-1 group-title="TV | Kids Cartoon" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+##https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/Animax/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
