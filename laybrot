@@ -845,20 +845,22 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-##http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/gtv.m3u8
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
+##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png",SCTV
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
+##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/mojiTV.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
@@ -903,7 +905,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444154
 http://103.179.182.117:6768/hls/47/47.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-id="" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444164
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/mentariTV.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",GARUDA TV
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
