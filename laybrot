@@ -2016,6 +2016,14 @@ https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 // Collected by @DenTV menampilkan playlist >>> SPORT VISION+ TV
 ============================================================================================================================================================
 
+#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/tvrisport.jpg?raw=true" group-title="SPORTS | Vision+",TVRI SPORT
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
