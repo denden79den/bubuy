@@ -3617,13 +3617,6 @@ https://vidd.semar.my.id/koneksi.php?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19354&type=drm 
 https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
 
-#EXTINF:-1 group-title="EVENT | Liga Indonesia" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",LIGA BRI SUPER LEAGUE
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/56/56.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indonesia", TIMNAS 1
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/timnas1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/Timnasday.jpg"  group-title="EVENT | Liga Indonesia", TIMNAS 2
