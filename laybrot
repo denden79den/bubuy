@@ -3319,8 +3319,25 @@ http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/157
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sport-nba-it.png" ,IT:SkySport.NBA
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/148
 
-#EXTINF:-1 group-title="STARZPLAY" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Pr1.4K
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Pr1.4K
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52547
+
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-2-ae.png" ,AD:Sports.Pr2.4K
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52548
+
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Asia1.FHD
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52552
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-2-ae.png" ,AD:Sports.Asia2.FHD
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52553
+
+
+
+
+
+
+
+
+
 
 
 ============================================================================================================================================================
