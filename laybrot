@@ -3302,10 +3302,27 @@ http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/706
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/mutv.png" ,UK:Manutd .TV
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/707
 
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/real_madrid_tv_es.png" ,ES:Real.Madrid
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/174
+
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sports-football-uk.png" ,UK:SkySport.Football
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/526
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sports-premier-league-uk.png" ,UK:SkySport.Premiere.League
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/527
+
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/motorsport_tv_fr.png" ,ES:SkySport.La.liga
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/4594
+
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sport-it.png" ,IT:SkySport.Calcio
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/157
+
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sport-nba-it.png" ,IT:SkySport.NBA
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/148
+
+#EXTINF:-1 group-title="STARZPLAY" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Pr1.4K
+http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52547
+
+
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> SPORTS VIP 2
 ============================================================================================================================================================
