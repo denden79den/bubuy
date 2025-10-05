@@ -3308,7 +3308,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Wi
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/706
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/mutv.png" ,UK:Manutd .TV
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/707
-
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://103.176.90.95/images/45327.png" ,UK| CHELSEA TV HD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/45327
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/real_madrid_tv_es.png" ,ES:Real.Madrid
 http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/174
 
@@ -3441,8 +3442,32 @@ http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117464
 // Collected by @DenTV menampilkan playlist >>> SPORTS | VIP 3
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="SPORTS | Vip 2" tvg-logo="http://51.158.145.100/picons/logos/USA/1918086.png" ,US| PREMIER LEAGUE TV ᴿᴬᵂ
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://51.158.145.100/picons/logos/USA/1918086.png" ,US| PREMIER LEAGUE TV ᴿᴬᵂ
 http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1918086
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://51.158.145.100/picons/logos/USA/1918091.png" ,US| NBC SPORTS NOW ᴿᴬᵂ
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1918091
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://51.158.145.100/picons/logos/USA/1918116.png" ,US| WWE NETWORK ᴿᴬᵂ
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1918116
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.92/images/30498.png" tvg-id="SkySportsFootball.uk" ,UK| SKY SPORTS FOOTBALL FHD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/30498
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.92/images/79473.png" tvg-id="uk.Sky Sports Premier League" ,UK| SKY SPORTS PREMIER LEAGUE FHD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/79473
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.92/images/30493.png" tvg-id="SkySportsPremiereLeague.uk" ,UK| SKY SPORTS PL FHD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/30493
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.95/images/1221178.png" ,UK| DAZN 1 HD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1221178
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.92/images/163611.png" ,UK| PREMIER SPORT LALIGA TV FHD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/163611
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.92/images/164032.png" ,UK| WWE LIVE HD
+http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/164032
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> EVENT | VOLLY VNL
