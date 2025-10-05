@@ -3537,7 +3537,17 @@ http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1032482
 #EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://103.176.90.95/images/1032481.png" ,NOW HK PREMIER SPORTS 7
 http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/1032481
 
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="https://i.postimg.cc/9fPhx2g7/MM0C7.png" tvg-id="playsports1.be" ,|BE| PLAY SPORTS ᵁᴴᴰ 1
+http://sf.my202501.vip:2082/sfy24_426792/ZYlCQxGY/185144
 
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" tvg-id="playsports2.be" ,|BE| PLAY SPORTS ᵁᴴᴰ 2
+http://sf.my202501.vip:2082/sfy24_426792/ZYlCQxGY/185146
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" tvg-id="playsports3.be" ,|BE| PLAY SPORTS ᵁᴴᴰ 3
+http://sf.my202501.vip:2082/sfy24_426792/ZYlCQxGY/185148
+
+#EXTINF:-1 group-title="SPORTS | Vip 3" tvg-logo="http://138.199.27.237:8080/BELGIUM/PLAYSPORTS.png" tvg-id="playsports4.be" ,|BE| PLAY SPORTS ᵁᴴᴰ 4
+http://sf.my202501.vip:2082/sfy24_426792/ZYlCQxGY/185149
 
 
 
