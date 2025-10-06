@@ -2446,34 +2446,33 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena 1 FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://dl.dropboxusercontent.com/scl/fi/xop2e8f1yljldiacphfyv/ASTROARENA1.m3u8?rlkey=3snl11dzdpn8u8kvsg8i9h2n2&st=8iy7jt0h
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://dl.dropboxusercontent.com/scl/fi/o7btfcfb3dpaap68pe4g3/ASTROARENA2.m3u8?rlkey=f2otd4u0643lkq76zvwz1xjgx&st=auauq5dn
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png",804 Arena Bola 2 FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 Premier League FHD
-http://mains.services/live/pmf0423/1aku0jt%40/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/premierleague2fhd.png",806 Premier League 2 FHD
-http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd123660.ts
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/grandstandfhd.png",807 Grandstand FHD
-http://mains.services/live/pmf0423/1aku0jt%40/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
-http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4a.ts
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroSSB4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/cricketfhd.png",812 Cricket FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Astrocricket.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Go Astro" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 
@@ -2500,16 +2499,21 @@ http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa
 #EXTINF:-1 tvg-id="822" ch-number="823" tvg-name="beIN Sports 3 HD" group-title="SPORTS | Go Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",beINSports 3
 
 #EXTINF:-1 tvg-id="823" tvg-name="SPOTV" group-title="SPORTS | Go Astro" ch-number="816" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png",823 SPOTV
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV2" ch-number="" tvg-name="SPOTV2" group-title="SPORTS | Go Astro" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png",SPOTV2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
 
 #EXTINF: -1 tvg-id="W-Sport" group-title="SPORTS | Go Astro" ch-number="" tvg-logo="https://telegra.ph/file/ee3bff6d510fb4ac3f386.png",W-Sport
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Wsport.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel" ch-number="" tvg-name="Golf Channel HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="SPORTS | Go Astro",NBC Golf 
 
 #EXTINF:-1 tvg-id="PremierSports" ch-number="" tvg-name="Premier Sports HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="SPORTS | Go Astro",Premier Sports
 
 #EXTINF:-1 tvg-id="AstroCricket" ch-number="" group-title="SPORTS | Go Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",Astro Cricket HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan RTM" group-title="SPORTS | Go Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",Sukan RTM
 
