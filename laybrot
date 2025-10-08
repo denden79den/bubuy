@@ -487,16 +487,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 ============================================================================================================================================================
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | HBO",HBO
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbo
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbohits.jpg?raw=true" group-title="FILM | HBO",HBO HITS
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbohits
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbohits.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbofam.jpg?raw=true" group-title="FILM | HBO",HBO FAMILY
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbofamily
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbosig.jpg?raw=true" group-title="FILM | HBO",HBO SIGNATURE
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbosignature
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbosignature.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="FILM | HBO",CINEMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
