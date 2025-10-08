@@ -481,6 +481,30 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 group-title="FILM | Indonesia" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png", Allplay EnT
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> HBO
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | HBO",HBO
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbo
+
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbohits.jpg?raw=true" group-title="FILM | HBO",HBO HITS
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbohits
+
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbofam.jpg?raw=true" group-title="FILM | HBO",HBO FAMILY
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbofamily
+
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbosig.jpg?raw=true" group-title="FILM | HBO",HBO SIGNATURE
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbosignature
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="FILM | HBO",CINEMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> Movie Box Office
 ============================================================================================================================================================
