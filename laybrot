@@ -19,7 +19,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
 
-#EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar HD
+#EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
 ##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
 ##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/indosiar.m3u8
@@ -27,7 +27,8 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/indosia
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png",SCTV
 ##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
 ##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/sctv.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/sctv.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/TV%20Nasional/sctv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji
 ##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
