@@ -490,19 +490,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 ============================================================================================================================================================
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | HBO",HBO
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbo.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbohits.jpg?raw=true" group-title="FILM | HBO",HBO HITS
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbohits.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/hbohits.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbofam.jpg?raw=true" group-title="FILM | HBO",HBO FAMILY
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbofamily.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbosig.jpg?raw=true" group-title="FILM | HBO",HBO SIGNATURE
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbosignature.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/hbosignature.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="FILM | HBO",CINEMAX
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/cinemax.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/cinemax.m3u8
 
 
 ============================================================================================================================================================
