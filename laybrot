@@ -3459,13 +3459,14 @@ http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/635
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/tringsport1.png" group-title="EVENT | Liga Seri A Calcio",TRING SPORT 1
-http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129299
+##http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129299
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Albania/tring1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/tringsport2.png" group-title="EVENT | Liga Seri A Calcio",TRING SPORT 2
-http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129302
+##http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129302
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Albania/tring2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/tringsport3.png" group-title="EVENT | Liga Seri A Calcio",TRING SPORT 3
-http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129303
-
-
+##http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129303
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Albania/tring3.m3u8
 
 
 ============================================================================================================================================================
