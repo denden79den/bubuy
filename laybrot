@@ -3469,7 +3469,8 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/mojiTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EVENT | Liga Indonesia", MOJI 2
 https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/mojiTV2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EVENT | Liga Indonesia", Now sports 1.1
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowsport1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EVENT | Liga Indonesia", Supersport 1
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Albania/supersport1.m3u8
+
 
 
