@@ -101,8 +101,9 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/TV%20Na
 ============================================================================================================================================================
 
 
-#EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444142
+#EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI I
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444142
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444146
