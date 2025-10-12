@@ -102,62 +102,61 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/TV%20Na
 
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
-##http://aromatv.co:80/Enjy3637/4JFEBAs359/444142
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444146
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mnctv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/gtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/antv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png",SCTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444140
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/sctv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/moji.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/trans7.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444143
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/transtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_MDTV_2025_03_17_14_56_36.png",MDTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444148
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mdtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444223
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/tvri.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png",TVOne
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444156
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/tvone.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png",iNews
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444152
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/inews.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_KOMPASTV_2025_03_17_14_56_36.png",Kompas TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444155
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/kompastv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_METROTV_2025_03_17_14_51_08.png",Metro TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444153
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/metrotv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_BERITASATU_2025_03_17_15_00_18.png",Berita Satu
 
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",BTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444157
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/btv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_CNBCINDO_2025_03_17_14_57_27.png",CNBC Indonesia
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444163
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/cnbcindonesia.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_CNNINDO_2025_03_17_15_22_37.png",CNN Indonesia
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444154
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/cnnindonesia.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-id="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1",VTV
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -167,7 +166,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444154
 http://103.179.182.117:6768/hls/47/47.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-id="" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444164
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mentaritv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",GARUDA TV
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -183,10 +182,10 @@ http://103.179.182.117:6768/hls/11/11.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png",Nusantara TV
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/ntv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png",RTV
-https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",SindoNews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
@@ -198,11 +197,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-id="" tvg-logo="",JTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444195
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/jtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital 2" tvg-id="" tvg-logo="",BALI TV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444214
-
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/balitv.m3u8
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> Tv Nasional
