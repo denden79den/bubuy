@@ -1258,15 +1258,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #http://103.179.182.117:6768/hls/47/47.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/horee.jpg?raw=true" group-title="TV | Kids Cartoon",HOREE
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=6397&type=hls
+##EXTVLCOPT:http-referrer=https://m.vidio.com/
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+##https://nextgenz.my.id/event/pidio/play.m3u8?id=6397&type=hls
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1919534&extension=ts&play_token=Z45sHy6tZ2
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/horee.jpg?raw=true" group-title="TV | Kids Cartoon",HIP HIP HOREE
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://vidd.semar.my.id/koneksi.php?id=7052&type=hls
+##EXTVLCOPT:http-referrer=https://m.vidio.com/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+##https://vidd.semar.my.id/koneksi.php?id=7052&type=hls
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1919535&extension=ts&play_token=YEh3zZJugp
 
 ##EXTVLCOPT:http-referrer=https://m.vidio.com/
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
