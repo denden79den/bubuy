@@ -3552,7 +3552,9 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/A
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORT | Hongkong",HUB SPORTS 1
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146827
+##http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146827
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORT | Hongkong",HUB SPORTS 2
 http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146826
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORT | Hongkong",HUB SPORTS 3
