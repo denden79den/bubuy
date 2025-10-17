@@ -3566,18 +3566,18 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/H
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 1 
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117457
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 2 
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117458
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 3 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 3 
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117459
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 4 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 4 
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117460
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 5 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 5 
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117461
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 6 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 6
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117462
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 7 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/627-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 7
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117463
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/nowpremier7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 8 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/628-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 8
-http://live.velocity.watch:8080/2052299747/0ioN5kxtFC/117464
+
