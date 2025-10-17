@@ -3196,10 +3196,16 @@ https://raw.githubusercontent.com/B-inal-123/tim-s/inal-22/MuTV.m3u8
 https://raw.githubusercontent.com/B-inal-123/tim-s/inal-22/LfcTV.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",SPOTV 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46440eec3eeb6471abeb707b95450ccf:3503559f766f80106810aa7e1a485f1d
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",SPOTV 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia2.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="SPORTS | Astro Sports", Unifi Sports
