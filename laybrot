@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-============================================================================================================================================================
+==========================================http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=1110665&extension=m3u8==================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> Tv Nasional Digital 
 ============================================================================================================================================================
 
@@ -3552,13 +3552,15 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/A
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORT | Hongkong",HUB SPORTS 1
-##http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146827
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORT | Hongkong",HUB SPORTS 2
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146826
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORT | Hongkong",HUB SPORTS 3
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/146825
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport3.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="SPORT | Hongkong", Hub Sports 4
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport4.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORT | Hongkong", Hub Sports 5
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport5.m3u8
 
 #EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="SPORT | Hongkong",===HUB PREMIER SPORTS===
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
