@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-==========================================http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=1110665&extension=m3u8==================================================================================================================
+============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> Tv Nasional Digital 
 ============================================================================================================================================================
 
@@ -2848,40 +2848,6 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="SG | Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORTS | Vip 1", Hub Sports 1
-##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501593
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports2.sg" tvg-name="SG | Hub Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS | Vip 1",  Hub Sports 2
-##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501592
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport2.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="SG | Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORTS | Vip 1", Hub Sports 3
-##http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501591
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport3.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="SPORTS | Vip 1", Hub Sports 4
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501590
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORTS | Vip 1", Hub Sports 5
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501589
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORTS | Vip 1",Hub Premier 1 FHD
-##http://vocotv.pro:80/tatum/tatum/288375
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS | Vip 1",Hub Premier 2 FHD
-##http://vocotv.pro:80/tatum/tatum/288374
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORTS | Vip 1",Hub Premier 3 FHD
-##http://vocotv.pro:80/tatum/tatum/288373
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="SPORTS | Vip 1",Hub Premier 4 FHD
-##http://vocotv.pro:80/tatum/tatum/288372
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="SPORTS | Vip 1",Hub Premier 5 FHD
-##http://vocotv.pro:80/tatum/tatum/288371
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT 1 FHD" tvg-logo="" group-title="SPORTS | Vip 1",POLSAT SPORT 1
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Polandia/polsat1.m3u8
