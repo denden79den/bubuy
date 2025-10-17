@@ -4015,12 +4015,25 @@ http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/56470
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name=" M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="EVENT | LALIGA", M+ LALIGA TV BAR
 http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/283
 
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/z6xNS8T/laligatv.png" group-title="EVENT | LALIGA" , LaLiga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name=" LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="EVENT | LALIGA", LALIGA TV HYPERMOTION 1
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/246
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name=" LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="EVENT | LALIGA", LALIGA TV HYPERMOTION 2
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/634
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name=" LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="EVENT | LALIGA", LALIGA TV HYPERMOTION 3
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/635
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
 ============================================================================================================================================================
