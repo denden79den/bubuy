@@ -3188,15 +3188,19 @@ http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/34613
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",Astro Arena 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MUTV
-http://zoneuk.club:80/1122334455/6677889900/709253
+https://raw.githubusercontent.com/B-inal-123/tim-s/inal-22/MuTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOOviU1KZ2BEIw9RWd_3jGL-1UIqozfAuM8RZpUjGXiJlBtNYfD-h-L4&s=10" group-title="SPORTS | Astro Sports", LFC  TV
+https://raw.githubusercontent.com/B-inal-123/tim-s/inal-22/LfcTV.m3u8
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",SPOTV 1
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699852
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",SPOTV 2
-http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/699853
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="SPORTS | Astro Sports", Unifi Sports
