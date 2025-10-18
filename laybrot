@@ -1367,7 +1367,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 ============================================================================================================================================================
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | Box Office",HBO
-https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/HboID.m3u8
+##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/HboID.m3u8
+http://103.180.118.5:9981/stream/channelid/1355835268?profile=pass
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | Box Office",HBO Backup
 http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/34433
