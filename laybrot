@@ -4603,39 +4603,40 @@ http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/lfc-tv-uk.png" ,UK:Liverpool.TV
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/706
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/mutv.png" ,UK:Manutd .TV
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/707
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://103.176.90.95/images/45327.png" ,UK| CHELSEA TV HD
-http://line.rain-ott.com/Ckks7HMG12/1VDpJ5Xj4q/45327
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/real_madrid_tv_es.png" ,ES:Real.Madrid
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/174
+#EXTINF:-1 tvg-id="maxsport1.bg" tvg-name="BG| MAX SPORT 1 FHD" tvg-logo="https://lo1.in/bulg/mxsp.png" group-title="SPORTS | Vip 1",MAX SPORT 1 FHD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/16761.m3u8
+#EXTINF:-1 tvg-id="maxsport2.bg" tvg-name="BG| MAX SPORT 2 FHD" tvg-logo="https://lo1.in/bulg/mxsp2.png" group-title="SPORTS | Vip 1",MAX SPORT 2 FHD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/16760.m3u8
+#EXTINF:-1 tvg-id="maxsport3.bg" tvg-name="BG| MAX SPORT 3 FHD" tvg-logo="https://lo1.in/bulg/mxsp3.png" group-title="SPORTS | Vip 1",MAX SPORT 3 FHD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/16759.m3u8
+#EXTINF:-1 tvg-id="maxsport4.bg" tvg-name="BG| MAX SPORT 4 FHD" tvg-logo="https://lo1.in/bulg/mxsp4.png" group-title="SPORTS | Vip 1",BG| MAX SPORT 4 FHD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/16758.m3u8
 
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sports-football-uk.png" ,UK:SkySport.Football
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/526
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sports-premier-league-uk.png" ,UK:SkySport.Premiere.League
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/527
+#EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE| PLAY SPORTS 1 HD" tvg-logo="https://lo1.in/belg/plysp1.png" group-title="SPORTS | Vip 1",PLAY SPORTS 1 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 tvg-id="playsports2.be" tvg-name="BE| PLAY SPORTS 2 HD" tvg-logo="https://lo1.in/belg/plysp2.png" group-title="SPORTS | Vip 1",PLAY SPORTS 2 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE| PLAY SPORTS 3 HD" tvg-logo="https://lo1.in/belg/plysp3.png" group-title="SPORTS | Vip 1",PLAY SPORTS 3 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28013.m3u8
 
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/motorsport_tv_fr.png" ,ES:SkySport.La.liga
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/4594
-
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sport-it.png" ,IT:SkySport.Calcio
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/157
-
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/sky-sport-nba-it.png" ,IT:SkySport.NBA
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/148
-
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Pr1.4K
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52547
-
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-2-ae.png" ,AD:Sports.Pr2.4K
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52548
-
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-1-ae.png" ,AD:Sports.Asia1.FHD
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52552
-#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/abu-dhabi-sports-2-ae.png" ,AD:Sports.Asia2.FHD
-http://80.79.5.19:8080/mylocalstreamcreed/qsQS698P@MKaz25456/52553
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 1 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 2 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 2 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 3 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 3 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 4 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 4 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 5 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 5 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 6 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 6 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 7 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 7 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 8 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 8 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 9 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 9 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710940.m3u8
 
 
 
