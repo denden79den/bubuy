@@ -44,7 +44,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",METROTV
+#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_METROTV_2025_03_17_14_51_08.png",METROTV
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -54,7 +54,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",KOMPASTV
+#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_KOMPASTV_2025_03_17_14_56_36.png",KOMPASTV
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -64,7 +64,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",TVONE
+#EXTINF:-1 group-title="VIP | Indihome" tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png",TVONE
 https://cdn10jtedge.indihometv.com/atm/DASH/TVONE/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
