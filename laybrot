@@ -828,14 +828,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
+http://103.180.118.5:9981/stream/channelid/675124063?profile=pass
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
 ##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mnctv.m3u8
 http://103.66.62.83:8000/play/a062/index.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/gtv.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/gtv.m3u8
+http://103.180.118.5:9981/stream/channelid/603010024
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/antv.m3u8
@@ -859,7 +861,8 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/transtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_MDTV_2025_03_17_14_56_36.png",MDTV
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mdtv.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mdtv.m3u8
+http://103.180.118.5:9981/stream/channelid/2128249748
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/tvri.m3u8
