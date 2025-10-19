@@ -5711,8 +5711,26 @@ https://maldivesn.net/hilaytv/dazn5
 #EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="SPORTS | Eropa",DAZN 6
 https://maldivesn.net/hilaytv/dazn6
 
-
-
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 1 
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ1.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 2
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ2.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 3
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ3.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 4
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ4.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 5
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ5.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 6
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ6.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 7
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ7.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORTS | Eropa", SKY SPORT 8 PREMIER LEAGUE
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ8.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORTS | Eropa", SKY SPORT 9
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZ9.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SPORTS | Eropa", SKY SPORT SELECT
+https://raw.githubusercontent.com/B-inal-123/sky-s/inal-22/skysportNZselect.m3u8
 
 
 
