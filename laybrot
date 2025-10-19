@@ -4638,15 +4638,15 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710941.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 9 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="SPORTS | Vip 1",NZ| SKY SPORT 9 HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/710940.m3u8
 
-#EXTINF:-1 tvg-country="" http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png group-title="SPORTS | Vip 1",Hub Premier 2 FHD
+#EXTINF:-1 tvg-country="" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="SPORTS | Vip 1",Hub Premier 1 FHD
 http://vocotv.pro:80/tatum/tatum/288375
-#EXTINF:-1 tvg-country="" http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png group-title="SPORTS | Vip 1",Hub Premier 2 FHD
+#EXTINF:-1 tvg-country="" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="SPORTS | Vip 1",Hub Premier 2 FHD
 http://vocotv.pro:80/tatum/tatum/288374
-#EXTINF:-1 tvg-country="" http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png group-title="SPORTS | Vip 1",Hub Premier 3 FHD
+#EXTINF:-1 tvg-country="" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="SPORTS | Vip 1",Hub Premier 3 FHD
 http://vocotv.pro:80/tatum/tatum/288373
-#EXTINF:-1 tvg-country="" http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png group-title="SPORTS | Vip 1",Hub Premier 4 FHD
+#EXTINF:-1 tvg-country="" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="SPORTS | Vip 1",Hub Premier 4 FHD
 http://vocotv.pro:80/tatum/tatum/288372
-#EXTINF:-1 tvg-country="" http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png group-title="SPORTS | Vip 1",Hub Premier 5 FHD
+#EXTINF:-1 tvg-country="" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="SPORTS | Vip 1",Hub Premier 5 FHD
 http://vocotv.pro:80/tatum/tatum/288371
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg",SPORTV 1
