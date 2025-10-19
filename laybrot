@@ -2942,13 +2942,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32e
 #EXTINF:-1 group-title="TV | Kids Cartoon" tvg-logo="https://images.indihometv.com/assets/88_DUNIANAK_2025_03_17_15_23_57.png",Dunia Anak (INDI) 
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/vtv.jpg?raw=true" group-title="TV | Kids Cartoon",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/47/47.m3u8
+#EXTINF:-1 group-title="TV | Kids Cartoon" tvg-id="" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1",VTV
+##EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+##https://flv.intechmedia.net/live/ch107.m3u8
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/horee.jpg?raw=true" group-title="TV | Kids Cartoon",HOREE
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
