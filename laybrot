@@ -4947,15 +4947,20 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport7.m3u8
 https://fl3.moveonjoy.com/SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 1 
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL1.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL1.m3u8
+https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 2 
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL2.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL2.m3u8
+https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 3 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 3 
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL3.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL3.m3u8
+https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 4 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 4 
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL4.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL4.m3u8
+https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 5 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 5 
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL5.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL5.m3u8
+https://raw.githubusercontent.com/udzaa2238/hub-sport/refs/heads/main/23232_top_hub-premier-5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 6 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 6
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 7 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/627-wbg-e.png" group-title="SPORT | Hongkong",Now Premier League 7
