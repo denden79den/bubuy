@@ -4480,20 +4480,17 @@ https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18189&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18189&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=18189&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=18189&type=dash
 
 #EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://thumbor.prod.vidiocdn.com/y5p-tEzFYLfvX_zxqJXIsH4nxTU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg", Champions Golf 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18190&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18190&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=18190&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=18190&type=dash
 
 #EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", SERI A1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -4593,6 +4590,15 @@ https://vidd.semar.my.id/koneksi.php?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=6717&type=drm 
 https://vidd.semar.my.id/koneksi.php?id=6717&type=dash
+
+#EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-header_pDach_1661948923000&quality=70", NBA TV 2
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6717&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6717&type=dash
 
 #EXTINF:-1 group-title="SPORTS | Vidio"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", EPL TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
