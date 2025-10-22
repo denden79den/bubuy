@@ -3372,6 +3372,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #http://103.179.182.117:6768/hls/6/6.m3u8
 
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/dreamworks.jpg?raw=true" group-title="TV | Kids Cartoon",DREAMWORKS Indo
+http://xtvplayer.top:8080/waleed7788/waleed4455/350936
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
