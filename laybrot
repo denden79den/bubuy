@@ -5192,6 +5192,37 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 http://190.60.37.118:4000/play/a09j
 
 
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name=" SKY SPORTS CRICKET" tvg-logo="https://pbs.twimg.com/profile_images/1951067600294703105/JZTIEdma_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS CRICKET
+http://mains.services/live/bshorty/Zv5le07a0J/3b0dd519-a307-48f6-80c1-6f35240453ab.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name=" SKY SPORTS F1" tvg-logo="http://145.239.7.84/logos/Sky%20Sports%20F1.png" group-title="SPORTS | Vip 1", SKY SPORTS F1
+http://mains.services/live/bshorty/Zv5le07a0J/3e89b7df-4554-42e7-bd89-8809fa966127.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name=" SKY SPORTS FOOTBALL" tvg-logo="https://pbs.twimg.com/profile_images/1951061702671298561/LxkKGuSf_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS FOOTBALL
+http://mains.services/live/bshorty/Zv5le07a0J/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name=" SKY SPORTS GOLF" tvg-logo="https://pbs.twimg.com/profile_images/1951064391937294338/z__sgVBz_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS GOLF
+http://mains.services/live/bshorty/Zv5le07a0J/c4793abd-2409-4081-9886-f4b745600994.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name=" SKY SPORTS MAIN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS | Vip 1", SKY SPORTS MAIN EVENT
+http://mains.services/live/bshorty/Zv5le07a0J/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name=" SKY SPORTS MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="SPORTS | Vip 1", SKY SPORTS MIX
+http://mains.services/live/bshorty/Zv5le07a0J/29af5e17-0851-4b44-9781-b384dd176ea0.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name=" SKY SPORTS NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1951063956711157760/lIbUluye_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS NEWS
+http://mains.services/live/bshorty/Zv5le07a0J/420189a0-f005-4062-8bb3-b9f66f7e0443.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name=" SKY SPORTS NFL" tvg-logo="http://onlytimewilltell.xyz:2086/images/af168af5d45963061b09b1dd5b01473b.png" group-title="SPORTS | Vip 1", SKY SPORTS NFL
+http://mains.services/live/bshorty/Zv5le07a0J/3836a7e2-0560-4f51-9c9b-df74b62df338.m3u8
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name=" SKY SPORTS PLUS" tvg-logo="http://145.239.7.84/logos/Sky%20Sports%20Plus.jpg" group-title="SPORTS | Vip 1", SKY SPORTS PLUS
+http://mains.services/live/bshorty/Zv5le07a0J/6d60368d-91cf-44f5-9c65-52361b973b73.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name=" SKY SPORTS PREMIER LEAGUE" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS PREMIER LEAGUE
+http://mains.services/live/bshorty/Zv5le07a0J/c303e484-7208-4695-a34e-c962db644a86.m3u8
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name=" SKY SPORTS RACING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="SPORTS | Vip 1", SKY SPORTS RACING
+http://mains.services/live/bshorty/Zv5le07a0J/ca8ae27d-b601-4469-b926-470acb3a5d2b.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name=" TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS | Vip 1", TNT SPORTS 01
+http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name=" TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="SPORTS | Vip 1", TNT SPORTS 02
+http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name=" TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="SPORTS | Vip 1", TNT SPORTS 03
+http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name=" TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="SPORTS | Vip 1", TNT SPORTS 04
+http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.m3u8
 
 
 
