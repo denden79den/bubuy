@@ -4731,6 +4731,20 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Agolf/playlis
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rtmsport/playlist.m3u8
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Premier League 1 C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague1.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Premier League 1 C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague2.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",Grandstand C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/grandstand.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",Astro Football C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/football.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",W-Sport C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/wsport.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS | Astro Sports",ASTRO CRICKET C
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/cricket.m3u8
+
+
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> SPORTS BEINSPORTS
 ============================================================================================================================================================
