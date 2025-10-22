@@ -2715,6 +2715,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO", Etv Bioskop 01
+http://xtvplayer.top:8080/waleed7788/waleed4455/350941
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO", Etv Bioskop 02
+http://xtvplayer.top:8080/waleed7788/waleed4455/350917
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO", Etv Bioskop 03
+http://xtvplayer.top:8080/waleed7788/waleed4455/350918
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" group-title="FILM | HBO", Etv Bioskop 04
+http://xtvplayer.top:8080/waleed7788/waleed4455/350944
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> Movie Box Office
