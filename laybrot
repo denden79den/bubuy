@@ -4756,6 +4756,16 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/M
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS | Astro Sports",ASTRO CRICKET C
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/cricket.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/303503.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="MY: Astro Supersport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport 2 HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/303504.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="MY: Astro Supersport 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport 3 HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/303505.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="MY: Astro Supersport 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport 4 HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/303506.m3u8
+
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> SPORTS BEINSPORTS
