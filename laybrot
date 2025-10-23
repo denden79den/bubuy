@@ -5701,6 +5701,29 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPlus.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305" group-title="SPORT | Hongkong", NOW SPORT 4K
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport4K.m3u8
 
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" tvg-id="HubSports1.sg" , SG Hub Sports 1
+http://b1g.uk/200/230/625477
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" tvg-id="HubSports2.sg" , SG Hub Sports 2
+http://b1g.uk/200/230/625476
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" tvg-id="HubSports3.sg" , Hub Sports 3
+http://b1g.uk/200/230/625475
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" tvg-id="HubSports4.sg" , SG Hub Sports 4
+http://b1g.uk/200/230/625449
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" tvg-id="HubSports5.sg" , SG Hub Sports 5
+http://b1g.uk/200/230/625523
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS.sg" , SG beIN Sports 1
+http://b1g.uk/200/230/625423
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS2.sg" , SG beIN Sports 2
+http://b1g.uk/200/230/625424
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS3.sg" , SG beIN Sports 3
+http://b1g.uk/200/230/625422
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS4.sg" , SG beIN Sports 4
+http://b1g.uk/200/230/625421
+#EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS5.sg" , SG beIN Sports 5
+http://b1g.uk/200/230/625420
+
+
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> India
