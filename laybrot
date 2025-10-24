@@ -1678,10 +1678,10 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 https://vidd.semar.my.id/koneksi.php?id=205&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true", Indosiar Live Sport
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true", Indosiar Live Sport 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -1705,16 +1705,16 @@ https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true", Moji Live Sport
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true", TRANS TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=733&type=drm
-https://spacetv.my.id/index.mpd?id=733&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true", TRANS TV FMX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -1723,10 +1723,10 @@ https://spacetv.my.id/index.mpd?id=733&type=dash
 https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true", Trans7
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=734&type=drm
-https://spacetv.my.id/index.mpd?id=734&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true", Trans7 FMX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
@@ -1737,28 +1737,28 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/tvone.jpg?raw=true", TVOne
 ##EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 ##https://popmi.my.id/tes.m3u8?id=783
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=783&type=drm
-https://spacetv.my.id/index.mpd?id=783&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/antv.jpg?raw=true", ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=782&type=drm
-https://spacetv.my.id/index.mpd?id=782&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/mdtv.jpg?raw=true", MDTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=875&type=drm
-https://spacetv.my.id/index.mpd?id=875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=875&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=875&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png", Mentari TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8237&type=drm
-https://spacetv.my.id/index.mpd?id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -1778,109 +1778,109 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/metrotv.jpg?raw=true", Metro TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=777&type=drm
-https://spacetv.my.id/index.mpd?id=777&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/kompastv.jpg?raw=true", Kompas TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=874&type=drm
-https://spacetv.my.id/index.mpd?id=874&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
 
 #EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/garudatv.jpg?raw=true", group-title="VIP | Vidio TV", GARUDATV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18162&type=drm
-https://spacetv.my.id/index.mpd?id=18162&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18162&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=18162&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png", group-title="VIP | Vidio TV", BERITA SATU
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18280&type=drm
-https://spacetv.my.id/index.mpd?id=18280&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png", group-title="VIP | Vidio TV", SIN PO TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19046&type=drm
-https://spacetv.my.id/index.mpd?id=19046&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/rtv.jpg?raw=true", RTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=1561&type=drm
-https://spacetv.my.id/index.mpd?id=1561&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/tvri.jpg?raw=true", TVRI
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6441&type=drm
-https://spacetv.my.id/index.mpd?id=6441&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/btv.jpg?raw=true", BTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6165&type=drm
-https://spacetv.my.id/index.mpd?id=6165&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jaktv.jpg?raw=true", Jaktv
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=5415&type=drm
-https://spacetv.my.id/index.mpd?id=5415&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/daaitv.jpg?raw=true", DAAI TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6482&type=drm
-https://spacetv.my.id/index.mpd?id=6482&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/nusantaratv.jpg?raw=true", Nusantara TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=7432type=drm
-https://spacetv.my.id/index.mpd?id=7432&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=7432type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=7432&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jtv.jpg?raw=true", JTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9713&type=drm
-https://spacetv.my.id/index.mpd?id=9713&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jawapost.jpg?raw=true", Jawapos TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9714&type=drm
-https://spacetv.my.id/index.mpd?id=9714&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/vgPh4742qO.png" group-title="VIP | Vidio TV", Daystar TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=18622&type=drm
-https://spacetv.my.id/index.mpd?id=18622&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=dash
 
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6362&type=drm
-https://spacetv.my.id/index.mpd?id=6362&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6362&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6362&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8121&type=drm
-https://spacetv.my.id/index.mpd?id=8121&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8121&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=8121&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8120&type=drm
-https://spacetv.my.id/index.mpd?id=8120&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8120&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=8120&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
 
@@ -5890,10 +5890,10 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL8.m3u8
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/VollyVNL10.m3u8
 
 #EXTINF:-1 group-title="EVENT | VOLLY VNL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi5H_lYVRSDFq8HTycszWJZ1Y1ZaKQ6hUtYkqw_HwToTFBqzxgrwHLwJv&s=10", LIVOLI 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19488&type=dash
 
 #EXTINF:-1 group-title="EVENT | VOLLY VNL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi5H_lYVRSDFq8HTycszWJZ1Y1ZaKQ6hUtYkqw_HwToTFBqzxgrwHLwJv&s=10", LIVOLI 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
