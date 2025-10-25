@@ -1819,8 +1819,11 @@ https://vidd.semar.my.id/vidreq.php?id=6362&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=8121&type=drm
-https://vidd.semar.my.id/vidreq.php?id=8121&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=8121&type=drm
+##https://vidd.semar.my.id/vidreq.php?id=8121&type=dash
+
+#KODIPROP:inputstream.adaptive.license_key=https://viiip.kitashinsaku.com/qtoltt/tes.m3u8?id=8121&type=drm
+https://viiip.kitashinsaku.com/qtoltt/tes.m3u8?id=8121&type=dash
 
 #EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
