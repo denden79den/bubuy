@@ -5151,11 +5151,14 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadmintonB.m3u8
 http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/34532
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS | Astro Sports",beIN Sports 1
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+##https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/BeinAsia1.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name="MY | beIN Sports 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS | Astro Sports",beIN Sports 2
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+##https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/BeinAsia2.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS | Astro Sports",beIN Sports 3
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+##https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/BeinAsia3.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5193,45 +5196,6 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="SPORTS | Astro Sports", Unifi Sports
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS | Astro Sports",ASTRO ARENA
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS | Astro Sports",ASTRO ARENA 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Arena2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS | Astro Sports",BOLA ARENA 1
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS | Astro Sports",BOLA ARENA 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS | Astro Sports",ASTRO PREMIER LEAGUE
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS | Astro Sports",ASTRO PREMIER LEAGUE 2
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS | Astro Sports",ASTRO GRANDSTAND
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS | Astro Sports",ASTRO FOOTBALL
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS | Astro Sports",NBA TV
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS | Astro Sports",ASTRO CRICKET
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Acricket/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS | Astro Sports",ASTRO GOLF
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Agolf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Astro Sports",SUKAN
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rtmsport/playlist.m3u8
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Premier League 1 C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Premier League 1 C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague2.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",Grandstand C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/grandstand.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",Astro Football C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/football.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",W-Sport C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/wsport.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS | Astro Sports",ASTRO CRICKET C
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/cricket.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport HD
 http://filex.me:8080/live/MAS101A/MAS101AABB/303503.m3u8
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="MY: Astro Supersport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport 2 HD
@@ -5241,6 +5205,22 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/303505.m3u8
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="MY: Astro Supersport 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS | Astro Sports",MY: Astro Supersport 4 HD
 http://filex.me:8080/live/MAS101A/MAS101AABB/303506.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="SPORTS | Astro Sports", SPOTV STADIA 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_fEdNdf2mVQNsUEFIb4xPerx1uc9E5qhGg&usqp=CAU" group-title="SPORTS | Astro Sports", SPOTV STADIA 2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/SpotvStadia2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS | Astro Sports", TRUE BEIN SPORT 1 TH
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TrueBein1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS | Astro Sports", TRUE BEIN SPORT 2 TH
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TrueBein2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS | Astro Sports", TRUE BEIN SPORT 3 TH
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TrueBein3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SPORTS | Astro Sports", TRUE SPOTV  1 TH
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TrueSpotv1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SPORTS | Astro Sports", TRUE SPOTV  2 TH
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/TrueSpotv2.m3u8
 
 
 ============================================================================================================================================================
