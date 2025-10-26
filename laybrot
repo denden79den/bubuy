@@ -3096,6 +3096,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 // Collected by @denitv menampilkan playlist >>> HBO
 ============================================================================================================================================================
 
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUglIYu6JcgHL_ObrwdftwO.png" group-title="FILM | HBO",HBO
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXr7_2W9qKoQbNjx8K7AYly404g3eCZo3VPz9K_9vZ1Yg.png" group-title="FILM | HBO",HBO Family
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWbShpMIQW6RgPISpsDQQT2.png" group-title="FILM | HBO",HBO Hits
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW1PFRu52SLSrXxvbaU4kFTXMtVtmOuEOkZup_U24BI7g.png" group-title="FILM | HBO",HBO Signature
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXxKqC2D6nYQGw8o5IpyMpH.png" group-title="FILM | HBO",Cinemax
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48.m3u8
+
+
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | HBO",HBO
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/HBO/hbo.m3u8
 http://103.180.118.5:9981/stream/channelid/1355835268?profile=pass
