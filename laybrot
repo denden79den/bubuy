@@ -2165,6 +2165,78 @@ https://vidd.semar.my.id/koneksi.php?id=9353&type=dash
 
 
 ============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>>  TV Digital
+============================================================================================================================================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWfhUX1sNd25AasG-NysQgG.png" group-title="TV | Nasional Digital",RCTI
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWsexQWLqyQyqMHMYtTmbyn.png" group-title="TV | Nasional Digital",MNC TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXKymrctowp7jeAysaiGBDH.png" group-title="TV | Nasional Digital",GTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWqIwcT3UuSE7f-LqqGtJuL.png" group-title="TV | Nasional Digital",Indosiar
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXePR6dCqI1ieFDoBWsqOE2.png" group-title="TV | Nasional Digital",SCTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW0k1lN1GyJ1QNR3Fx0coc4.png" group-title="TV | Nasional Digital",Moji
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeU_siUIkdyypeIT-wBh4-Ve.png" group-title="TV | Nasional Digital",Trans 7
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/33.m3u8
+#EXTINF:-1 tvg-id="TRANS TV.id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXCgoQUDpgywY_WHu2HE8a9.png" group-title="TV | Nasional Digital",Trans TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVuJK-EcQJSIx-uMsJyOiTF.png" group-title="TV | Nasional Digital",MD TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUTdtCVdphG_Ap_2WDQXAI4.png" group-title="TV | Nasional Digital",ANTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWsMqoUgffu2oUeWHwM00N2.png" group-title="TV | Nasional Digital",TV One
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWSKkh-UgVPkELSIcqmIQZ3IxMj4-XnLijK1OIO-9W2dg.png" group-title="TV | Nasional Digital",Mentari TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXwsElZxzPiYvU0iV008Kp4.png" group-title="TV | Nasional Digital",RTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nasional" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="TV | Nasional Digital",TVRI Nasional
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garuda TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX00XFjMIh1uOUoRTIFynki.png" group-title="TV | Nasional Digital",Garuda TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXa7WQJjYiUdycpkBN02ITYosFfzUfvPqy2VNYF9WlcNw.png" group-title="TV | Nasional Digital",Kompas TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVWjOAkAnhD120ZBxQ1_iYm.png" group-title="TV | Nasional Digital",Metro TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXdA3lFMU1LkMHdCCaMbldo.png" group-title="TV | Nasional Digital",iNews
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXovchXVYo3xh4JNII73_52BpO8Jo68R1RxwXzUt4Hp6A.png" group-title="TV | Nasional Digital",CNN Indonesia
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="TV | Nasional Digital",BN Channel
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXgBrn2EADs862K6G_HpFhO.png" group-title="TV | Nasional Digital",BTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUz42JIAnARoDTS-wNXiOu6TEihW1mwVGQeYNjRfdVbNQ.png" group-title="TV | Nasional Digital",CNBC Indonesia
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inspira TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWvmh9rzor86CeXQIt6F5-p0Q1FRXmq2RNp8-I1l8W_2A.png" group-title="TV | Nasional Digital",Inspira TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVg7zq5i4UQ67SPRk0ANV02.png" group-title="TV | Nasional Digital",JAK TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jawapos TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWxzXy8H5rQO96d3inU26VNY_lHny3j9nLOeEOQN_0onQ.png" group-title="TV | Nasional Digital",Jawapos TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV1vZsVf-f2cqCVh8ddizPJ.png" group-title="TV | Nasional Digital",KTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX3ZzaL9GdnwoRIfSap7ZpD.png" group-title="TV | Nasional Digital",Magna Channel
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republika TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXbGEoTYfqGZ9EO7lgiDggA3R_OP0rNr5Y_XfDsD7tbHg.png" group-title="TV | Nasional Digital",Republika TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUUo0ja3jVbg-9HdRugsnXg.png" group-title="TV | Nasional Digital",Rodja TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smile TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVABxsTyveuSc7W_5IhEmx6.png" group-title="TV | Nasional Digital",Smile TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUBXpzLPYOXE2SldzG_3zJu.png" group-title="TV | Nasional Digital",UGTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWlyPFzad6bJiDv9udvUNni.png" group-title="TV | Nasional Digital",VTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/40.m3u8
+
+
+============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> Indonesia TV
 ============================================================================================================================================================
 
