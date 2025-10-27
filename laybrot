@@ -6188,6 +6188,37 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX1EcJm7c1XVvpSQKrQLmdj.png" group-title="SPORTS | Extra Vip 2",ASSP 4
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/123.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS | Extra Vip 2",ASTRO ARENA
+http://51.89.166.17:3002/index.php?id=Arena
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS | Extra Vip 2",ASTRO ARENA 2
+http://51.89.166.17:3002/index.php?id=Arena2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS | Extra Vip 2",BOLA ARENA 1
+http://51.89.166.17:3002/index.php?id=Bolaarena1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS | Extra Vip 2",BOLA ARENA 2
+http://51.89.166.17:3002/index.php?id=Bolaarena2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS | Extra Vip 2",ASTRO PREMIER LEAGUE
+http://51.89.166.17:3002/index.php?id=go_assp1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS | Extra Vip 2",ASTRO PREMIER LEAGUE 2
+http://51.89.166.17:3002/index.php?id=go_assp2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS | Extra Vip 2",ASTRO GRANDSTAND
+http://51.89.166.17:3002/index.php?id=go_assp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS | Extra Vip 2",ASTRO FOOTBALL
+http://51.89.166.17:3002/index.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | Extra Vip 2",ASTRO SPORTSPLUS
+http://51.89.166.17:3002/index.php?id=go_sportsplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS | Extra Vip 2",NBA TV
+http://51.89.166.17:3002/index.php?id=Nba
+http://51.89.166.17:3002/index.php?id=nbatv
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS | Extra Vip 2",ASTRO CRICKET
+http://51.89.166.17:3002/index.php?id=Acricket
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Acricket/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS | Extra Vip 2",ASTRO GOLF
+http://51.89.166.17:3002/index.php?id=Agolf
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="SPORTS | Extra Vip 2",Astro Badminton
+http://51.89.166.17:3002/index.php?id=go_badminton1
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BADMINTON 2 FHD" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="SPORTS | Extra Vip 2", Astro Badminton 2
+http://51.89.166.17:3002/index.php?id=go_badminton2
+
 #EXTINF:-1 tvg-id="" tvg-name="First Warrior" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW5p4nowjYcfLeGEbna--0ALufwsgNS5li9LWTC6xKk9Q.png" group-title="SPORTS | Extra Vip 2", First Warrior
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWrvyxsP03N2xH04DtQ7QU5sjESAIHfLCUCOVCWAT0mrg.png" group-title="SPORTS | Extra Vip 2",SPO TV 1 ID
