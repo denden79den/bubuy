@@ -6288,6 +6288,27 @@ http://b1g.uk:80/200/230/697051
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" group-title="SPORTS | Extra Vip 3",TNT Sports 5 FHD
 http://b1g.uk:80/200/230/697062
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 (ES)" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="SPORTS | Extra Vip 3",DAZN 1 (ES)
+http://panel.sulu1.cc:2052/travis1/travis1/36793
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 (ES)" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="SPORTS | Extra Vip 3",DAZN 2 (ES)
+http://panel.sulu1.cc:2052/travis1/travis1/36792
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 (ES)" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="SPORTS | Extra Vip 3",DAZN 3 (ES)
+http://panel.sulu1.cc:2052/travis1/travis1/36791
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 (ES)" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" group-title="SPORTS | Extra Vip 3",DAZN 4 (ES)
+http://panel.sulu1.cc:2052/travis1/travis1/36790
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 (ES)" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1675692164000&quality=70" group-title="SPORTS | Extra Vip 3",DAZN F1 (ES)
+http://panel.sulu1.cc:2052/travis1/travis1/36789
+
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" tvg-name="Hub Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="SPORTS | Extra Vip 3",Hub Sports 1
+http://panel.sulu1.cc:2052/travis1/travis1/17479
+#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" tvg-name="Hub Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="SPORTS | Extra Vip 3",Hub Sports 2
+http://panel.sulu1.cc:2052/travis1/travis1/17478
+#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" tvg-name="Hub Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="SPORTS | Extra Vip 3",Hub Sports 3
+http://panel.sulu1.cc:2052/travis1/travis1/17477
+#EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg" tvg-name="Hub Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="SPORTS | Extra Vip 3",Hub Sports 4
+http://panel.sulu1.cc:2052/travis1/travis1/17476
+#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg" tvg-name="Hub Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="SPORTS | Extra Vip 3",Hub Sports 5
+http://panel.sulu1.cc:2052/travis1/travis1/17475
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> EVENT | VOLLY VNL
