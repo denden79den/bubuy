@@ -6761,4 +6761,28 @@ http://b1g.uk:80/200/230/709251
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name=" SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Go AstroSport", SPOTV 2 FHD
 http://b1g.uk:80/200/230/709250
 
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> NZ Sky Sport
++============================================================================================================================================================
 
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport1.nz" tvg-name=" Sky Sport 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-1.png" group-title="SPORTS | NZ Sky Sport", Sky Sport 1
+http://b1g.uk:80/200/230/696472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport2.nz" tvg-name=" Sky Sport 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-2.png" group-title="SPORTS | NZ Sky Sport", Sky Sport 2
+http://b1g.uk:80/200/230/696473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport3.nz" tvg-name=" Sky Sport 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-3.png" group-title="SPORTS | NZ Sky Sport", Sky Sport 3
+http://b1g.uk:80/200/230/696474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport4.nz" tvg-name=" Sky Sport 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-4.png" group-title="SPORTS | NZ Sky Sport", Sky Sport 4
+http://b1g.uk:80/200/230/696475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport5.nz" tvg-name=" Sky Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-5.png" group-title="SPORTS | NZ Sky Sport", Sky Sports 5
+http://b1g.uk:80/200/230/696476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport6.nz" tvg-name=" Sky Sports 6" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-SKy-Sports-6.png" group-title="SPORTS | NZ Sky Sport", Sky Sports 6
+http://b1g.uk:80/200/230/696477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport7.nz" tvg-name=" Sky Sports 7" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-7.png" group-title="SPORTS | NZ Sky Sport", Sky Sports 7
+http://b1g.uk:80/200/230/696478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportPremierLeague.nz" tvg-name=" Sky Sports 8" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZSkySportsPL.png" group-title="SPORTS | NZ Sky Sport", Sky Sports 8
+http://b1g.uk:80/200/230/696479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySport9.nz" tvg-name=" Sky Sports 9" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-9.png" group-title="SPORTS | NZ Sky Sport", Sky Sports 9
+http://b1g.uk:80/200/230/696480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportSelect.nz" tvg-name=" Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sport", Sky Sports Select
+http://b1g.uk:80/200/230/697715
