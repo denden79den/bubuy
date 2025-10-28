@@ -6541,9 +6541,6 @@ http://b1g.uk/200/230/625421
 #EXTINF:-1 group-title="SPORT | Hongkong" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS5.sg" , SG beIN Sports 5
 http://b1g.uk/200/230/625420
 
-
-
-
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> India
 ============================================================================================================================================================
@@ -6573,4 +6570,50 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect1.m3u
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5C2SMpf5zPuGfVbAnlHvQZf4-V2j-lHaWsX9e4EgNcAOe0xgZI9LNYIdB&s=10" group-title="SPORT | India", TEN SPORT
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Tensport.m3u8
+
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> DSTV SUPERSPORT
+============================================================================================================================================================
+
+#EXTM3U
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name=" SUPERSPORT CRICKET " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORT CRICKET 
+https://livebox.pro:443/live/565trail724/6655447788/157939.m3u8
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name=" SUPERSPORTS PREMIER LEAGUE " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS PREMIER LEAGUE 
+https://livebox.pro:443/live/565trail724/6655447788/157940.m3u8
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name=" SUPERSPORTS LALIGA " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS LALIGA 
+https://livebox.pro:443/live/565trail724/6655447788/157941.m3u8
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name=" SUPERSPORTS FOOTBALL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS FOOTBALL 
+https://livebox.pro:443/live/565trail724/6655447788/157942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" SUPERSPORTS FOOTBALL PLUS " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS FOOTBALL PLUS 
+https://livebox.pro:443/live/565trail724/6655447788/157943.m3u8
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name=" SUPERSPORTS PSL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS PSL 
+https://livebox.pro:443/live/565trail724/6655447788/157944.m3u8
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name=" SuperSport Rugby " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="SPORTS | DSTV SUPER", SuperSport Rugby 
+https://livebox.pro:443/live/565trail724/6655447788/157945.m3u8
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name=" SuperSport Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="SPORTS | DSTV Supersport", SuperSport Golf 
+https://livebox.pro:443/live/565trail724/6655447788/157946.m3u8
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name=" SUPER MOTORSPORT " tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="SPORTS | DSTV Supersport", SUPER MOTORSPORT 
+https://livebox.pro:443/live/565trail724/6655447788/157947.m3u8
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name=" SuperSport Action " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SPORTS | DSTV Supersport", SuperSport Action 
+https://livebox.pro:443/live/565trail724/6655447788/157948.m3u8
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name=" SuperSport Tennis " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="SPORTS | DSTV Supersport", SuperSport Tennis 
+https://livebox.pro:443/live/565trail724/6655447788/157949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPER SPORT LIYU " tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television-thumbnail.png" group-title="SPORTS | DSTV Supersport",DSTV: SUPER SPORT LIYU 
+https://livebox.pro:443/live/565trail724/6655447788/157950.m3u8
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name=" SUPERSPORTS VARIETY 1  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS VARIETY 1  
+https://livebox.pro:443/live/565trail724/6655447788/157951.m3u8
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name=" SUPERSPORTS VARIETY 2 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS VARIETY 2 
+https://livebox.pro:443/live/565trail724/6655447788/157952.m3u8
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name=" SUPERSPORTS VARIETY 3  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS VARIETY 3  
+https://livebox.pro:443/live/565trail724/6655447788/157953.m3u8
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name=" SUPERSPORTS VARIETY 4 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SPORTS | DSTV Supersport", SUPERSPORTS VARIETY 4 
+https://livebox.pro:443/live/565trail724/6655447788/157954.m3u8
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name=" Supersport blitz " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="SPORTS | DSTV Supersport", Supersport blitz 
+https://livebox.pro:443/live/565trail724/6655447788/157955.m3u8
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV: Maximo 1 Champions " tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV Supersport",DSTV: Maximo 1 Champions 
+https://livebox.pro:443/live/565trail724/6655447788/157956.m3u8
+#EXTINF:-1 tvg-id="espn.za" tvg-name="DSTV: ESPN " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="SPORTS | DSTV Supersport",DSTV: ESPN 
+https://livebox.pro:443/live/565trail724/6655447788/157959.m3u8
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="DSTV: ESPN 2 " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="SPORTS | DSTV Supersport",DSTV: ESPN 2 
+https://livebox.pro:443/live/565trail724/6655447788/157960.m3u8
 
