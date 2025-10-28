@@ -6189,7 +6189,7 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/27844.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name=" SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="SPORTS | Extra Vip 3", SONY SPORTS 1 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/154.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY Ten 2 HD" tvg-logo="http://starapk1.com/logo/football.png" group-title="FOOTBALL",SONY Ten 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY Ten 2 HD" tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | Extra Vip 3",SONY Ten 2 HD
 https://livebox.pro:443/live/565trail724/6655447788/192.ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name=" SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="SPORTS | Extra Vip 3", SONY SPORTS 2 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/31314.ts
@@ -6214,7 +6214,7 @@ https://livebox.pro:443/live/565trail724/6655447788/158897.ts
 
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name=" TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS | Extra Vip 3", TNT SPORTS 1 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/186627.ts
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2" tvg-logo="http://greenpa1.com/tntsports.png" group-title="FSPORTS | Extra Vip 3",TNT SPORT 2
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2" tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS | Extra Vip 3",TNT SPORT 2
 https://livebox.pro:443/live/565trail724/6655447788/285.ts
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name=" TNT SPORTS 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="SPORTS | Extra Vip 3", TNT SPORTS 3 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/148090.ts
@@ -6728,7 +6728,7 @@ https://livebox.pro:443/live/565trail724/6655447788/157960.ts
 http://b1g.uk:80/200/230/699625
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K2.hk" tvg-name=" Now HK Sports 4K 2 UHD" tvg-logo="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXnxeLgJvyxvq7TMFRr6T0afcdi8rDR9PzHipX8J9uLFgW7c61Q3CLK9WI-e3x9y8JYw.png" group-title="SPORTS | Now HK Singapore", Now HK Sports 4K 2 UHD
 http://b1g.uk:80/200/230/933973
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="LIVE | EPL Hub",EPL | Now Sports 4K
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | Now HK Singapore", Now Sports 4K
 http://b1g.uk:80/200/230/174942
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1.hk" tvg-name=" Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="SPORTS | Now HK Singapore", Now HK Premier Sports 1
 http://b1g.uk:80/200/230/35915
