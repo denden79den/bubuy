@@ -4474,7 +4474,7 @@ https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 // Collected by @DenTV menampilkan playlist >>> SPORT VISION+ TV
 ============================================================================================================================================================
 
-#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/tvrisport.jpg?raw=true" group-title="SPORTS | Vision+",TVRI SPORT
+#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS | Vision+",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
