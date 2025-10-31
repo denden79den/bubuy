@@ -2294,8 +2294,9 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/28.m3u8
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUBXpzLPYOXE2SldzG_3zJu.png" group-title="TV | Nasional Digital",UGTV
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWlyPFzad6bJiDv9udvUNni.png" group-title="TV | Nasional Digital",VTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWlyPFzad6bJiDv9udvUNni.png" group-title="TV | Nasional Digital",VTV OK
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/40.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stupid/refs/heads/main/VTV.m3u8
 
 
 ============================================================================================================================================================
