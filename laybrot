@@ -3554,28 +3554,36 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/B
 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORTS | Vip 1",SONY TEN 1 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten1.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten1.m3u8
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/215362.m3u8
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORTS | Vip 1",SONY TEN 2 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten2.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten2.m3u8
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/215377.m3u8
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORTS | Vip 1",SONY TEN 3 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten3.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten3.m3u8
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/215335.m3u8
 
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 HD.in" tvg-name="SONY TEN 4 HD" tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="SPORTS | Vip 1",SONY TEN 4 HD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten4.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten4.m3u8
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/215639.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="SONY TEN 5 FHD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="SPORTS | Vip 1",SONY TEN 5 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORTS | Vip 1",TNT Sports 1 
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/147028
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORTS | Vip 1",TNT Sports 2 
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/147029
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="SPORTS | Vip 1",TNT Sports 3 
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/147030
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="SPORTS | Vip 1",TNT Sports 4
-http://viphlvp.xyz:8080/VIP0126172480506280/gg96zqvpni7b/147031
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
+
 #EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="NL ▎ZIGGO SPORT HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport.png" group-title="SPORTS | Vip 1",ZIGGO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
