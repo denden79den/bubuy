@@ -5197,3 +5197,33 @@ http://b1g.uk:80/200/230/696479
 http://b1g.uk:80/200/230/696480
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportSelect.nz" tvg-name=" Sky Sports Select" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | NZ Sky Sport", Sky Sports Select
 http://b1g.uk:80/200/230/697715
+
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> WWE CHANNEL
++============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK  HD" tvg-logo="" group-title="SPORTS | WWE & Smackdown",WWE NETWORK  HD
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="" group-title="SPORTS | WWE & Smackdown",UFC TV
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/99629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="SPORTS | WWE & Smackdown",Smackdown 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="SPORTS | WWE & Smackdown",Smackdown 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smackdown 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10375423694237.png" group-title="SPORTS | WWE & Smackdown",Smackdown 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="SPORTS | WWE & Smackdown",Nxt 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="SPORTS | WWE & Smackdown",Nxt 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nxt 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10826014619735.png" group-title="SPORTS | WWE & Smackdown",Nxt 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raw 1 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="SPORTS | WWE & Smackdown",Raw 1 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raw 2 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="SPORTS | WWE & Smackdown",Raw 2 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raw 3 " tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10329448166304.png" group-title="SPORTS | WWE & Smackdown",Raw 3 
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/58386.m3u8
+
+
+
