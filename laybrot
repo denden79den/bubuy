@@ -4795,6 +4795,11 @@ http://aromatv.co:80/live/Enjy3637/4JFEBAs359/477238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/STARZPLAY.png" group-title="EVENT | Liga Seri A Italy", Serie A3
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/477241.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/STARZPLAY.png" group-title="EVENT | Liga Seri A Italy", Serie A4
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/lligaitali3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/STARZPLAY.png" group-title="EVENT | Liga Seri A Italy", Serie A5
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/lligaitali7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/tringsport1.png" group-title="EVENT | Liga Seri A Italy",TRING SPORT 1
 ##http://vipvahz.top:8080/VIP011191747077438446/b3e32221a3fa/129299
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Albania/tring1.m3u8
