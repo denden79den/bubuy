@@ -3454,23 +3454,32 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 ============================================================================================================================================================
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 1 
-https://livebox.pro:443/live/565trail724/6655447788/274122.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274122.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/463474.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 2 
-https://livebox.pro:443/live/565trail724/6655447788/274123.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274123.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/19142.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 3 
-https://livebox.pro:443/live/565trail724/6655447788/274124.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274124.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/19143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 4 
-https://livebox.pro:443/live/565trail724/6655447788/274125.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274125.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/19144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 5 
-https://livebox.pro:443/live/565trail724/6655447788/274126.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274126.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/19145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 6 
-https://livebox.pro:443/live/565trail724/6655447788/274127.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274127.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/19146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 7 
-https://livebox.pro:443/live/565trail724/6655447788/274128.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274128.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/358721.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 8 
-https://livebox.pro:443/live/565trail724/6655447788/274129.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274129.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/358722.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS | BeinSport 2",beIN SPORTS 9 
-https://livebox.pro:443/live/565trail724/6655447788/274130.ts
+##https://livebox.pro:443/live/565trail724/6655447788/274130.ts
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/369102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="SPORTS | BeinSport 2",beIN Sport EXTRA 1 
 https://livebox.pro:443/live/565trail724/6655447788/274131.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="SPORTS | BeinSport 2",beIN Sport EXTRA 2 
