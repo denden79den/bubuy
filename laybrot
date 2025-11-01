@@ -3551,6 +3551,14 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/B
 // Collected by @DenTV menampilkan playlist >>> SPORTS VIP 1
 ============================================================================================================================================================
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name=" Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Vip 1", Astro Premier League 1 FHD
+http://xtvplayer.top:8080/waleed7788/waleed4455/352087
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name=" Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Vip 1", Astro Premier League 2 FHD
+http://xtvplayer.top:8080/waleed7788/waleed4455/352088
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Vip 1", Astro Grandstand FHD
+http://xtvplayer.top:8080/waleed7788/waleed4455/352089
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name=" Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Vip 1", Astro Football FHD
+http://xtvplayer.top:8080/waleed7788/waleed4455/352090
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORTS | Vip 1",SONY TEN 1 FHD
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten1.m3u8
